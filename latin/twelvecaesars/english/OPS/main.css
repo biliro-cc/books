@@ -1,0 +1,229 @@
+body {
+	line-height: 1.2;
+}
+
+/* images */
+div.floatright {
+	float: right;
+	clear: right;
+	position: relative;
+	margin: 0.5em 0 0.8em 1.4em;
+}
+
+div.floatleft {
+	float: left;
+	clear: left;
+	position: relative;
+	margin: 0.5em 1.4em 0.8em 0;
+}
+
+.center {
+	width: 100%;
+	text-align: center;
+}
+
+.center * {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.thumbcaption {
+	text-align: left;
+	font-size: 95%;
+}
+
+div.tright {
+	float: right;
+	clear: right;
+	margin: 0.5em 0 0.8em 1.4em;
+}
+
+div.tleft {
+	float: left;
+	clear: left;
+	margin: 0.5em 1.4em 0.8em 0;
+}
+
+.small {
+	font-size: 94%;
+}
+
+/* This stylesheet affects the style used for ePub export via wsexport. */
+
+.mw-parser-output {
+	text-align: justify; /* most text is justified */
+}
+
+/*
+ * Used for centered images
+ *
+ * Copies site-global CSS in load.php
+ */
+.center {
+	width: 100%;
+	text-align: center;
+}
+.center * {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* 
+ * Left/right-floated images
+ * e.g. [[File:Foo.jpg|left]]
+ */
+.floatleft {
+	float: left;
+	clear: left;
+}
+.floatright {
+	float: right;
+	clear: right;
+}
+
+/* centered image */
+.mw-halign-center {
+	display: table;
+	margin: auto;
+}
+
+.tiInherit,
+/* this one is to override some e-readers' own "helpful" CSS */
+.tiInherit p {
+	text-indent: inherit;
+}
+
+/*
+ * Force images to fit in their containers.
+ * Specifically, this is to avoid them extending off the page
+ */
+.content a > img,
+.content noscript > img {
+  max-width:100% !important;
+  height:auto !important
+}
+
+/*
+ * Parsoid vertical alignment classes
+ */
+.mw-valign-middle {
+  vertical-align: middle;
+}
+.mw-valign-baseline {
+  vertical-align: baseline;
+}
+.mw-valign-sub {
+  vertical-align: sub;
+}
+.mw-valign-super {
+  vertical-align: super;
+}
+.mw-valign-top {
+  vertical-align: top;
+}
+.mw-valign-text-top {
+  vertical-align: text-top;
+}
+.mw-valign-bottom {
+  vertical-align: bottom;
+}
+.mw-valign-text-bottom {
+  vertical-align: text-bottom;
+}
+
+/*
+ * Sidenotes
+ */
+.wst-sidenote-right,
+.wst-sidenote-left {
+  margin:0.5em;
+  padding:3px;
+  max-width:9em;
+  text-indent:0;
+  text-align:left;
+}
+
+.wst-sidenote-right {
+   float:right;
+}
+
+.wst-sidenote-left{
+  float:left;
+}
+
+/*
+ * Use the same formatting choices as on-wiki for consistency
+ */
+dt {
+  font-weight: bold;
+  margin-bottom: 0.1em;
+}
+
+/**
+ * Remove this forced background color as the dots are not exported
+ */
+.toc-line-entry-text {
+	background: transparent !important;
+}
+
+/* Prevent huge DHR's which usually result in content disappearing over page
+ * breaks */
+.wst-dhr {
+	line-height: 100% !important;
+}
+
+/* Make sure tables fit on the page (even if a manual size if set) */
+/* and generally avoid breaking in the middle of them */
+table {
+	max-width: 100%;
+	break-inside: avoid;
+}
+
+/*
+ * Centre table header like on-wiki 
+ */
+table caption {
+	text-align: center;
+}
+
+/*
+ * The double-float for the drop initials works for the margins on the inner
+ * initial, but it trips up some Epub engine, so nerf it for now.
+ * Eventually, the margins on {{di}} should be set on the top element and this
+ * will be easier.
+ */
+.ws-poem-hi span.dropinitial-initial {
+	float:none;
+}
+
+/*
+ * Disable "helpful" auto-indents for poems in some e-readers
+ * (note: this means using <poem> is better than <br/>, which has no semantic
+ * content and can't be used to target this styling)
+ */
+.poem, .poem p {
+	text-indent: 0;
+}
+
+/*
+ * Disable the indented-page pagenumber margin styles
+ */
+.indented-page, .prose {
+	margin: inherit;
+	padding: inherit;
+}
+
+/* This generally doesn't export well, so fall back on the inner em-dashes
+ * revisit this if it can be improved in readers */
+.wst-bar-inner {
+	color: inherit !important;
+}
+.wst-bar {
+	text-decoration: inherit !important;
+}
+
+/* normally this would not be included anyway as exports don't come from the page NS,
+ * but sometimes it's useful to do so when debugging EPUBs */
+.prp-page-qualityheader {
+	display: none;
+}

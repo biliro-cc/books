@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+			<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+				<head>
+					<meta name="dtb:uid" content="https://en.wikisource.org/wiki/The_Lives_of_the_Twelve_Caesars" />
+					<meta name="dtb:depth" content="1" />
+					<meta name="dtb:totalPageCount" content="0" />
+					<meta name="dtb:maxPageNumber" content="0" />
+				</head>
+				<docTitle><text>The Lives of the Twelve Caesars</text></docTitle>
+				<docAuthor><text>Suetonius</text></docAuthor>
+				<navMap>
+					<navPoint id="title" playOrder="1">
+						<navLabel><text>Title page</text></navLabel>
+						<content src="title.xhtml"/>
+					</navPoint><navPoint id="c0_The_Lives_of_the_Twelve_Caesars" playOrder="2">
+						    <navLabel><text>The Lives of the Twelve Caesars</text></navLabel>
+						    <content src="c0_The_Lives_of_the_Twelve_Caesars.xhtml" />
+					    </navPoint><navPoint id="c1_The_Lives_of_the_Twelve_Caesars_Julius_Caesar" playOrder="3">
+									    <navLabel><text>Julius Caesar</text></navLabel>
+									    <content src="c1_The_Lives_of_the_Twelve_Caesars_Julius_Caesar.xhtml" /></navPoint><navPoint id="c2_The_Lives_of_the_Twelve_Caesars_Augustus" playOrder="4">
+									    <navLabel><text>Augustus</text></navLabel>
+									    <content src="c2_The_Lives_of_the_Twelve_Caesars_Augustus.xhtml" /></navPoint><navPoint id="c3_The_Lives_of_the_Twelve_Caesars_Tiberius" playOrder="5">
+									    <navLabel><text>Tiberius</text></navLabel>
+									    <content src="c3_The_Lives_of_the_Twelve_Caesars_Tiberius.xhtml" /></navPoint><navPoint id="c4_The_Lives_of_the_Twelve_Caesars_Caligula" playOrder="6">
+									    <navLabel><text>Caligula</text></navLabel>
+									    <content src="c4_The_Lives_of_the_Twelve_Caesars_Caligula.xhtml" /></navPoint><navPoint id="c5_The_Lives_of_the_Twelve_Caesars_Claudius" playOrder="7">
+									    <navLabel><text>Claudius</text></navLabel>
+									    <content src="c5_The_Lives_of_the_Twelve_Caesars_Claudius.xhtml" /></navPoint><navPoint id="c6_The_Lives_of_the_Twelve_Caesars_Nero" playOrder="8">
+									    <navLabel><text>Nero</text></navLabel>
+									    <content src="c6_The_Lives_of_the_Twelve_Caesars_Nero.xhtml" /></navPoint><navPoint id="c7_The_Lives_of_the_Twelve_Caesars_Galba" playOrder="9">
+									    <navLabel><text>Galba</text></navLabel>
+									    <content src="c7_The_Lives_of_the_Twelve_Caesars_Galba.xhtml" /></navPoint><navPoint id="c8_The_Lives_of_the_Twelve_Caesars_Otho" playOrder="10">
+									    <navLabel><text>Otho</text></navLabel>
+									    <content src="c8_The_Lives_of_the_Twelve_Caesars_Otho.xhtml" /></navPoint><navPoint id="c9_The_Lives_of_the_Twelve_Caesars_Vitellius" playOrder="11">
+									    <navLabel><text>Vitellius</text></navLabel>
+									    <content src="c9_The_Lives_of_the_Twelve_Caesars_Vitellius.xhtml" /></navPoint><navPoint id="c10_The_Lives_of_the_Twelve_Caesars_Vespasian" playOrder="12">
+									    <navLabel><text>Vespasian</text></navLabel>
+									    <content src="c10_The_Lives_of_the_Twelve_Caesars_Vespasian.xhtml" /></navPoint><navPoint id="c11_The_Lives_of_the_Twelve_Caesars_Titus" playOrder="13">
+									    <navLabel><text>Titus</text></navLabel>
+									    <content src="c11_The_Lives_of_the_Twelve_Caesars_Titus.xhtml" /></navPoint><navPoint id="c12_The_Lives_of_the_Twelve_Caesars_Domitian" playOrder="14">
+									    <navLabel><text>Domitian</text></navLabel>
+									    <content src="c12_The_Lives_of_the_Twelve_Caesars_Domitian.xhtml" /></navPoint><navPoint id="about" playOrder="15">
+						<navLabel>
+							<text>About</text>
+						</navLabel>
+						<content src="about.xhtml"/>
+					</navPoint>
+			       </navMap>
+			</ncx>

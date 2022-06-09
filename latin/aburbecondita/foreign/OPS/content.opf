@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="la" prefix="cc: http://creativecommons.org/ns#">
+			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">https://la.wikisource.org/wiki/Ab_Urbe_Condita</dc:identifier>
+    <meta property="dcterms:modified">2022-06-09T05:59:34Z</meta>
+    <dc:language>la</dc:language>
+    <dc:title id="meta-title">Ab Urbe Condita</dc:title>
+    <meta refines="#meta-title" property="title-type">main</meta>
+    <dc:source>https://la.wikisource.org/wiki/Ab_Urbe_Condita</dc:source>
+    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html"/>
+    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta>
+    <dc:creator id="meta-aut">Titus Livius</dc:creator>
+    <meta refines="#meta-aut" property="role" scheme="marc:relators">aut</meta>
+    <dc:date>saeculo I AD</dc:date>
+    <meta name="cover" content="title"/>
+  </metadata>
+			     <manifest>
+				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+				    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/><item id="title" href="title.xhtml" media-type="application/xhtml+xml"/>
+				    <item id="mainCss" href="main.css" media-type="text/css"/><item id="Accueil_scribe.png" href="images/Accueil_scribe.png" media-type="image/png"/><item id="c0_Ab_Urbe_Condita" href="c0_Ab_Urbe_Condita.xhtml" media-type="application/xhtml+xml"/>
+<item id="c1_Ab_Urbe_Condita_Praefatio" href="c1_Ab_Urbe_Condita_Praefatio.xhtml" media-type="application/xhtml+xml"/>
+<item id="c2_Ab_Urbe_Condita_liber_I" href="c2_Ab_Urbe_Condita_liber_I.xhtml" media-type="application/xhtml+xml"/>
+<item id="c3_Ab_Urbe_Condita_liber_II" href="c3_Ab_Urbe_Condita_liber_II.xhtml" media-type="application/xhtml+xml"/>
+<item id="c4_Ab_Urbe_Condita_liber_III" href="c4_Ab_Urbe_Condita_liber_III.xhtml" media-type="application/xhtml+xml"/>
+<item id="c5_Ab_Urbe_Condita_liber_IV" href="c5_Ab_Urbe_Condita_liber_IV.xhtml" media-type="application/xhtml+xml"/>
+<item id="c6_Ab_Urbe_Condita_liber_V" href="c6_Ab_Urbe_Condita_liber_V.xhtml" media-type="application/xhtml+xml"/>
+<item id="c7_Ab_Urbe_Condita_liber_VI" href="c7_Ab_Urbe_Condita_liber_VI.xhtml" media-type="application/xhtml+xml"/>
+<item id="c8_Ab_Urbe_Condita_liber_VII" href="c8_Ab_Urbe_Condita_liber_VII.xhtml" media-type="application/xhtml+xml"/>
+<item id="c9_Ab_Urbe_Condita_liber_VIII" href="c9_Ab_Urbe_Condita_liber_VIII.xhtml" media-type="application/xhtml+xml"/>
+<item id="c10_Ab_Urbe_Condita_liber_IX" href="c10_Ab_Urbe_Condita_liber_IX.xhtml" media-type="application/xhtml+xml"/>
+<item id="c11_Ab_Urbe_Condita_liber_X" href="c11_Ab_Urbe_Condita_liber_X.xhtml" media-type="application/xhtml+xml"/>
+<item id="c12_Ab_Urbe_Condita_liber_XXI" href="c12_Ab_Urbe_Condita_liber_XXI.xhtml" media-type="application/xhtml+xml"/>
+<item id="c13_Ab_Urbe_Condita_liber_XXII" href="c13_Ab_Urbe_Condita_liber_XXII.xhtml" media-type="application/xhtml+xml"/>
+<item id="c14_Ab_Urbe_Condita_liber_XXIII" href="c14_Ab_Urbe_Condita_liber_XXIII.xhtml" media-type="application/xhtml+xml"/>
+<item id="c15_Ab_Urbe_Condita_liber_XXIV" href="c15_Ab_Urbe_Condita_liber_XXIV.xhtml" media-type="application/xhtml+xml"/>
+<item id="c16_Ab_Urbe_Condita_liber_XXV" href="c16_Ab_Urbe_Condita_liber_XXV.xhtml" media-type="application/xhtml+xml"/>
+<item id="c17_Ab_Urbe_Condita_liber_XXVI" href="c17_Ab_Urbe_Condita_liber_XXVI.xhtml" media-type="application/xhtml+xml"/>
+<item id="c18_Ab_Urbe_Condita_liber_XXVII" href="c18_Ab_Urbe_Condita_liber_XXVII.xhtml" media-type="application/xhtml+xml"/>
+<item id="c19_Ab_Urbe_Condita_liber_XXVIII" href="c19_Ab_Urbe_Condita_liber_XXVIII.xhtml" media-type="application/xhtml+xml"/>
+<item id="c20_Ab_Urbe_Condita_liber_XXIX" href="c20_Ab_Urbe_Condita_liber_XXIX.xhtml" media-type="application/xhtml+xml"/>
+<item id="c21_Ab_Urbe_Condita_liber_XXX" href="c21_Ab_Urbe_Condita_liber_XXX.xhtml" media-type="application/xhtml+xml"/>
+<item id="c22_Ab_Urbe_Condita_liber_XXXI" href="c22_Ab_Urbe_Condita_liber_XXXI.xhtml" media-type="application/xhtml+xml"/>
+<item id="c23_Ab_Urbe_Condita_liber_XXXII" href="c23_Ab_Urbe_Condita_liber_XXXII.xhtml" media-type="application/xhtml+xml"/>
+<item id="c24_Ab_Urbe_Condita_liber_XXXIII" href="c24_Ab_Urbe_Condita_liber_XXXIII.xhtml" media-type="application/xhtml+xml"/>
+<item id="c25_Ab_Urbe_Condita_liber_XXXIV" href="c25_Ab_Urbe_Condita_liber_XXXIV.xhtml" media-type="application/xhtml+xml"/>
+<item id="c26_Ab_Urbe_Condita_liber_XXXV" href="c26_Ab_Urbe_Condita_liber_XXXV.xhtml" media-type="application/xhtml+xml"/>
+<item id="c27_Ab_Urbe_Condita_liber_XXXVI" href="c27_Ab_Urbe_Condita_liber_XXXVI.xhtml" media-type="application/xhtml+xml"/>
+<item id="c28_Ab_Urbe_Condita_liber_XXXVII" href="c28_Ab_Urbe_Condita_liber_XXXVII.xhtml" media-type="application/xhtml+xml"/>
+<item id="c29_Ab_Urbe_Condita_liber_XXXVIII" href="c29_Ab_Urbe_Condita_liber_XXXVIII.xhtml" media-type="application/xhtml+xml"/>
+<item id="c30_Ab_Urbe_Condita_liber_XXXIX" href="c30_Ab_Urbe_Condita_liber_XXXIX.xhtml" media-type="application/xhtml+xml"/>
+<item id="c31_Ab_Urbe_Condita_liber_XL" href="c31_Ab_Urbe_Condita_liber_XL.xhtml" media-type="application/xhtml+xml"/>
+<item id="c32_Ab_Urbe_Condita_liber_XLI" href="c32_Ab_Urbe_Condita_liber_XLI.xhtml" media-type="application/xhtml+xml"/>
+<item id="c33_Ab_Urbe_Condita_liber_XLII" href="c33_Ab_Urbe_Condita_liber_XLII.xhtml" media-type="application/xhtml+xml"/>
+<item id="c34_Ab_Urbe_Condita_liber_XLIII" href="c34_Ab_Urbe_Condita_liber_XLIII.xhtml" media-type="application/xhtml+xml"/>
+<item id="c35_Ab_Urbe_Condita_liber_XLIV" href="c35_Ab_Urbe_Condita_liber_XLIV.xhtml" media-type="application/xhtml+xml"/>
+<item id="c36_Ab_Urbe_Condita_liber_XLV" href="c36_Ab_Urbe_Condita_liber_XLV.xhtml" media-type="application/xhtml+xml"/>
+<item id="about" href="about.xhtml" media-type="application/xhtml+xml"/>
+			     </manifest>
+			     <spine toc="ncx"><itemref idref="title" linear="yes"/><itemref idref="c0_Ab_Urbe_Condita" linear="yes"/><itemref idref="c1_Ab_Urbe_Condita_Praefatio" linear="yes"/><itemref idref="c2_Ab_Urbe_Condita_liber_I" linear="yes"/><itemref idref="c3_Ab_Urbe_Condita_liber_II" linear="yes"/><itemref idref="c4_Ab_Urbe_Condita_liber_III" linear="yes"/><itemref idref="c5_Ab_Urbe_Condita_liber_IV" linear="yes"/><itemref idref="c6_Ab_Urbe_Condita_liber_V" linear="yes"/><itemref idref="c7_Ab_Urbe_Condita_liber_VI" linear="yes"/><itemref idref="c8_Ab_Urbe_Condita_liber_VII" linear="yes"/><itemref idref="c9_Ab_Urbe_Condita_liber_VIII" linear="yes"/><itemref idref="c10_Ab_Urbe_Condita_liber_IX" linear="yes"/><itemref idref="c11_Ab_Urbe_Condita_liber_X" linear="yes"/><itemref idref="c12_Ab_Urbe_Condita_liber_XXI" linear="yes"/><itemref idref="c13_Ab_Urbe_Condita_liber_XXII" linear="yes"/><itemref idref="c14_Ab_Urbe_Condita_liber_XXIII" linear="yes"/><itemref idref="c15_Ab_Urbe_Condita_liber_XXIV" linear="yes"/><itemref idref="c16_Ab_Urbe_Condita_liber_XXV" linear="yes"/><itemref idref="c17_Ab_Urbe_Condita_liber_XXVI" linear="yes"/><itemref idref="c18_Ab_Urbe_Condita_liber_XXVII" linear="yes"/><itemref idref="c19_Ab_Urbe_Condita_liber_XXVIII" linear="yes"/><itemref idref="c20_Ab_Urbe_Condita_liber_XXIX" linear="yes"/><itemref idref="c21_Ab_Urbe_Condita_liber_XXX" linear="yes"/><itemref idref="c22_Ab_Urbe_Condita_liber_XXXI" linear="yes"/><itemref idref="c23_Ab_Urbe_Condita_liber_XXXII" linear="yes"/><itemref idref="c24_Ab_Urbe_Condita_liber_XXXIII" linear="yes"/><itemref idref="c25_Ab_Urbe_Condita_liber_XXXIV" linear="yes"/><itemref idref="c26_Ab_Urbe_Condita_liber_XXXV" linear="yes"/><itemref idref="c27_Ab_Urbe_Condita_liber_XXXVI" linear="yes"/><itemref idref="c28_Ab_Urbe_Condita_liber_XXXVII" linear="yes"/><itemref idref="c29_Ab_Urbe_Condita_liber_XXXVIII" linear="yes"/><itemref idref="c30_Ab_Urbe_Condita_liber_XXXIX" linear="yes"/><itemref idref="c31_Ab_Urbe_Condita_liber_XL" linear="yes"/><itemref idref="c32_Ab_Urbe_Condita_liber_XLI" linear="yes"/><itemref idref="c33_Ab_Urbe_Condita_liber_XLII" linear="yes"/><itemref idref="c34_Ab_Urbe_Condita_liber_XLIII" linear="yes"/><itemref idref="c35_Ab_Urbe_Condita_liber_XLIV" linear="yes"/><itemref idref="c36_Ab_Urbe_Condita_liber_XLV" linear="yes"/><itemref idref="about" linear="yes"/>
+			     </spine>
+		      </package>

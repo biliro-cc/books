@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="la" prefix="cc: http://creativecommons.org/ns#">
+			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">https://la.wikisource.org/wiki/De_vita_Caesarum_libri_VIII</dc:identifier>
+    <meta property="dcterms:modified">2022-06-09T06:51:16Z</meta>
+    <dc:language>la</dc:language>
+    <dc:title id="meta-title">De vita Caesarum libri VIII</dc:title>
+    <meta refines="#meta-title" property="title-type">main</meta>
+    <dc:source>https://la.wikisource.org/wiki/De_vita_Caesarum_libri_VIII</dc:source>
+    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html"/>
+    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta>
+    <dc:creator id="meta-aut">Gaius Suetonius Tranquillus</dc:creator>
+    <meta refines="#meta-aut" property="role" scheme="marc:relators">aut</meta>
+    <dc:date>ante 122</dc:date>
+    <meta name="cover" content="title"/>
+  </metadata>
+			     <manifest>
+				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+				    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/><item id="title" href="title.xhtml" media-type="application/xhtml+xml"/>
+				    <item id="mainCss" href="main.css" media-type="text/css"/><item id="Accueil_scribe.png" href="images/Accueil_scribe.png" media-type="image/png"/><item id="c0_De_vita_Caesarum_libri_VIII" href="c0_De_vita_Caesarum_libri_VIII.xhtml" media-type="application/xhtml+xml"/>
+<item id="c1_De_vita_Caesarum_libri_VIII_Vita_divi_Iuli" href="c1_De_vita_Caesarum_libri_VIII_Vita_divi_Iuli.xhtml" media-type="application/xhtml+xml"/>
+<item id="c2_De_vita_Caesarum_libri_VIII_Vita_divi_Augusti" href="c2_De_vita_Caesarum_libri_VIII_Vita_divi_Augusti.xhtml" media-type="application/xhtml+xml"/>
+<item id="c3_De_vita_Caesarum_libri_VIII_Vita_Tiberi" href="c3_De_vita_Caesarum_libri_VIII_Vita_Tiberi.xhtml" media-type="application/xhtml+xml"/>
+<item id="c4_De_vita_Caesarum_libri_VIII_Vita_Gai" href="c4_De_vita_Caesarum_libri_VIII_Vita_Gai.xhtml" media-type="application/xhtml+xml"/>
+<item id="c5_De_vita_Caesarum_libri_VIII_Vita_divi_Claudi" href="c5_De_vita_Caesarum_libri_VIII_Vita_divi_Claudi.xhtml" media-type="application/xhtml+xml"/>
+<item id="c6_De_vita_Caesarum_libri_VIII_Vita_Neronis" href="c6_De_vita_Caesarum_libri_VIII_Vita_Neronis.xhtml" media-type="application/xhtml+xml"/>
+<item id="c7_De_vita_Caesarum_libri_VIII_Vita_Galbae" href="c7_De_vita_Caesarum_libri_VIII_Vita_Galbae.xhtml" media-type="application/xhtml+xml"/>
+<item id="c8_De_vita_Caesarum_libri_VIII_Vita_Othonis" href="c8_De_vita_Caesarum_libri_VIII_Vita_Othonis.xhtml" media-type="application/xhtml+xml"/>
+<item id="c9_De_vita_Caesarum_libri_VIII_Vita_Vetellii" href="c9_De_vita_Caesarum_libri_VIII_Vita_Vetellii.xhtml" media-type="application/xhtml+xml"/>
+<item id="c10_De_vita_Caesarum_libri_VIII_Vita_divi_Vespasiani" href="c10_De_vita_Caesarum_libri_VIII_Vita_divi_Vespasiani.xhtml" media-type="application/xhtml+xml"/>
+<item id="c11_De_vita_Caesarum_libri_VIII_Vita_divi_Titi" href="c11_De_vita_Caesarum_libri_VIII_Vita_divi_Titi.xhtml" media-type="application/xhtml+xml"/>
+<item id="c12_De_vita_Caesarum_libri_VIII_Vita_Domitiani" href="c12_De_vita_Caesarum_libri_VIII_Vita_Domitiani.xhtml" media-type="application/xhtml+xml"/>
+<item id="about" href="about.xhtml" media-type="application/xhtml+xml"/>
+			     </manifest>
+			     <spine toc="ncx"><itemref idref="title" linear="yes"/><itemref idref="c0_De_vita_Caesarum_libri_VIII" linear="yes"/><itemref idref="c1_De_vita_Caesarum_libri_VIII_Vita_divi_Iuli" linear="yes"/><itemref idref="c2_De_vita_Caesarum_libri_VIII_Vita_divi_Augusti" linear="yes"/><itemref idref="c3_De_vita_Caesarum_libri_VIII_Vita_Tiberi" linear="yes"/><itemref idref="c4_De_vita_Caesarum_libri_VIII_Vita_Gai" linear="yes"/><itemref idref="c5_De_vita_Caesarum_libri_VIII_Vita_divi_Claudi" linear="yes"/><itemref idref="c6_De_vita_Caesarum_libri_VIII_Vita_Neronis" linear="yes"/><itemref idref="c7_De_vita_Caesarum_libri_VIII_Vita_Galbae" linear="yes"/><itemref idref="c8_De_vita_Caesarum_libri_VIII_Vita_Othonis" linear="yes"/><itemref idref="c9_De_vita_Caesarum_libri_VIII_Vita_Vetellii" linear="yes"/><itemref idref="c10_De_vita_Caesarum_libri_VIII_Vita_divi_Vespasiani" linear="yes"/><itemref idref="c11_De_vita_Caesarum_libri_VIII_Vita_divi_Titi" linear="yes"/><itemref idref="c12_De_vita_Caesarum_libri_VIII_Vita_Domitiani" linear="yes"/><itemref idref="about" linear="yes"/>
+			     </spine>
+		      </package>
