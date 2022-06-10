@@ -52,3 +52,8 @@ jobs:
           git commit -m "automated: updating book_information.json for commit $LAST_COMMIT"
           git push
           
+      - name: send new json
+        env:
+          SET_BOOK_INFO_AUTH: ${{ secrets.SET_BOOK_INFO_AUTH }}
+        run: |
+          curl -X POST -u $SET_BOOK_INFO_AUTH -H "Content-Type: application/json" -d @main_again/book_information.json https://us-central1-langduet.cloudfunctions.net/setBookInfo
