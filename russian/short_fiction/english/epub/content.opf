@@ -1,125 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett</dc:identifier>
-		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2022-04-20T02:58:40Z</meta>
-		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
-		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
-		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
-		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
-		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
-		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
-		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
-		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
-		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
-		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
-		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
-		<meta property="schema:accessMode">textual</meta>
-		<meta property="schema:accessModeSufficient">textual</meta>
-		<meta property="schema:accessibilityFeature">readingOrder</meta>
-		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
-		<meta property="schema:accessibilityFeature">tableOfContents</meta>
-		<meta property="schema:accessibilityFeature">unlocked</meta>
-		<meta property="schema:accessibilityHazard">none</meta>
-		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
-		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">Short Fiction</dc:title>
-		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English</dc:subject>
-		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">sh2008116778</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">Fiction</meta>
-		<meta property="se:subject">Shorts</meta>
-		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
-		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A collection of Chekhov’s short stories and novellas ordered by date of publication.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+    <dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett</dc:identifier>
+    <dc:date>2014-05-25T00:00:00Z</dc:date>
+    <meta property="dcterms:modified">2022-06-10T20:14:48Z</meta>
+    <dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+    <dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+    <meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+    <meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+    <meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
+    <meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
+    <meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
+    <dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+    <meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+    <meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+    <meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+    <link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
+    <meta property="a11y:certifiedBy">Standard Ebooks</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityFeature">unlocked</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
+    <link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
+    <dc:title id="title">Short Fiction</dc:title>
+    <meta property="file-as" refines="#title">Short Fiction</meta>
+    <dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
+    <dc:subject id="subject-2">Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English</dc:subject>
+    <meta property="authority" refines="#subject-1">LCSH</meta>
+    <meta property="term" refines="#subject-1">sh2008116778</meta>
+    <meta property="authority" refines="#subject-2">LCSH</meta>
+    <meta property="term" refines="#subject-2">Unknown</meta>
+    <meta property="se:subject">Fiction</meta>
+    <meta property="se:subject">Shorts</meta>
+    <meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
+    <meta property="collection-type" refines="#collection-1">set</meta>
+    <dc:description id="description">A collection of Chekhov’s short stories and novellas ordered by date of publication.</dc:description>
+    <meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Anton Chekhov&lt;/a&gt; is widely considered to be one of the greatest short story writers in history. A physician by day, he’s famously quoted as saying, “Medicine is my lawful wife, and literature is my mistress.” Chekhov wrote nearly 300 short stories in his long writing career; while at first he wrote mainly to make a profit, as his interest in writing—and his skill—grew, he wrote stories that heavily influenced the modern development of the form.&lt;/p&gt;
 			&lt;p&gt;His stories are famous for, among other things, their ambiguous morality and their often inconclusive nature. Chekhov was a firm believer that the role of the artist was to correctly pose a question, but not necessarily to answer it.&lt;/p&gt;
 			&lt;p&gt;This collection contains all of his short stories and two novellas, all translated by Constance Garnett, and arranged by the date they were originally published.&lt;/p&gt;
 		</meta>
-		<dc:language>en-GB</dc:language>
-		<dc:source>https://www.gutenberg.org/ebooks/13416</dc:source>
-		<!--The Tales of Chekhov, Volume 1-->
-		<dc:source>https://www.gutenberg.org/ebooks/13505</dc:source>
-		<!--The Tales of Chekhov, Volume 2-->
-		<dc:source>https://www.gutenberg.org/ebooks/13415</dc:source>
-		<!--The Tales of Chekhov, Volume 3-->
-		<dc:source>https://www.gutenberg.org/ebooks/13413</dc:source>
-		<!--The Tales of Chekhov, Volume 4-->
-		<dc:source>https://www.gutenberg.org/ebooks/1883</dc:source>
-		<!--The Tales of Chekhov, Volume 5-->
-		<dc:source>https://www.gutenberg.org/ebooks/1944</dc:source>
-		<!--The Tales of Chekhov, Volume 6-->
-		<dc:source>https://www.gutenberg.org/ebooks/13419</dc:source>
-		<!--The Tales of Chekhov, Volume 7-->
-		<dc:source>https://www.gutenberg.org/ebooks/13418</dc:source>
-		<!--The Tales of Chekhov, Volume 8-->
-		<dc:source>https://www.gutenberg.org/ebooks/1732</dc:source>
-		<!--The Tales of Chekhov, Volume 9-->
-		<dc:source>https://www.gutenberg.org/ebooks/13409</dc:source>
-		<!--The Tales of Chekhov, Volume 10-->
-		<dc:source>https://www.gutenberg.org/ebooks/13412</dc:source>
-		<!--The Tales of Chekhov, Volume 11-->
-		<dc:source>https://www.gutenberg.org/ebooks/13417</dc:source>
-		<!--The Tales of Chekhov, Volume 12-->
-		<dc:source>https://www.gutenberg.org/ebooks/13414</dc:source>
-		<!--The Tales of Chekhov, Volume 13-->
-		<dc:source>https://catalog.hathitrust.org/Record/100025935</dc:source>
-		<meta property="se:word-count">801690</meta>
-		<meta property="se:reading-ease.flesch">71.65</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_short-fiction_constance-garnett</meta>
-		<dc:creator id="author">Anton Chekhov</dc:creator>
-		<meta property="file-as" refines="#author">Chekhov, Anton</meta>
-		<meta property="se:name.person.full-name" refines="#author">Anton Pavlovich Chekhov</meta>
-		<meta property="alternate-script" refines="#author">Анто́н Па́влович Че́хов</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anton_Chekhov</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79130807</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">Constance Garnett</dc:contributor>
-		<meta property="file-as" refines="#translator">Garnett, Constance</meta>
-		<meta property="se:name.person.full-name" refines="#translator">Constance Clara Garnett</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Constance_Garnett</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50015174</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">Osip Braz</dc:contributor>
-		<meta property="file-as" refines="#artist">Braz, Osip</meta>
-		<meta property="se:name.person.full-name" refines="#artist">Osip Emmanuilovich Braz</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Osip_Braz</meta>
-		<meta property="alternate-script" refines="#artist">Осип Эммануилович Браз</meta>
-		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">James Rusk</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Rusk, James</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Chuck Greif</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Greif, Chuck</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
-		<meta property="se:url.authority.nacoaf" refines="#transcriber-3">http://id.loc.gov/authorities/names/no2011017869</meta>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
-		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-		<meta property="se:built-with">2.3.10</meta>
-		<meta content="cover.jpg" name="cover"/>
-		<meta property="se:transform">compatibility</meta>
-	</metadata>
+    <dc:language>en-GB</dc:language>
+    <dc:source>https://www.gutenberg.org/ebooks/13416</dc:source>
+    <!--The Tales of Chekhov, Volume 1-->
+    <dc:source>https://www.gutenberg.org/ebooks/13505</dc:source>
+    <!--The Tales of Chekhov, Volume 2-->
+    <dc:source>https://www.gutenberg.org/ebooks/13415</dc:source>
+    <!--The Tales of Chekhov, Volume 3-->
+    <dc:source>https://www.gutenberg.org/ebooks/13413</dc:source>
+    <!--The Tales of Chekhov, Volume 4-->
+    <dc:source>https://www.gutenberg.org/ebooks/1883</dc:source>
+    <!--The Tales of Chekhov, Volume 5-->
+    <dc:source>https://www.gutenberg.org/ebooks/1944</dc:source>
+    <!--The Tales of Chekhov, Volume 6-->
+    <dc:source>https://www.gutenberg.org/ebooks/13419</dc:source>
+    <!--The Tales of Chekhov, Volume 7-->
+    <dc:source>https://www.gutenberg.org/ebooks/13418</dc:source>
+    <!--The Tales of Chekhov, Volume 8-->
+    <dc:source>https://www.gutenberg.org/ebooks/1732</dc:source>
+    <!--The Tales of Chekhov, Volume 9-->
+    <dc:source>https://www.gutenberg.org/ebooks/13409</dc:source>
+    <!--The Tales of Chekhov, Volume 10-->
+    <dc:source>https://www.gutenberg.org/ebooks/13412</dc:source>
+    <!--The Tales of Chekhov, Volume 11-->
+    <dc:source>https://www.gutenberg.org/ebooks/13417</dc:source>
+    <!--The Tales of Chekhov, Volume 12-->
+    <dc:source>https://www.gutenberg.org/ebooks/13414</dc:source>
+    <!--The Tales of Chekhov, Volume 13-->
+    <dc:source>https://catalog.hathitrust.org/Record/100025935</dc:source>
+    <meta property="se:word-count">801690</meta>
+    <meta property="se:reading-ease.flesch">71.65</meta>
+    <meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov</meta>
+    <meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_short-fiction_constance-garnett</meta>
+    <dc:creator id="author">Anton Chekhov</dc:creator>
+    <meta property="file-as" refines="#author">Chekhov, Anton</meta>
+    <meta property="se:name.person.full-name" refines="#author">Anton Pavlovich Chekhov</meta>
+    <meta property="alternate-script" refines="#author">Анто́н Па́влович Че́хов</meta>
+    <meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anton_Chekhov</meta>
+    <meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79130807</meta>
+    <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+    <dc:contributor id="translator">Constance Garnett</dc:contributor>
+    <meta property="file-as" refines="#translator">Garnett, Constance</meta>
+    <meta property="se:name.person.full-name" refines="#translator">Constance Clara Garnett</meta>
+    <meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Constance_Garnett</meta>
+    <meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50015174</meta>
+    <meta property="display-seq" refines="#translator">1</meta>
+    <meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+    <meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
+    <dc:contributor id="artist">Osip Braz</dc:contributor>
+    <meta property="file-as" refines="#artist">Braz, Osip</meta>
+    <meta property="se:name.person.full-name" refines="#artist">Osip Emmanuilovich Braz</meta>
+    <meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Osip_Braz</meta>
+    <meta property="alternate-script" refines="#artist">Осип Эммануилович Браз</meta>
+    <meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+    <dc:contributor id="transcriber-1">James Rusk</dc:contributor>
+    <meta property="file-as" refines="#transcriber-1">Rusk, James</meta>
+    <meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+    <dc:contributor id="transcriber-2">Chuck Greif</dc:contributor>
+    <meta property="file-as" refines="#transcriber-2">Greif, Chuck</meta>
+    <meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+    <dc:contributor id="transcriber-3">David Widger</dc:contributor>
+    <meta property="file-as" refines="#transcriber-3">Widger, David</meta>
+    <meta property="se:url.authority.nacoaf" refines="#transcriber-3">http://id.loc.gov/authorities/names/no2011017869</meta>
+    <meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+    <dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+    <meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+    <meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
+    <meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+    <meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
+    <meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
+    <meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+    <meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+    <meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+    <meta property="se:built-with">2.3.10</meta>
+    <meta name="cover" content="cover.jpg"/>
+    <meta property="se:transform">compatibility</meta>
+  </metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
