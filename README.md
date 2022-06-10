@@ -26,16 +26,22 @@ Here's an excerpt from this file:
             "translator": "John Dryden",
             "english_source": "Standard Ebooks",
             "foreign_source": "Gutenberg",
-            "verified": false,
-            "description": "Virgil’s epic poem begins with Aeneas fleeing the ruins of Troy with his father Anchises and his young son Ascanius, with a plan to make a home in Italy. Because of a prophecy foretelling that the descendants of Aeneas will one day destroy Carthage, Juno’s favorite city, Juno orders the god of the winds to unleash a terrible storm. The ships are thrown off course and arrive at an African port. As Aeneas makes his way towards his new home he encounters Dido, Carthage’s queen, and falls deeply in love. — Standard Ebooks"
+            "verified": true,
+            "description": "Virgil\u2019s epic poem begins with Aeneas fleeing the ruins of Troy with his father Anchises and his young son Ascanius, with a plan to make a home in Italy. Because of a prophecy foretelling that the descendants of Aeneas will one day destroy Carthage, Juno\u2019s favorite city, Juno orders the god of the winds to unleash a terrible storm. The ships are thrown off course and arrive at an African port. As Aeneas makes his way towards his new home he encounters Dido, Carthage\u2019s queen, and falls deeply in love. \u2014 Standard Ebooks",
+            "last_commit": "ac30d6a0490ea00e70901ae0b2167778b9da3e8c",
+            "last_commit_time": "2022-06-10T00:28:58.000Z",
+            "first_commit": "ac30d6a0490ea00e70901ae0b2167778b9da3e8c",
+            "first_commit_time": "2022-06-10T00:28:58.000Z"
           },
           ... (more books) ...
         ]
       },
       ... (more languages) ...
     ]
+    
+All of these fields should be filled out for a new book, besides `last_commit`, `last_commit_time`, `first_commit`, and `first_commit_time`. These will be filled out automatically once your pull request is accepted to the repository.
 
-Adding to this file should be self explanatory; for descriptions we recommend using https://onlinestringtools.com/escape-string to store them in a .json string.
+For descriptions we recommend using https://onlinestringtools.com/escape-string to store them in a .json string.
 
 ## Book verification
 
