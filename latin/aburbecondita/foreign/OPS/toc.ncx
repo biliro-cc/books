@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+			<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+				<head>
+					<meta name="dtb:uid" content="https://la.wikisource.org/wiki/Ab_Urbe_Condita" />
+					<meta name="dtb:depth" content="1" />
+					<meta name="dtb:totalPageCount" content="0" />
+					<meta name="dtb:maxPageNumber" content="0" />
+				</head>
+				<docTitle><text>Ab Urbe Condita</text></docTitle>
+				<docAuthor><text>Titus Livius</text></docAuthor>
+				<navMap>
+					<navPoint id="title" playOrder="1">
+						<navLabel><text>Title page</text></navLabel>
+						<content src="title.xhtml"/>
+					</navPoint><navPoint id="c0_Ab_Urbe_Condita" playOrder="2">
+						    <navLabel><text>Ab Urbe Condita</text></navLabel>
+						    <content src="c0_Ab_Urbe_Condita.xhtml" />
+					    </navPoint><navPoint id="c1_Ab_Urbe_Condita_Praefatio" playOrder="3">
+									    <navLabel><text>Praefatio</text></navLabel>
+									    <content src="c1_Ab_Urbe_Condita_Praefatio.xhtml" /></navPoint><navPoint id="c2_Ab_Urbe_Condita_liber_I" playOrder="4">
+									    <navLabel><text>Liber I</text></navLabel>
+									    <content src="c2_Ab_Urbe_Condita_liber_I.xhtml" /></navPoint><navPoint id="c3_Ab_Urbe_Condita_liber_II" playOrder="5">
+									    <navLabel><text>Liber II</text></navLabel>
+									    <content src="c3_Ab_Urbe_Condita_liber_II.xhtml" /></navPoint><navPoint id="c4_Ab_Urbe_Condita_liber_III" playOrder="6">
+									    <navLabel><text>Liber III</text></navLabel>
+									    <content src="c4_Ab_Urbe_Condita_liber_III.xhtml" /></navPoint><navPoint id="c5_Ab_Urbe_Condita_liber_IV" playOrder="7">
+									    <navLabel><text>Liber IV</text></navLabel>
+									    <content src="c5_Ab_Urbe_Condita_liber_IV.xhtml" /></navPoint><navPoint id="c6_Ab_Urbe_Condita_liber_V" playOrder="8">
+									    <navLabel><text>Liber V</text></navLabel>
+									    <content src="c6_Ab_Urbe_Condita_liber_V.xhtml" /></navPoint><navPoint id="c7_Ab_Urbe_Condita_liber_VI" playOrder="9">
+									    <navLabel><text>Liber VI</text></navLabel>
+									    <content src="c7_Ab_Urbe_Condita_liber_VI.xhtml" /></navPoint><navPoint id="c8_Ab_Urbe_Condita_liber_VII" playOrder="10">
+									    <navLabel><text>Liber VII</text></navLabel>
+									    <content src="c8_Ab_Urbe_Condita_liber_VII.xhtml" /></navPoint><navPoint id="c9_Ab_Urbe_Condita_liber_VIII" playOrder="11">
+									    <navLabel><text>Liber VIII</text></navLabel>
+									    <content src="c9_Ab_Urbe_Condita_liber_VIII.xhtml" /></navPoint><navPoint id="c10_Ab_Urbe_Condita_liber_IX" playOrder="12">
+									    <navLabel><text>Liber IX</text></navLabel>
+									    <content src="c10_Ab_Urbe_Condita_liber_IX.xhtml" /></navPoint><navPoint id="c11_Ab_Urbe_Condita_liber_X" playOrder="13">
+									    <navLabel><text>Liber X</text></navLabel>
+									    <content src="c11_Ab_Urbe_Condita_liber_X.xhtml" /></navPoint><navPoint id="c12_Ab_Urbe_Condita_liber_XXI" playOrder="14">
+									    <navLabel><text>Liber XXI</text></navLabel>
+									    <content src="c12_Ab_Urbe_Condita_liber_XXI.xhtml" /></navPoint><navPoint id="c13_Ab_Urbe_Condita_liber_XXII" playOrder="15">
+									    <navLabel><text>Liber XXII</text></navLabel>
+									    <content src="c13_Ab_Urbe_Condita_liber_XXII.xhtml" /></navPoint><navPoint id="c14_Ab_Urbe_Condita_liber_XXIII" playOrder="16">
+									    <navLabel><text>Liber XXIII</text></navLabel>
+									    <content src="c14_Ab_Urbe_Condita_liber_XXIII.xhtml" /></navPoint><navPoint id="c15_Ab_Urbe_Condita_liber_XXIV" playOrder="17">
+									    <navLabel><text>Liber XXIV</text></navLabel>
+									    <content src="c15_Ab_Urbe_Condita_liber_XXIV.xhtml" /></navPoint><navPoint id="c16_Ab_Urbe_Condita_liber_XXV" playOrder="18">
+									    <navLabel><text>Liber XXV</text></navLabel>
+									    <content src="c16_Ab_Urbe_Condita_liber_XXV.xhtml" /></navPoint><navPoint id="c17_Ab_Urbe_Condita_liber_XXVI" playOrder="19">
+									    <navLabel><text>Liber XXVI</text></navLabel>
+									    <content src="c17_Ab_Urbe_Condita_liber_XXVI.xhtml" /></navPoint><navPoint id="c18_Ab_Urbe_Condita_liber_XXVII" playOrder="20">
+									    <navLabel><text>Liber XXVII</text></navLabel>
+									    <content src="c18_Ab_Urbe_Condita_liber_XXVII.xhtml" /></navPoint><navPoint id="c19_Ab_Urbe_Condita_liber_XXVIII" playOrder="21">
+									    <navLabel><text>Liber XXVIII</text></navLabel>
+									    <content src="c19_Ab_Urbe_Condita_liber_XXVIII.xhtml" /></navPoint><navPoint id="c20_Ab_Urbe_Condita_liber_XXIX" playOrder="22">
+									    <navLabel><text>Liber XXIX</text></navLabel>
+									    <content src="c20_Ab_Urbe_Condita_liber_XXIX.xhtml" /></navPoint><navPoint id="c21_Ab_Urbe_Condita_liber_XXX" playOrder="23">
+									    <navLabel><text>Liber XXX</text></navLabel>
+									    <content src="c21_Ab_Urbe_Condita_liber_XXX.xhtml" /></navPoint><navPoint id="c22_Ab_Urbe_Condita_liber_XXXI" playOrder="24">
+									    <navLabel><text>Liber XXXI</text></navLabel>
+									    <content src="c22_Ab_Urbe_Condita_liber_XXXI.xhtml" /></navPoint><navPoint id="c23_Ab_Urbe_Condita_liber_XXXII" playOrder="25">
+									    <navLabel><text>Liber XXXII</text></navLabel>
+									    <content src="c23_Ab_Urbe_Condita_liber_XXXII.xhtml" /></navPoint><navPoint id="c24_Ab_Urbe_Condita_liber_XXXIII" playOrder="26">
+									    <navLabel><text>Liber XXXIII</text></navLabel>
+									    <content src="c24_Ab_Urbe_Condita_liber_XXXIII.xhtml" /></navPoint><navPoint id="c25_Ab_Urbe_Condita_liber_XXXIV" playOrder="27">
+									    <navLabel><text>Liber XXXIV</text></navLabel>
+									    <content src="c25_Ab_Urbe_Condita_liber_XXXIV.xhtml" /></navPoint><navPoint id="c26_Ab_Urbe_Condita_liber_XXXV" playOrder="28">
+									    <navLabel><text>Liber XXXV</text></navLabel>
+									    <content src="c26_Ab_Urbe_Condita_liber_XXXV.xhtml" /></navPoint><navPoint id="c27_Ab_Urbe_Condita_liber_XXXVI" playOrder="29">
+									    <navLabel><text>Liber XXXVI</text></navLabel>
+									    <content src="c27_Ab_Urbe_Condita_liber_XXXVI.xhtml" /></navPoint><navPoint id="c28_Ab_Urbe_Condita_liber_XXXVII" playOrder="30">
+									    <navLabel><text>Liber XXXVII</text></navLabel>
+									    <content src="c28_Ab_Urbe_Condita_liber_XXXVII.xhtml" /></navPoint><navPoint id="c29_Ab_Urbe_Condita_liber_XXXVIII" playOrder="31">
+									    <navLabel><text>Liber XXXVIII</text></navLabel>
+									    <content src="c29_Ab_Urbe_Condita_liber_XXXVIII.xhtml" /></navPoint><navPoint id="c30_Ab_Urbe_Condita_liber_XXXIX" playOrder="32">
+									    <navLabel><text>Liber XXXIX</text></navLabel>
+									    <content src="c30_Ab_Urbe_Condita_liber_XXXIX.xhtml" /></navPoint><navPoint id="c31_Ab_Urbe_Condita_liber_XL" playOrder="33">
+									    <navLabel><text>Liber XL</text></navLabel>
+									    <content src="c31_Ab_Urbe_Condita_liber_XL.xhtml" /></navPoint><navPoint id="c32_Ab_Urbe_Condita_liber_XLI" playOrder="34">
+									    <navLabel><text>Liber XLI</text></navLabel>
+									    <content src="c32_Ab_Urbe_Condita_liber_XLI.xhtml" /></navPoint><navPoint id="c33_Ab_Urbe_Condita_liber_XLII" playOrder="35">
+									    <navLabel><text>Liber XLII</text></navLabel>
+									    <content src="c33_Ab_Urbe_Condita_liber_XLII.xhtml" /></navPoint><navPoint id="c34_Ab_Urbe_Condita_liber_XLIII" playOrder="36">
+									    <navLabel><text>Liber XLIII</text></navLabel>
+									    <content src="c34_Ab_Urbe_Condita_liber_XLIII.xhtml" /></navPoint><navPoint id="c35_Ab_Urbe_Condita_liber_XLIV" playOrder="37">
+									    <navLabel><text>Liber XLIV</text></navLabel>
+									    <content src="c35_Ab_Urbe_Condita_liber_XLIV.xhtml" /></navPoint><navPoint id="c36_Ab_Urbe_Condita_liber_XLV" playOrder="38">
+									    <navLabel><text>Liber XLV</text></navLabel>
+									    <content src="c36_Ab_Urbe_Condita_liber_XLV.xhtml" /></navPoint><navPoint id="about" playOrder="39">
+						<navLabel>
+							<text>About</text>
+						</navLabel>
+						<content src="about.xhtml"/>
+					</navPoint>
+			       </navMap>
+			</ncx>

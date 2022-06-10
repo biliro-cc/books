@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="en" prefix="cc: http://creativecommons.org/ns#">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">https://en.wikisource.org/wiki/From_the_Founding_of_the_City</dc:identifier>
+    <meta property="dcterms:modified">2022-06-09T05:59:11Z</meta>
+    <dc:language>en</dc:language>
+    <dc:title id="meta-title">From the Founding of the City</dc:title>
+    <meta refines="#meta-title" property="title-type">main</meta>
+    <dc:source>https://en.wikisource.org/wiki/From_the_Founding_of_the_City</dc:source>
+    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html"/>
+    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta>
+    <dc:creator id="meta-aut">Livy</dc:creator>
+    <meta refines="#meta-aut" property="role" scheme="marc:relators">aut</meta>
+    <dc:contributor id="meta-trl">Cayesn Roberts</dc:contributor>
+    <meta refines="#meta-trl" property="role" scheme="marc:relators">trl</meta>
+    <dc:date>1905</dc:date>
+    <meta name="cover" content="title"/>
+  </metadata>
+    <manifest>
+        <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+        <item id="title" href="title.xhtml" media-type="application/xhtml+xml"/>
+        <item id="mainCss" href="main.css" media-type="text/css"/>
+        <item id="Accueil_scribe.png" href="images/Accueil_scribe.png" media-type="image/png"/>
+        <item id="c0_From_the_Founding_of_the_City" href="c0_From_the_Founding_of_the_City.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c1_From_the_Founding_of_the_City_Preface" href="c1_From_the_Founding_of_the_City_Preface.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c2_From_the_Founding_of_the_City_Book_1" href="c2_From_the_Founding_of_the_City_Book_1.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c3_From_the_Founding_of_the_City_Book_2" href="c3_From_the_Founding_of_the_City_Book_2.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c4_From_the_Founding_of_the_City_Book_3" href="c4_From_the_Founding_of_the_City_Book_3.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c5_From_the_Founding_of_the_City_Book_4" href="c5_From_the_Founding_of_the_City_Book_4.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c6_From_the_Founding_of_the_City_Book_5" href="c6_From_the_Founding_of_the_City_Book_5.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c7_From_the_Founding_of_the_City_Book_6" href="c7_From_the_Founding_of_the_City_Book_6.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c8_From_the_Founding_of_the_City_Book_7" href="c8_From_the_Founding_of_the_City_Book_7.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c9_From_the_Founding_of_the_City_Book_8" href="c9_From_the_Founding_of_the_City_Book_8.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c10_From_the_Founding_of_the_City_Book_9" href="c10_From_the_Founding_of_the_City_Book_9.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c11_From_the_Founding_of_the_City_Book_10" href="c11_From_the_Founding_of_the_City_Book_10.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c22_From_the_Founding_of_the_City_Book_21" href="c22_From_the_Founding_of_the_City_Book_21.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c23_From_the_Founding_of_the_City_Book_22" href="c23_From_the_Founding_of_the_City_Book_22.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c24_From_the_Founding_of_the_City_Book_23" href="c24_From_the_Founding_of_the_City_Book_23.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c25_From_the_Founding_of_the_City_Book_24" href="c25_From_the_Founding_of_the_City_Book_24.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c26_From_the_Founding_of_the_City_Book_25" href="c26_From_the_Founding_of_the_City_Book_25.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c27_From_the_Founding_of_the_City_Book_26" href="c27_From_the_Founding_of_the_City_Book_26.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c28_From_the_Founding_of_the_City_Book_27" href="c28_From_the_Founding_of_the_City_Book_27.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c29_From_the_Founding_of_the_City_Book_28" href="c29_From_the_Founding_of_the_City_Book_28.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c30_From_the_Founding_of_the_City_Book_29" href="c30_From_the_Founding_of_the_City_Book_29.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c31_From_the_Founding_of_the_City_Book_30" href="c31_From_the_Founding_of_the_City_Book_30.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c32_From_the_Founding_of_the_City_Book_31" href="c32_From_the_Founding_of_the_City_Book_31.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c33_From_the_Founding_of_the_City_Book_32" href="c33_From_the_Founding_of_the_City_Book_32.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c34_From_the_Founding_of_the_City_Book_33" href="c34_From_the_Founding_of_the_City_Book_33.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c35_From_the_Founding_of_the_City_Book_34" href="c35_From_the_Founding_of_the_City_Book_34.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c36_From_the_Founding_of_the_City_Book_35" href="c36_From_the_Founding_of_the_City_Book_35.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c37_From_the_Founding_of_the_City_Book_36" href="c37_From_the_Founding_of_the_City_Book_36.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c38_From_the_Founding_of_the_City_Book_37" href="c38_From_the_Founding_of_the_City_Book_37.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c39_From_the_Founding_of_the_City_Book_38" href="c39_From_the_Founding_of_the_City_Book_38.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c40_From_the_Founding_of_the_City_Book_39" href="c40_From_the_Founding_of_the_City_Book_39.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c41_From_the_Founding_of_the_City_Book_40" href="c41_From_the_Founding_of_the_City_Book_40.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c42_From_the_Founding_of_the_City_Book_41" href="c42_From_the_Founding_of_the_City_Book_41.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c43_From_the_Founding_of_the_City_Book_42" href="c43_From_the_Founding_of_the_City_Book_42.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c44_From_the_Founding_of_the_City_Book_43" href="c44_From_the_Founding_of_the_City_Book_43.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c45_From_the_Founding_of_the_City_Book_44" href="c45_From_the_Founding_of_the_City_Book_44.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c46_From_the_Founding_of_the_City_Book_45" href="c46_From_the_Founding_of_the_City_Book_45.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c12_From_the_Founding_of_the_City_Book_11" href="c12_From_the_Founding_of_the_City_Book_11.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c13_From_the_Founding_of_the_City_Book_12" href="c13_From_the_Founding_of_the_City_Book_12.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c14_From_the_Founding_of_the_City_Book_13" href="c14_From_the_Founding_of_the_City_Book_13.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c15_From_the_Founding_of_the_City_Book_14" href="c15_From_the_Founding_of_the_City_Book_14.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c16_From_the_Founding_of_the_City_Book_15" href="c16_From_the_Founding_of_the_City_Book_15.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c17_From_the_Founding_of_the_City_Book_16" href="c17_From_the_Founding_of_the_City_Book_16.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c18_From_the_Founding_of_the_City_Book_17" href="c18_From_the_Founding_of_the_City_Book_17.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c19_From_the_Founding_of_the_City_Book_18" href="c19_From_the_Founding_of_the_City_Book_18.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c20_From_the_Founding_of_the_City_Book_19" href="c20_From_the_Founding_of_the_City_Book_19.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c21_From_the_Founding_of_the_City_Book_20" href="c21_From_the_Founding_of_the_City_Book_20.xhtml" media-type="application/xhtml+xml"/>
+        <item id="c47_50_.svg_9px_50_.svg.png" href="images/c47_50_.svg_9px_50_.svg.png" media-type="image/png"/>
+        <item id="about" href="about.xhtml" media-type="application/xhtml+xml"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="title" linear="yes"/>
+        <itemref idref="c0_From_the_Founding_of_the_City" linear="yes"/>
+        <itemref idref="c1_From_the_Founding_of_the_City_Preface" linear="yes"/>
+        <itemref idref="c2_From_the_Founding_of_the_City_Book_1" linear="yes"/>
+        <itemref idref="c3_From_the_Founding_of_the_City_Book_2" linear="yes"/>
+        <itemref idref="c4_From_the_Founding_of_the_City_Book_3" linear="yes"/>
+        <itemref idref="c5_From_the_Founding_of_the_City_Book_4" linear="yes"/>
+        <itemref idref="c6_From_the_Founding_of_the_City_Book_5" linear="yes"/>
+        <itemref idref="c7_From_the_Founding_of_the_City_Book_6" linear="yes"/>
+        <itemref idref="c8_From_the_Founding_of_the_City_Book_7" linear="yes"/>
+        <itemref idref="c9_From_the_Founding_of_the_City_Book_8" linear="yes"/>
+        <itemref idref="c10_From_the_Founding_of_the_City_Book_9" linear="yes"/>
+        <itemref idref="c11_From_the_Founding_of_the_City_Book_10" linear="yes"/>
+        <itemref idref="c22_From_the_Founding_of_the_City_Book_21" linear="yes"/>
+        <itemref idref="c23_From_the_Founding_of_the_City_Book_22" linear="yes"/>
+        <itemref idref="c24_From_the_Founding_of_the_City_Book_23" linear="yes"/>
+        <itemref idref="c25_From_the_Founding_of_the_City_Book_24" linear="yes"/>
+        <itemref idref="c26_From_the_Founding_of_the_City_Book_25" linear="yes"/>
+        <itemref idref="c27_From_the_Founding_of_the_City_Book_26" linear="yes"/>
+        <itemref idref="c28_From_the_Founding_of_the_City_Book_27" linear="yes"/>
+        <itemref idref="c29_From_the_Founding_of_the_City_Book_28" linear="yes"/>
+        <itemref idref="c30_From_the_Founding_of_the_City_Book_29" linear="yes"/>
+        <itemref idref="c31_From_the_Founding_of_the_City_Book_30" linear="yes"/>
+        <itemref idref="c32_From_the_Founding_of_the_City_Book_31" linear="yes"/>
+        <itemref idref="c33_From_the_Founding_of_the_City_Book_32" linear="yes"/>
+        <itemref idref="c34_From_the_Founding_of_the_City_Book_33" linear="yes"/>
+        <itemref idref="c35_From_the_Founding_of_the_City_Book_34" linear="yes"/>
+        <itemref idref="c36_From_the_Founding_of_the_City_Book_35" linear="yes"/>
+        <itemref idref="c37_From_the_Founding_of_the_City_Book_36" linear="yes"/>
+        <itemref idref="c38_From_the_Founding_of_the_City_Book_37" linear="yes"/>
+        <itemref idref="c39_From_the_Founding_of_the_City_Book_38" linear="yes"/>
+        <itemref idref="c40_From_the_Founding_of_the_City_Book_39" linear="yes"/>
+        <itemref idref="c41_From_the_Founding_of_the_City_Book_40" linear="yes"/>
+        <itemref idref="c42_From_the_Founding_of_the_City_Book_41" linear="yes"/>
+        <itemref idref="c43_From_the_Founding_of_the_City_Book_42" linear="yes"/>
+        <itemref idref="c44_From_the_Founding_of_the_City_Book_43" linear="yes"/>
+        <itemref idref="c45_From_the_Founding_of_the_City_Book_44" linear="yes"/>
+        <itemref idref="c46_From_the_Founding_of_the_City_Book_45" linear="yes"/>
+        <itemref idref="c12_From_the_Founding_of_the_City_Book_11" linear="yes"/>
+        <itemref idref="c13_From_the_Founding_of_the_City_Book_12" linear="yes"/>
+        <itemref idref="c14_From_the_Founding_of_the_City_Book_13" linear="yes"/>
+        <itemref idref="c15_From_the_Founding_of_the_City_Book_14" linear="yes"/>
+        <itemref idref="c16_From_the_Founding_of_the_City_Book_15" linear="yes"/>
+        <itemref idref="c17_From_the_Founding_of_the_City_Book_16" linear="yes"/>
+        <itemref idref="c18_From_the_Founding_of_the_City_Book_17" linear="yes"/>
+        <itemref idref="c19_From_the_Founding_of_the_City_Book_18" linear="yes"/>
+        <itemref idref="c20_From_the_Founding_of_the_City_Book_19" linear="yes"/>
+        <itemref idref="c21_From_the_Founding_of_the_City_Book_20" linear="yes"/>
+        <itemref idref="about" linear="yes"/>
+    </spine>
+</package>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="en" prefix="cc: http://creativecommons.org/ns#">
+			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">https://en.wikisource.org/wiki/The_Lives_of_the_Twelve_Caesars</dc:identifier>
+    <meta property="dcterms:modified">2022-06-09T07:03:33Z</meta>
+    <dc:language>en</dc:language>
+    <dc:title id="meta-title">The Lives of the Twelve Caesars</dc:title>
+    <meta refines="#meta-title" property="title-type">main</meta>
+    <dc:source>https://en.wikisource.org/wiki/The_Lives_of_the_Twelve_Caesars</dc:source>
+    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html"/>
+    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta>
+    <dc:creator id="meta-aut">Suetonius</dc:creator>
+    <meta refines="#meta-aut" property="role" scheme="marc:relators">aut</meta>
+    <dc:contributor id="meta-trl">J. C. Rolfe</dc:contributor>
+    <meta refines="#meta-trl" property="role" scheme="marc:relators">trl</meta>
+    <meta name="cover" content="title"/>
+  </metadata>
+			     <manifest>
+				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+				    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/><item id="title" href="title.xhtml" media-type="application/xhtml+xml"/>
+				    <item id="mainCss" href="main.css" media-type="text/css"/><item id="Accueil_scribe.png" href="images/Accueil_scribe.png" media-type="image/png"/><item id="c0_The_Lives_of_the_Twelve_Caesars" href="c0_The_Lives_of_the_Twelve_Caesars.xhtml" media-type="application/xhtml+xml"/>
+<item id="c1_The_Lives_of_the_Twelve_Caesars_Julius_Caesar" href="c1_The_Lives_of_the_Twelve_Caesars_Julius_Caesar.xhtml" media-type="application/xhtml+xml"/>
+<item id="c2_The_Lives_of_the_Twelve_Caesars_Augustus" href="c2_The_Lives_of_the_Twelve_Caesars_Augustus.xhtml" media-type="application/xhtml+xml"/>
+<item id="c3_The_Lives_of_the_Twelve_Caesars_Tiberius" href="c3_The_Lives_of_the_Twelve_Caesars_Tiberius.xhtml" media-type="application/xhtml+xml"/>
+<item id="c4_The_Lives_of_the_Twelve_Caesars_Caligula" href="c4_The_Lives_of_the_Twelve_Caesars_Caligula.xhtml" media-type="application/xhtml+xml"/>
+<item id="c5_The_Lives_of_the_Twelve_Caesars_Claudius" href="c5_The_Lives_of_the_Twelve_Caesars_Claudius.xhtml" media-type="application/xhtml+xml"/>
+<item id="c6_The_Lives_of_the_Twelve_Caesars_Nero" href="c6_The_Lives_of_the_Twelve_Caesars_Nero.xhtml" media-type="application/xhtml+xml"/>
+<item id="c7_The_Lives_of_the_Twelve_Caesars_Galba" href="c7_The_Lives_of_the_Twelve_Caesars_Galba.xhtml" media-type="application/xhtml+xml"/>
+<item id="c8_The_Lives_of_the_Twelve_Caesars_Otho" href="c8_The_Lives_of_the_Twelve_Caesars_Otho.xhtml" media-type="application/xhtml+xml"/>
+<item id="c9_The_Lives_of_the_Twelve_Caesars_Vitellius" href="c9_The_Lives_of_the_Twelve_Caesars_Vitellius.xhtml" media-type="application/xhtml+xml"/>
+<item id="c10_The_Lives_of_the_Twelve_Caesars_Vespasian" href="c10_The_Lives_of_the_Twelve_Caesars_Vespasian.xhtml" media-type="application/xhtml+xml"/>
+<item id="c11_The_Lives_of_the_Twelve_Caesars_Titus" href="c11_The_Lives_of_the_Twelve_Caesars_Titus.xhtml" media-type="application/xhtml+xml"/>
+<item id="c12_The_Lives_of_the_Twelve_Caesars_Domitian" href="c12_The_Lives_of_the_Twelve_Caesars_Domitian.xhtml" media-type="application/xhtml+xml"/>
+<item id="c13_Ambox_important.svg_40px_Ambox_important.svg.png" href="images/c13_Ambox_important.svg_40px_Ambox_important.svg.png" media-type="image/png"/>
+<item id="c14_Copyright.svg_20px_Copyright.svg.png" href="images/c14_Copyright.svg_20px_Copyright.svg.png" media-type="image/png"/>
+<item id="c15_PD_icon.svg_20px_PD_icon.svg.png" href="images/c15_PD_icon.svg_20px_PD_icon.svg.png" media-type="image/png"/>
+<item id="c16_PD_icon.svg_48px_PD_icon.svg.png" href="images/c16_PD_icon.svg_48px_PD_icon.svg.png" media-type="image/png"/>
+<item id="c17_Flag_of_the_United_States.svg_92px_Flag_of_the_United_States.svg.png" href="images/c17_Flag_of_the_United_States.svg_92px_Flag_of_the_United_States.svg.png" media-type="image/png"/>
+<item id="about" href="about.xhtml" media-type="application/xhtml+xml"/>
+			     </manifest>
+			     <spine toc="ncx"><itemref idref="title" linear="yes"/><itemref idref="c0_The_Lives_of_the_Twelve_Caesars" linear="yes"/><itemref idref="c1_The_Lives_of_the_Twelve_Caesars_Julius_Caesar" linear="yes"/><itemref idref="c2_The_Lives_of_the_Twelve_Caesars_Augustus" linear="yes"/><itemref idref="c3_The_Lives_of_the_Twelve_Caesars_Tiberius" linear="yes"/><itemref idref="c4_The_Lives_of_the_Twelve_Caesars_Caligula" linear="yes"/><itemref idref="c5_The_Lives_of_the_Twelve_Caesars_Claudius" linear="yes"/><itemref idref="c6_The_Lives_of_the_Twelve_Caesars_Nero" linear="yes"/><itemref idref="c7_The_Lives_of_the_Twelve_Caesars_Galba" linear="yes"/><itemref idref="c8_The_Lives_of_the_Twelve_Caesars_Otho" linear="yes"/><itemref idref="c9_The_Lives_of_the_Twelve_Caesars_Vitellius" linear="yes"/><itemref idref="c10_The_Lives_of_the_Twelve_Caesars_Vespasian" linear="yes"/><itemref idref="c11_The_Lives_of_the_Twelve_Caesars_Titus" linear="yes"/><itemref idref="c12_The_Lives_of_the_Twelve_Caesars_Domitian" linear="yes"/><itemref idref="about" linear="yes"/>
+			     </spine>
+		      </package>

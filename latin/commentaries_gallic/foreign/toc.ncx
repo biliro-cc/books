@@ -11,49 +11,55 @@
     <text>Bellum Gallicum</text>
   </docTitle>
   <navMap>
-    <navPoint id="num_1" playOrder="1">
+    <navPoint id="title" playOrder="1">
+      <navLabel>
+        <text>TITULUS</text>
+      </navLabel>
+      <content src="titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_1" playOrder="2">
       <navLabel>
         <text>LIBER PRIMVS</text>
       </navLabel>
       <content src="gall1_split_000.html"/>
     </navPoint>
-    <navPoint id="num_2" playOrder="2">
+    <navPoint id="num_2" playOrder="3">
       <navLabel>
         <text>LIBER SECVNDVS</text>
       </navLabel>
       <content src="gall1_split_001.html"/>
     </navPoint>
-    <navPoint id="num_3" playOrder="3">
+    <navPoint id="num_3" playOrder="4">
       <navLabel>
         <text>LIBER TERTIVS</text>
       </navLabel>
       <content src="gall1_split_002.html"/>
     </navPoint>
-    <navPoint id="num_4" playOrder="4">
+    <navPoint id="num_4" playOrder="5">
       <navLabel>
         <text>LIBER QVARTVS</text>
       </navLabel>
       <content src="gall1_split_003.html"/>
     </navPoint>
-    <navPoint id="num_5" playOrder="5">
+    <navPoint id="num_5" playOrder="6">
       <navLabel>
         <text>LIBER QVINTVS</text>
       </navLabel>
       <content src="gall1_split_004.html"/>
     </navPoint>
-    <navPoint id="num_6" playOrder="6">
+    <navPoint id="num_6" playOrder="7">
       <navLabel>
         <text>LIBER SEXTVS</text>
       </navLabel>
       <content src="gall1_split_005.html"/>
     </navPoint>
-    <navPoint id="num_7" playOrder="7">
+    <navPoint id="num_7" playOrder="8">
       <navLabel>
         <text>LIBER SEPTIMVS</text>
       </navLabel>
       <content src="gall1_split_006.html"/>
     </navPoint>
-    <navPoint id="num_8" playOrder="8">
+    <navPoint id="num_8" playOrder="9">
       <navLabel>
         <text>LIBER OCTAVVS ab A. Hirtio scriptus</text>
       </navLabel>

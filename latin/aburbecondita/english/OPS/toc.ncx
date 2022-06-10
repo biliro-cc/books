@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+			<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+				<head>
+					<meta name="dtb:uid" content="https://en.wikisource.org/wiki/From_the_Founding_of_the_City" />
+					<meta name="dtb:depth" content="1" />
+					<meta name="dtb:totalPageCount" content="0" />
+					<meta name="dtb:maxPageNumber" content="0" />
+				</head>
+				<docTitle><text>From the Founding of the City</text></docTitle>
+				<docAuthor><text>Livy</text></docAuthor>
+				<navMap>
+					<navPoint id="title" playOrder="1">
+						<navLabel><text>Title page</text></navLabel>
+						<content src="title.xhtml"/>
+					</navPoint><navPoint id="c0_From_the_Founding_of_the_City" playOrder="2">
+						    <navLabel><text>From the Founding of the City</text></navLabel>
+						    <content src="c0_From_the_Founding_of_the_City.xhtml" />
+					    </navPoint><navPoint id="c1_From_the_Founding_of_the_City_Preface" playOrder="3">
+									    <navLabel><text>Preface</text></navLabel>
+									    <content src="c1_From_the_Founding_of_the_City_Preface.xhtml" /></navPoint><navPoint id="c2_From_the_Founding_of_the_City_Book_1" playOrder="4">
+									    <navLabel><text>Book 1</text></navLabel>
+									    <content src="c2_From_the_Founding_of_the_City_Book_1.xhtml" /></navPoint><navPoint id="c3_From_the_Founding_of_the_City_Book_2" playOrder="5">
+									    <navLabel><text>Book 2</text></navLabel>
+									    <content src="c3_From_the_Founding_of_the_City_Book_2.xhtml" /></navPoint><navPoint id="c4_From_the_Founding_of_the_City_Book_3" playOrder="6">
+									    <navLabel><text>Book 3</text></navLabel>
+									    <content src="c4_From_the_Founding_of_the_City_Book_3.xhtml" /></navPoint><navPoint id="c5_From_the_Founding_of_the_City_Book_4" playOrder="7">
+									    <navLabel><text>Book 4</text></navLabel>
+									    <content src="c5_From_the_Founding_of_the_City_Book_4.xhtml" /></navPoint><navPoint id="c6_From_the_Founding_of_the_City_Book_5" playOrder="8">
+									    <navLabel><text>Book 5</text></navLabel>
+									    <content src="c6_From_the_Founding_of_the_City_Book_5.xhtml" /></navPoint><navPoint id="c7_From_the_Founding_of_the_City_Book_6" playOrder="9">
+									    <navLabel><text>Book 6</text></navLabel>
+									    <content src="c7_From_the_Founding_of_the_City_Book_6.xhtml" /></navPoint><navPoint id="c8_From_the_Founding_of_the_City_Book_7" playOrder="10">
+									    <navLabel><text>Book 7</text></navLabel>
+									    <content src="c8_From_the_Founding_of_the_City_Book_7.xhtml" /></navPoint><navPoint id="c9_From_the_Founding_of_the_City_Book_8" playOrder="11">
+									    <navLabel><text>Book 8</text></navLabel>
+									    <content src="c9_From_the_Founding_of_the_City_Book_8.xhtml" /></navPoint><navPoint id="c10_From_the_Founding_of_the_City_Book_9" playOrder="12">
+									    <navLabel><text>Book 9</text></navLabel>
+									    <content src="c10_From_the_Founding_of_the_City_Book_9.xhtml" /></navPoint><navPoint id="c11_From_the_Founding_of_the_City_Book_10" playOrder="13">
+									    <navLabel><text>Book 10</text></navLabel>
+									    <content src="c11_From_the_Founding_of_the_City_Book_10.xhtml" /></navPoint><navPoint id="c22_From_the_Founding_of_the_City_Book_21" playOrder="14">
+									    <navLabel><text>Book 21</text></navLabel>
+									    <content src="c22_From_the_Founding_of_the_City_Book_21.xhtml" /></navPoint><navPoint id="c23_From_the_Founding_of_the_City_Book_22" playOrder="15">
+									    <navLabel><text>Book 22</text></navLabel>
+									    <content src="c23_From_the_Founding_of_the_City_Book_22.xhtml" /></navPoint><navPoint id="c24_From_the_Founding_of_the_City_Book_23" playOrder="16">
+									    <navLabel><text>Book 23</text></navLabel>
+									    <content src="c24_From_the_Founding_of_the_City_Book_23.xhtml" /></navPoint><navPoint id="c25_From_the_Founding_of_the_City_Book_24" playOrder="17">
+									    <navLabel><text>Book 24</text></navLabel>
+									    <content src="c25_From_the_Founding_of_the_City_Book_24.xhtml" /></navPoint><navPoint id="c26_From_the_Founding_of_the_City_Book_25" playOrder="18">
+									    <navLabel><text>Book 25</text></navLabel>
+									    <content src="c26_From_the_Founding_of_the_City_Book_25.xhtml" /></navPoint><navPoint id="c27_From_the_Founding_of_the_City_Book_26" playOrder="19">
+									    <navLabel><text>Book 26</text></navLabel>
+									    <content src="c27_From_the_Founding_of_the_City_Book_26.xhtml" /></navPoint><navPoint id="c28_From_the_Founding_of_the_City_Book_27" playOrder="20">
+									    <navLabel><text>Book 27</text></navLabel>
+									    <content src="c28_From_the_Founding_of_the_City_Book_27.xhtml" /></navPoint><navPoint id="c29_From_the_Founding_of_the_City_Book_28" playOrder="21">
+									    <navLabel><text>Book 28</text></navLabel>
+									    <content src="c29_From_the_Founding_of_the_City_Book_28.xhtml" /></navPoint><navPoint id="c30_From_the_Founding_of_the_City_Book_29" playOrder="22">
+									    <navLabel><text>Book 29</text></navLabel>
+									    <content src="c30_From_the_Founding_of_the_City_Book_29.xhtml" /></navPoint><navPoint id="c31_From_the_Founding_of_the_City_Book_30" playOrder="23">
+									    <navLabel><text>Book 30</text></navLabel>
+									    <content src="c31_From_the_Founding_of_the_City_Book_30.xhtml" /></navPoint><navPoint id="c32_From_the_Founding_of_the_City_Book_31" playOrder="24">
+									    <navLabel><text>Book 31</text></navLabel>
+									    <content src="c32_From_the_Founding_of_the_City_Book_31.xhtml" /></navPoint><navPoint id="c33_From_the_Founding_of_the_City_Book_32" playOrder="25">
+									    <navLabel><text>Book 32</text></navLabel>
+									    <content src="c33_From_the_Founding_of_the_City_Book_32.xhtml" /></navPoint><navPoint id="c34_From_the_Founding_of_the_City_Book_33" playOrder="26">
+									    <navLabel><text>Book 33</text></navLabel>
+									    <content src="c34_From_the_Founding_of_the_City_Book_33.xhtml" /></navPoint><navPoint id="c35_From_the_Founding_of_the_City_Book_34" playOrder="27">
+									    <navLabel><text>Book 34</text></navLabel>
+									    <content src="c35_From_the_Founding_of_the_City_Book_34.xhtml" /></navPoint><navPoint id="c36_From_the_Founding_of_the_City_Book_35" playOrder="28">
+									    <navLabel><text>Book 35</text></navLabel>
+									    <content src="c36_From_the_Founding_of_the_City_Book_35.xhtml" /></navPoint><navPoint id="c37_From_the_Founding_of_the_City_Book_36" playOrder="29">
+									    <navLabel><text>Book 36</text></navLabel>
+									    <content src="c37_From_the_Founding_of_the_City_Book_36.xhtml" /></navPoint><navPoint id="c38_From_the_Founding_of_the_City_Book_37" playOrder="30">
+									    <navLabel><text>Book 37</text></navLabel>
+									    <content src="c38_From_the_Founding_of_the_City_Book_37.xhtml" /></navPoint><navPoint id="c39_From_the_Founding_of_the_City_Book_38" playOrder="31">
+									    <navLabel><text>Book 38</text></navLabel>
+									    <content src="c39_From_the_Founding_of_the_City_Book_38.xhtml" /></navPoint><navPoint id="c40_From_the_Founding_of_the_City_Book_39" playOrder="32">
+									    <navLabel><text>Book 39</text></navLabel>
+									    <content src="c40_From_the_Founding_of_the_City_Book_39.xhtml" /></navPoint><navPoint id="c41_From_the_Founding_of_the_City_Book_40" playOrder="33">
+									    <navLabel><text>Book 40</text></navLabel>
+									    <content src="c41_From_the_Founding_of_the_City_Book_40.xhtml" /></navPoint><navPoint id="c42_From_the_Founding_of_the_City_Book_41" playOrder="34">
+									    <navLabel><text>Book 41</text></navLabel>
+									    <content src="c42_From_the_Founding_of_the_City_Book_41.xhtml" /></navPoint><navPoint id="c43_From_the_Founding_of_the_City_Book_42" playOrder="35">
+									    <navLabel><text>Book 42</text></navLabel>
+									    <content src="c43_From_the_Founding_of_the_City_Book_42.xhtml" /></navPoint><navPoint id="c44_From_the_Founding_of_the_City_Book_43" playOrder="36">
+									    <navLabel><text>Book 43</text></navLabel>
+									    <content src="c44_From_the_Founding_of_the_City_Book_43.xhtml" /></navPoint><navPoint id="c45_From_the_Founding_of_the_City_Book_44" playOrder="37">
+									    <navLabel><text>Book 44</text></navLabel>
+									    <content src="c45_From_the_Founding_of_the_City_Book_44.xhtml" /></navPoint><navPoint id="c46_From_the_Founding_of_the_City_Book_45" playOrder="38">
+									    <navLabel><text>Book 45</text></navLabel>
+									    <content src="c46_From_the_Founding_of_the_City_Book_45.xhtml" /></navPoint>
+									    
+									    
+          <navPoint id="epitomes" playOrder="39">
+            <navLabel><text>Epitomes, Books 11-20</text></navLabel>
+              <content src="c12_From_the_Founding_of_the_City_Book_11.xhtml#epitome" />									    
+									    <navPoint id="c12_From_the_Founding_of_the_City_Book_11" playOrder="40">
+									    <navLabel><text>Epitome of Book 11</text></navLabel>
+									    <content src="c12_From_the_Founding_of_the_City_Book_11.xhtml" /></navPoint><navPoint id="c13_From_the_Founding_of_the_City_Book_12" playOrder="41">
+									    <navLabel><text>Epitome of Book 12</text></navLabel>
+									    <content src="c13_From_the_Founding_of_the_City_Book_12.xhtml" /></navPoint><navPoint id="c14_From_the_Founding_of_the_City_Book_13" playOrder="42">
+									    <navLabel><text>Epitome of Book 13</text></navLabel>
+									    <content src="c14_From_the_Founding_of_the_City_Book_13.xhtml" /></navPoint><navPoint id="c15_From_the_Founding_of_the_City_Book_14" playOrder="43">
+									    <navLabel><text>Epitome of Book 14</text></navLabel>
+									    <content src="c15_From_the_Founding_of_the_City_Book_14.xhtml" /></navPoint><navPoint id="c16_From_the_Founding_of_the_City_Book_15" playOrder="44">
+									    <navLabel><text>Epitome of Book 15</text></navLabel>
+									    <content src="c16_From_the_Founding_of_the_City_Book_15.xhtml" /></navPoint><navPoint id="c17_From_the_Founding_of_the_City_Book_16" playOrder="45">
+									    <navLabel><text>Epitome of Book 16</text></navLabel>
+									    <content src="c17_From_the_Founding_of_the_City_Book_16.xhtml" /></navPoint><navPoint id="c18_From_the_Founding_of_the_City_Book_17" playOrder="46">
+									    <navLabel><text>Epitome of Book 17</text></navLabel>
+									    <content src="c18_From_the_Founding_of_the_City_Book_17.xhtml" /></navPoint><navPoint id="c19_From_the_Founding_of_the_City_Book_18" playOrder="47">
+									    <navLabel><text>Epitome of Book 18</text></navLabel>
+									    <content src="c19_From_the_Founding_of_the_City_Book_18.xhtml" /></navPoint><navPoint id="c20_From_the_Founding_of_the_City_Book_19" playOrder="48">
+									    <navLabel><text>Epitome of Book 19</text></navLabel>
+									    <content src="c20_From_the_Founding_of_the_City_Book_19.xhtml" /></navPoint><navPoint id="c21_From_the_Founding_of_the_City_Book_20" playOrder="49">
+									    <navLabel><text>Epitome of Book 20</text></navLabel>
+									    <content src="c21_From_the_Founding_of_the_City_Book_20.xhtml" /></navPoint>
+          </navPoint>
+          
+          <navPoint id="about" playOrder="50">
+						<navLabel>
+							<text>About</text>
+						</navLabel>
+						<content src="about.xhtml"/>
+					</navPoint>
+			       </navMap>
+			</ncx>
