@@ -1,0 +1,277 @@
+/**/
+body {
+    margin-left: 8%;
+    margin-right: 10%
+    }
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large
+    }
+h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large
+    }
+h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: large
+    }
+.pageno {
+    font-size: x-small;
+    background-color: inherit;
+    color: silver;
+    text-indent: 0;
+    text-align: right;
+    border: thin solid silver;
+    padding: 0.1em 0.2em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+p {
+    text-indent: 0;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-align: justify
+    }
+sup {
+    vertical-align: top;
+    font-size: 0.6em
+    }
+.sc {
+    font-variant: small-caps
+    }
+.large {
+    font-size: large
+    }
+.xlarge {
+    font-size: x-large
+    }
+.lg-container-b {
+    text-align: center
+    }
+@media all {
+    .lg-container-b {
+        clear: both
+        }
+    }
+.lg-container-l {
+    text-align: left
+    }
+@media all {
+    .lg-container-l {
+        clear: both
+        }
+    }
+.lg-container-r {
+    text-align: right
+    }
+@media all {
+    .lg-container-r {
+        clear: both
+        }
+    }
+.linegroup {
+    display: inline-block;
+    text-align: left
+    }
+@media all {
+    .linegroup {
+        display: block;
+        margin-left: 1.5em
+        }
+    }
+.linegroup .group {
+    margin: 1em auto
+    }
+.linegroup .line {
+    text-indent: -3em;
+    padding-left: 3em
+    }
+div.linegroup > :first-child {
+    margin-top: 0
+    }
+.linegroup .in2 {
+    padding-left: 4em
+    }
+.linegroup .in34 {
+    padding-left: 20em
+    }
+.ol_1 li {
+    padding-left: 1em;
+    text-indent: -1em
+    }
+ol.ol_1 {
+    padding-left: 0;
+    margin-left: 2.78%;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    list-style-type: decimal
+    }
+div.footnote {
+    margin-left: 2.5em
+    }
+div.footnote > :first-child {
+    margin-top: 1em
+    }
+div.footnote .label {
+    display: inline-block;
+    width: 0;
+    text-indent: -2.5em;
+    text-align: right
+    }
+div.pbb {
+    page-break-before: always
+    }
+hr.pb {
+    border: none;
+    border-bottom: thin solid;
+    margin-bottom: 1em
+    }
+@media all {
+    hr.pb {
+        display: none
+        }
+    }
+.chapter {
+    clear: both;
+    page-break-before: always
+    }
+.figcenter {
+    clear: both;
+    max-width: 100%;
+    margin: 2em auto;
+    text-align: center
+    }
+div.figcenter p {
+    text-align: center;
+    text-indent: 0
+    }
+.figcenter img {
+    max-width: 100%;
+    height: auto
+    }
+.id001 {
+    width: 40%
+    }
+.id002 {
+    width: 10%
+    }
+@media all {
+    .id001 {
+        margin-left: 30%;
+        width: 40%
+        }
+    }
+@media all {
+    .id002 {
+        margin-left: 45%;
+        width: 10%
+        }
+    }
+.ic001 {
+    width: 100%
+    }
+.ig001 {
+    width: 100%
+    }
+.table0 {
+    margin: auto;
+    margin-top: 1em
+    }
+.nf-center {
+    text-align: center
+    }
+.nf-center-c1 {
+    text-align: left;
+    margin: 1em 0
+    }
+.c000 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em
+    }
+.c001 {
+    page-break-before: always;
+    margin-top: 4em
+    }
+.c002 {
+    margin-top: 2em
+    }
+.c003 {
+    margin-top: 1em
+    }
+.c004 {
+    page-break-before: auto;
+    margin-top: 4em
+    }
+.c005 {
+    margin-top: 2em;
+    margin-bottom: 0.5em
+    }
+.c006 {
+    page-break-before: always;
+    margin-top: 2em
+    }
+.c007 {
+    vertical-align: top;
+    text-align: center;
+    padding-right: 1em
+    }
+.c008 {
+    vertical-align: top;
+    text-align: left
+    }
+.c009 {
+    text-decoration: none
+    }
+.c010 {
+    border: none;
+    border-bottom: thin solid;
+    width: 10%;
+    margin-left: 0;
+    margin-top: 1em;
+    text-align: left
+    }
+.c011 {
+    margin-top: 4em
+    }
+.c012 {
+    font-size: 90%
+    }
+.c013 {
+    text-align: right
+    }
+div.tnotes {
+    padding-left: 1em;
+    padding-right: 1em;
+    background-color: #E3E4FA;
+    border: 1px solid silver;
+    margin: 2em 10% 0 10%
+    }
+.covernote {
+    visibility: hidden;
+    display: none
+    }
+div.tnotes p {
+    text-align: left
+    }
+@media all {
+    .covernote {
+        visibility: visible;
+        display: block
+        }
+    }
+img {
+    max-width: 100%;
+    height: auto
+    }
+.ph1 {
+    text-indent: 0;
+    font-weight: bold;
+    font-size: xx-large;
+    margin: 0.67em auto
+    }
+/**/

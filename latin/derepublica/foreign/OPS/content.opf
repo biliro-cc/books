@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		      <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="la" prefix="cc: http://creativecommons.org/ns#">
+			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+				    <dc:identifier id="uid">https://la.wikisource.org/wiki/De_re_publica</dc:identifier>
+				    <meta property="dcterms:modified">2022-06-09T07:36:03Z</meta>
+				    <dc:language>la</dc:language>
+				    <dc:title id="meta-title">De re publica</dc:title>
+				    <meta refines="#meta-title" property="title-type">main</meta>
+				    <dc:source>https://la.wikisource.org/wiki/De_re_publica</dc:source>
+				    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+				    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+				    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+				    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html" />
+				    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+				    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta><dc:creator id="meta-aut">Marcus Tullius Cicero</dc:creator>
+					       <meta refines="#meta-aut" property="role" scheme="marc:relators">aut</meta><dc:date>55 a.C.n.</dc:date><meta name="cover" content="title" /></metadata>
+			     <manifest>
+				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav" />
+				    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/><item id="title" href="title.xhtml" media-type="application/xhtml+xml" />
+				    <item id="mainCss" href="main.css" media-type="text/css" /><item id="Accueil_scribe.png" href="images/Accueil_scribe.png" media-type="image/png" /><item id="c0_De_re_publica" href="c0_De_re_publica.xhtml" media-type="application/xhtml+xml" />
+<item id="c1_De_re_publica_Liber_Primus" href="c1_De_re_publica_Liber_Primus.xhtml" media-type="application/xhtml+xml" />
+<item id="c2_De_re_publica_Liber_Secundus" href="c2_De_re_publica_Liber_Secundus.xhtml" media-type="application/xhtml+xml" />
+<item id="c3_De_re_publica_Liber_Tertius" href="c3_De_re_publica_Liber_Tertius.xhtml" media-type="application/xhtml+xml" />
+<item id="c4_De_re_publica_Liber_Quartus" href="c4_De_re_publica_Liber_Quartus.xhtml" media-type="application/xhtml+xml" />
+<item id="c5_De_re_publica_Liber_Quintus" href="c5_De_re_publica_Liber_Quintus.xhtml" media-type="application/xhtml+xml" />
+<item id="about" href="about.xhtml" media-type="application/xhtml+xml" />
+			     </manifest>
+			     <spine toc="ncx"><itemref idref="title" linear="yes" /><itemref idref="c0_De_re_publica" linear="yes" /><itemref idref="c1_De_re_publica_Liber_Primus" linear="yes" /><itemref idref="c2_De_re_publica_Liber_Secundus" linear="yes" /><itemref idref="c3_De_re_publica_Liber_Tertius" linear="yes" /><itemref idref="c4_De_re_publica_Liber_Quartus" linear="yes" /><itemref idref="c5_De_re_publica_Liber_Quintus" linear="yes" /><itemref idref="about" linear="yes" />
+			     </spine>
+		      </package>
