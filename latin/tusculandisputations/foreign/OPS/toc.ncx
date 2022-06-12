@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="la">
+  <head>
+    <meta name="dtb:uid" content="https://la.wikisource.org/wiki/Tusculan%C3%A6_Disputationes"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.34.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Tusculanæ Disputationes(Opera philosophica)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Title</text>
+      </navLabel>
+      <content src="title.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Liber I</text>
+      </navLabel>
+      <content src="c1_Tusculan__Disputationes_Liber_I.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Liber II</text>
+      </navLabel>
+      <content src="c2_Tusculan__Disputationes_Liber_II.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Liber III</text>
+      </navLabel>
+      <content src="c3_Tusculan__Disputationes_Liber_III.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Liber IV</text>
+      </navLabel>
+      <content src="c4_Tusculan__Disputationes_Liber_IV.xhtml"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Liber V</text>
+      </navLabel>
+      <content src="c5_Tusculan__Disputationes_Liber_V.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>About</text>
+      </navLabel>
+      <content src="about.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

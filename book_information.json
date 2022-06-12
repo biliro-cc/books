@@ -191,7 +191,7 @@
         "translator": "C. D. Yonge",
         "english_source": "Standard Ebooks",
         "foreign_source": "Wikisource",
-        "verified": false,
+        "verified": true,
         "description": "",
         "last_commit": "",
         "last_commit_time": "",
