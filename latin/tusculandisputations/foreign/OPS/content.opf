@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="la" prefix="cc: http://creativecommons.org/ns#">
 			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="uid">https://la.wikisource.org/wiki/Tusculan%C3%A6_Disputationes</dc:identifier>
-    <meta property="dcterms:modified">2022-06-12T06:16:25Z</meta>
+    <meta property="dcterms:modified">2022-06-12T13:25:36Z</meta>
     <dc:language>la</dc:language>
     <dc:title id="meta-title">Tusculanæ Disputationes(Opera philosophica)</dc:title>
     <meta refines="#meta-title" property="title-type">main</meta>
