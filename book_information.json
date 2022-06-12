@@ -169,6 +169,48 @@
         "last_commit_time": "2022-06-12T11:50:05.000Z",
         "first_commit": "ac30d6a0490ea00e70901ae0b2167778b9da3e8c",
         "first_commit_time": "2022-06-10T00:28:58.000Z"
+      },
+      {
+        "filename": "derepublica",
+        "title": "The Republic of Cicero",
+        "author": "Cicero",
+        "translator": "George William Featherstonhaugh",
+        "english_source": "Gutenberg",
+        "foreign_source": "Wikisource",
+        "verified": false,
+        "description": "",
+        "last_commit": "",
+        "last_commit_time": "",
+        "first_commit": "",
+        "first_commit_time": ""
+      },
+      {
+        "filename": "tusculandisputations",
+        "title": "Tusculan Disputations",
+        "author": "Cicero",
+        "translator": "C. D. Yonge",
+        "english_source": "Standard Ebooks",
+        "foreign_source": "Wikisource",
+        "verified": true,
+        "description": "",
+        "last_commit": "",
+        "last_commit_time": "",
+        "first_commit": "",
+        "first_commit_time": ""
+      },
+      {
+        "filename": "metamorphoses",
+        "title": "Metamorphoses",
+        "author": "Ovid",
+        "translator": "Sir Samuel Garth, John Dryden, Alexander Pope, Joseph Addison, William Congreve, et al.",
+        "english_source": "Wikisource",
+        "foreign_source": "Langduet",
+        "verified": false,
+        "description": "",
+        "last_commit": "",
+        "last_commit_time": "",
+        "first_commit": "",
+        "first_commit_time": ""
       }
     ]
   },

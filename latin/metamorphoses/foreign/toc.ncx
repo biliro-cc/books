@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="0e2a5e19-2676-4261-bfb7-595d8699f271"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.34.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Metamorphoses</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np1" playOrder="1">
+      <navLabel>
+        <text>Title</text>
+      </navLabel>
+      <content src="text/title.html"/>
+    </navPoint>
+    <navPoint id="np2" playOrder="2">
+      <navLabel>
+        <text>Liber I</text>
+      </navLabel>
+      <content src="text/ovid.met1.html"/>
+    </navPoint>
+    <navPoint id="np3" playOrder="3">
+      <navLabel>
+        <text>Liber II</text>
+      </navLabel>
+      <content src="text/ovid.met2.html"/>
+    </navPoint>
+    <navPoint id="np4" playOrder="4">
+      <navLabel>
+        <text>Liber III</text>
+      </navLabel>
+      <content src="text/ovid.met3.html"/>
+    </navPoint>
+    <navPoint id="np5" playOrder="5">
+      <navLabel>
+        <text>Liber IV</text>
+      </navLabel>
+      <content src="text/ovid.met4.html"/>
+    </navPoint>
+    <navPoint id="np6" playOrder="6">
+      <navLabel>
+        <text>Liber V</text>
+      </navLabel>
+      <content src="text/ovid.met5.html"/>
+    </navPoint>
+    <navPoint id="np7" playOrder="7">
+      <navLabel>
+        <text>Liber VI</text>
+      </navLabel>
+      <content src="text/ovid.met6.html"/>
+    </navPoint>
+    <navPoint id="np8" playOrder="8">
+      <navLabel>
+        <text>Liber VII</text>
+      </navLabel>
+      <content src="text/ovid.met7.html"/>
+    </navPoint>
+    <navPoint id="np9" playOrder="9">
+      <navLabel>
+        <text>Liber VIII</text>
+      </navLabel>
+      <content src="text/ovid.met8.html"/>
+    </navPoint>
+    <navPoint id="np10" playOrder="10">
+      <navLabel>
+        <text>Liber IX</text>
+      </navLabel>
+      <content src="text/ovid.met9.html"/>
+    </navPoint>
+    <navPoint id="np11" playOrder="11">
+      <navLabel>
+        <text>Liber X</text>
+      </navLabel>
+      <content src="text/ovid.met10.html"/>
+    </navPoint>
+    <navPoint id="np12" playOrder="12">
+      <navLabel>
+        <text>Liber XI</text>
+      </navLabel>
+      <content src="text/ovid.met11.html"/>
+    </navPoint>
+    <navPoint id="np13" playOrder="13">
+      <navLabel>
+        <text>Liber XII</text>
+      </navLabel>
+      <content src="text/ovid.met12.html"/>
+    </navPoint>
+    <navPoint id="np14" playOrder="14">
+      <navLabel>
+        <text>Liber XIII</text>
+      </navLabel>
+      <content src="text/ovid.met13.html"/>
+    </navPoint>
+    <navPoint id="np15" playOrder="15">
+      <navLabel>
+        <text>Liber XIV</text>
+      </navLabel>
+      <content src="text/ovid.met14.html"/>
+    </navPoint>
+    <navPoint id="np16" playOrder="16">
+      <navLabel>
+        <text>Liber XV</text>
+      </navLabel>
+      <content src="text/ovid.met15.html"/>
+    </navPoint>
+    
+  </navMap>
+</ncx>

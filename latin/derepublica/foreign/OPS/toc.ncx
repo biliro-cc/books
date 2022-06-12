@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+			<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+				<head>
+					<meta name="dtb:uid" content="https://la.wikisource.org/wiki/De_re_publica" />
+					<meta name="dtb:depth" content="1" />
+					<meta name="dtb:totalPageCount" content="0" />
+					<meta name="dtb:maxPageNumber" content="0" />
+				</head>
+				<docTitle><text>De re publica</text></docTitle>
+				<docAuthor><text>Marcus Tullius Cicero</text></docAuthor>
+				<navMap>
+					<navPoint id="title" playOrder="1">
+						<navLabel><text>Title page</text></navLabel>
+						<content src="title.xhtml"/>
+					</navPoint><navPoint id="c0_De_re_publica" playOrder="2">
+						    <navLabel><text>De re publica</text></navLabel>
+						    <content src="c0_De_re_publica.xhtml" />
+					    </navPoint><navPoint id="c1_De_re_publica_Liber_Primus" playOrder="3">
+									    <navLabel><text>De re publica/Liber Primus</text></navLabel>
+									    <content src="c1_De_re_publica_Liber_Primus.xhtml" /></navPoint><navPoint id="c2_De_re_publica_Liber_Secundus" playOrder="4">
+									    <navLabel><text>De re publica/Liber Secundus</text></navLabel>
+									    <content src="c2_De_re_publica_Liber_Secundus.xhtml" /></navPoint><navPoint id="c3_De_re_publica_Liber_Tertius" playOrder="5">
+									    <navLabel><text>De re publica/Liber Tertius</text></navLabel>
+									    <content src="c3_De_re_publica_Liber_Tertius.xhtml" /></navPoint><navPoint id="c4_De_re_publica_Liber_Quartus" playOrder="6">
+									    <navLabel><text>De re publica/Liber Quartus</text></navLabel>
+									    <content src="c4_De_re_publica_Liber_Quartus.xhtml" /></navPoint><navPoint id="c5_De_re_publica_Liber_Quintus" playOrder="7">
+									    <navLabel><text>De re publica/Liber Quintus</text></navLabel>
+									    <content src="c5_De_re_publica_Liber_Quintus.xhtml" /></navPoint><navPoint id="about" playOrder="8">
+						<navLabel>
+							<text>About</text>
+						</navLabel>
+						<content src="about.xhtml"/>
+					</navPoint>
+			       </navMap>
+			</ncx>

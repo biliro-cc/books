@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+			<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+				<head>
+					<meta name="dtb:uid" content="https://en.wikisource.org/wiki/Metamorphoses_%28tr._Garth%2C_Dryden%2C_et_al.%29" />
+					<meta name="dtb:depth" content="1" />
+					<meta name="dtb:totalPageCount" content="0" />
+					<meta name="dtb:maxPageNumber" content="0" />
+				</head>
+				<docTitle><text>Metamorphoses</text></docTitle>
+				<docAuthor><text>Ovid</text></docAuthor>
+				<navMap>
+					<navPoint id="title" playOrder="1">
+						<navLabel><text>Title page</text></navLabel>
+						<content src="title.xhtml"/>
+					</navPoint><navPoint id="c0_Metamorphoses__tr._Garth__Dryden__et_al._" playOrder="2">
+						    <navLabel><text>Metamorphoses</text></navLabel>
+						    <content src="c0_Metamorphoses__tr._Garth__Dryden__et_al._.xhtml" />
+					    </navPoint><navPoint id="c1_Metamorphoses__tr._Garth__Dryden__et_al.__Dedication" playOrder="3">
+									    <navLabel><text>Dedication</text></navLabel>
+									    <content src="c1_Metamorphoses__tr._Garth__Dryden__et_al.__Dedication.xhtml" /></navPoint><navPoint id="c2_Metamorphoses__tr._Garth__Dryden__et_al.__Preface" playOrder="4">
+									    <navLabel><text>Preface</text></navLabel>
+									    <content src="c2_Metamorphoses__tr._Garth__Dryden__et_al.__Preface.xhtml" /></navPoint><navPoint id="c3_Metamorphoses__tr._Garth__Dryden__et_al.__Book_I" playOrder="5">
+									    <navLabel><text>BOOK the FIRST.</text></navLabel>
+									    <content src="c3_Metamorphoses__tr._Garth__Dryden__et_al.__Book_I.xhtml" /></navPoint><navPoint id="c4_Metamorphoses__tr._Garth__Dryden__et_al.__Book_II" playOrder="6">
+									    <navLabel><text>BOOK the SECOND.</text></navLabel>
+									    <content src="c4_Metamorphoses__tr._Garth__Dryden__et_al.__Book_II.xhtml" /></navPoint><navPoint id="c5_Metamorphoses__tr._Garth__Dryden__et_al.__Book_III" playOrder="7">
+									    <navLabel><text>BOOK the THIRD.</text></navLabel>
+									    <content src="c5_Metamorphoses__tr._Garth__Dryden__et_al.__Book_III.xhtml" /></navPoint><navPoint id="c6_Metamorphoses__tr._Garth__Dryden__et_al.__Book_IV" playOrder="8">
+									    <navLabel><text>BOOK the FOURTH.</text></navLabel>
+									    <content src="c6_Metamorphoses__tr._Garth__Dryden__et_al.__Book_IV.xhtml" /></navPoint><navPoint id="c7_Metamorphoses__tr._Garth__Dryden__et_al.__Book_V" playOrder="9">
+									    <navLabel><text>BOOK the FIFTH.</text></navLabel>
+									    <content src="c7_Metamorphoses__tr._Garth__Dryden__et_al.__Book_V.xhtml" /></navPoint><navPoint id="c8_Metamorphoses__tr._Garth__Dryden__et_al.__Book_VI" playOrder="10">
+									    <navLabel><text>BOOK the SIXTH.</text></navLabel>
+									    <content src="c8_Metamorphoses__tr._Garth__Dryden__et_al.__Book_VI.xhtml" /></navPoint><navPoint id="c9_Metamorphoses__tr._Garth__Dryden__et_al.__Book_VII" playOrder="11">
+									    <navLabel><text>BOOK the SEVENTH.</text></navLabel>
+									    <content src="c9_Metamorphoses__tr._Garth__Dryden__et_al.__Book_VII.xhtml" /></navPoint><navPoint id="c10_Metamorphoses__tr._Garth__Dryden__et_al.__Book_VIII" playOrder="12">
+									    <navLabel><text>BOOK the EIGHTH.</text></navLabel>
+									    <content src="c10_Metamorphoses__tr._Garth__Dryden__et_al.__Book_VIII.xhtml" /></navPoint><navPoint id="c11_Metamorphoses__tr._Garth__Dryden__et_al.__Book_IX" playOrder="13">
+									    <navLabel><text>BOOK the NINTH.</text></navLabel>
+									    <content src="c11_Metamorphoses__tr._Garth__Dryden__et_al.__Book_IX.xhtml" /></navPoint><navPoint id="c12_Metamorphoses__tr._Garth__Dryden__et_al.__Book_X" playOrder="14">
+									    <navLabel><text>BOOK the TENTH.</text></navLabel>
+									    <content src="c12_Metamorphoses__tr._Garth__Dryden__et_al.__Book_X.xhtml" /></navPoint><navPoint id="c13_Metamorphoses__tr._Garth__Dryden__et_al.__Book_XI" playOrder="15">
+									    <navLabel><text>BOOK the ELEVENTH.</text></navLabel>
+									    <content src="c13_Metamorphoses__tr._Garth__Dryden__et_al.__Book_XI.xhtml" /></navPoint><navPoint id="c14_Metamorphoses__tr._Garth__Dryden__et_al.__Book_XII" playOrder="16">
+									    <navLabel><text>BOOK the TWELFTH.</text></navLabel>
+									    <content src="c14_Metamorphoses__tr._Garth__Dryden__et_al.__Book_XII.xhtml" /></navPoint><navPoint id="c15_Metamorphoses__tr._Garth__Dryden__et_al.__Book_XIII" playOrder="17">
+									    <navLabel><text>BOOK the THIRTEENTH.</text></navLabel>
+									    <content src="c15_Metamorphoses__tr._Garth__Dryden__et_al.__Book_XIII.xhtml" /></navPoint><navPoint id="c16_Metamorphoses__tr._Garth__Dryden__et_al.__Book_XIV" playOrder="18">
+									    <navLabel><text>BOOK the FOURTEENTH.</text></navLabel>
+									    <content src="c16_Metamorphoses__tr._Garth__Dryden__et_al.__Book_XIV.xhtml" /></navPoint><navPoint id="c17_Metamorphoses__tr._Garth__Dryden__et_al.__Book_XV" playOrder="19">
+									    <navLabel><text>BOOK the FIFTEENTH.</text></navLabel>
+									    <content src="c17_Metamorphoses__tr._Garth__Dryden__et_al.__Book_XV.xhtml" /></navPoint><navPoint id="c18_Metamorphoses__tr._Garth__Dryden__et_al.__Advertisement" playOrder="20">
+									    <navLabel><text>Advertisement</text></navLabel>
+									    <content src="c18_Metamorphoses__tr._Garth__Dryden__et_al.__Advertisement.xhtml" /></navPoint><navPoint id="about" playOrder="21">
+						<navLabel>
+							<text>About</text>
+						</navLabel>
+						<content src="about.xhtml"/>
+					</navPoint>
+			       </navMap>
+			</ncx>
