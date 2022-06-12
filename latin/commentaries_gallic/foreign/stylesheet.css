@@ -1,23 +1,42 @@
 .calibre {
-    display: block;
-    font-size: 1em;
-    padding-left: 0;
-    padding-right: 0;
-    margin: 0 5pt
-    }
+  display: block;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
 .calibre1 {
-    font-size: 0.75em
-    }
+  font-size: 0.75em;
+}
 .calibre2 {
-    font-size: 1em
-    }
+  font-size: 1em;
+}
 .calibre3 {
-    font-style: italic
-    }
+  font-style: italic;
+}
 .calibre4 {
-    display: block
-    }
+  display: block;
+}
 .chapter {
-    display: block;
-    margin: 1em 0
-    }
+  display: block;
+  margin: 1em 0;
+}
+.chapter-title {
+  break-after: avoid;
+  page-break-after: avoid;
+  break-inside: avoid;
+  page-break-inside: avoid;
+  font-variant: small-caps;
+  hyphens: none;
+  adobe-text-layout: optimizeSpeed;
+  adobe-hyphenate: none;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -epub-hyphens: none;
+  margin-top: 3em;
+  margin-right: 0;
+  margin-bottom: 3em;
+  margin-left: 0;
+  text-align: center;
+  font-weight: bold;
+}
