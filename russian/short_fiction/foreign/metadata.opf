@@ -118,7 +118,6 @@
     <item id="id104" href="2_split11.xhtml" media-type="application/xhtml+xml"/>
     <item id="id105" href="2_split12.xhtml" media-type="application/xhtml+xml"/>
     <item id="id106" href="2_split13.xhtml" media-type="application/xhtml+xml"/>
-    <item id="id107" href="copyright.xhtml" media-type="application/xhtml+xml"/>
     <item id="id108" href="3_split1.xhtml" media-type="application/xhtml+xml"/>
     <item id="id109" href="3_split2.xhtml" media-type="application/xhtml+xml"/>
     <item id="id110" href="3_split3.xhtml" media-type="application/xhtml+xml"/>
@@ -292,7 +291,6 @@
   </manifest>
   <spine toc="ncx">
     <itemref idref="start"/>
-    <itemref idref="id107"/>
     <itemref idref="id2"/>
     <itemref idref="id1"/>
     <itemref idref="id94"/>
