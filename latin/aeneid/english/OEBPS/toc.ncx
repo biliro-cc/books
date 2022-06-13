@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/22456"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.35.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The Aeneid of Virgil</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Titlepage</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-0.htm.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>BOOK FIRST</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-0.htm_split1.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>BOOK SECOND</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-0.htm_split2.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>BOOK THIRD</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-1.htm.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>BOOK FOURTH</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-1.htm_split1.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>BOOK FIFTH</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-2.htm.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>BOOK SIXTH</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-3.htm.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>BOOK SEVENTH</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-3.htm_split1.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>BOOK EIGHTH</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-4.htm.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>BOOK NINTH</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-4.htm_split1.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>BOOK TENTH</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-5.htm.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>BOOK ELEVENTH</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-6.htm.html"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>BOOK TWELFTH</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-6.htm_split1.html"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>NOTES</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-7.htm.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>TRANSCRIBER'S NOTES</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-7.htm.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>License</text>
+      </navLabel>
+      <content src="3292182822070914084_22456-h-8.htm.html#toc_1"/>
+    </navPoint>
+  </navMap>
+</ncx>
