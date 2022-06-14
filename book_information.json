@@ -40,7 +40,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "last_commit_time": "2022-06-14T19:57:34.000Z",
+        "first_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "first_commit_time": "2022-06-14T19:57:34.000Z"
       },
       {
         "filename": "fleurs_du_mal",
@@ -54,7 +58,7 @@
       },
       {
         "filename": "les_miserables",
-        "title": "Les Misérables",
+        "title": "Les Mis\u00e9rables",
         "author": "Victor Hugo",
         "translator": "Isabel F. Hapgood",
         "english_source": "Standard Ebooks",
@@ -115,7 +119,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "last_commit_time": "2022-06-14T19:57:34.000Z",
+        "first_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "first_commit_time": "2022-06-14T19:57:34.000Z"
       },
       {
         "filename": "ecce_homo",
@@ -125,7 +133,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "last_commit_time": "2022-06-14T19:57:34.000Z",
+        "first_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "first_commit_time": "2022-06-14T19:57:34.000Z"
       },
       {
         "filename": "faust_1",
@@ -135,7 +147,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "last_commit_time": "2022-06-14T19:57:34.000Z",
+        "first_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "first_commit_time": "2022-06-14T19:57:34.000Z"
       },
       {
         "filename": "siddhartha",
@@ -145,7 +161,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "last_commit_time": "2022-06-14T19:57:34.000Z",
+        "first_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "first_commit_time": "2022-06-14T19:57:34.000Z"
       },
       {
         "filename": "werther",
@@ -155,7 +175,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "last_commit_time": "2022-06-14T19:57:34.000Z",
+        "first_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "first_commit_time": "2022-06-14T19:57:34.000Z"
       }
     ]
   },
@@ -170,7 +194,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "last_commit_time": "2022-06-14T19:57:34.000Z",
+        "first_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "first_commit_time": "2022-06-14T19:57:34.000Z"
       },
       {
         "filename": "inferno",
@@ -180,7 +208,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "last_commit_time": "2022-06-14T19:57:34.000Z",
+        "first_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "first_commit_time": "2022-06-14T19:57:34.000Z"
       },
       {
         "filename": "paradiso",
@@ -190,7 +222,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "last_commit_time": "2022-06-14T19:57:34.000Z",
+        "first_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "first_commit_time": "2022-06-14T19:57:34.000Z"
       },
       {
         "filename": "purgatorio",
@@ -200,7 +236,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "last_commit_time": "2022-06-14T19:57:34.000Z",
+        "first_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "first_commit_time": "2022-06-14T19:57:34.000Z"
       }
     ]
   },
@@ -547,7 +587,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "last_commit_time": "2022-06-14T19:57:34.000Z",
+        "first_commit": "53021ba08ba77994b70d3fa362b510bbb898728c",
+        "first_commit_time": "2022-06-14T19:57:34.000Z"
       }
     ]
   }
