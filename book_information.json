@@ -10,7 +10,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "last_commit_time": "2022-06-14T20:08:51.000Z",
+        "first_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "first_commit_time": "2022-06-14T20:08:51.000Z"
       },
       {
         "filename": "candide",
@@ -20,7 +24,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "last_commit_time": "2022-06-14T20:08:51.000Z",
+        "first_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "first_commit_time": "2022-06-14T20:08:51.000Z"
       },
       {
         "filename": "count_monte_cristo",
@@ -30,7 +38,11 @@
         "english_source": "Standard Ebooks",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "last_commit_time": "2022-06-14T20:08:51.000Z",
+        "first_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "first_commit_time": "2022-06-14T20:08:51.000Z"
       },
       {
         "filename": "devils_pool",
@@ -54,7 +66,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "last_commit_time": "2022-06-14T20:08:51.000Z",
+        "first_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "first_commit_time": "2022-06-14T20:08:51.000Z"
       },
       {
         "filename": "les_miserables",
@@ -64,7 +80,11 @@
         "english_source": "Standard Ebooks",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "last_commit_time": "2022-06-14T20:08:51.000Z",
+        "first_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "first_commit_time": "2022-06-14T20:08:51.000Z"
       },
       {
         "filename": "madame_bovary",
@@ -74,7 +94,11 @@
         "english_source": "Standard Ebooks",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "last_commit_time": "2022-06-14T20:08:51.000Z",
+        "first_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "first_commit_time": "2022-06-14T20:08:51.000Z"
       },
       {
         "filename": "notre_dame",
@@ -84,7 +108,11 @@
         "english_source": "Standard Ebooks",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "last_commit_time": "2022-06-14T20:08:51.000Z",
+        "first_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "first_commit_time": "2022-06-14T20:08:51.000Z"
       },
       {
         "filename": "poet_assassinated",
@@ -94,7 +122,11 @@
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "last_commit_time": "2022-06-14T20:08:51.000Z",
+        "first_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "first_commit_time": "2022-06-14T20:08:51.000Z"
       },
       {
         "filename": "three_musketeers",
@@ -104,7 +136,11 @@
         "english_source": "Standard Ebooks",
         "foreign_source": "Gutenberg",
         "verified": false,
-        "description": ""
+        "description": "",
+        "last_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "last_commit_time": "2022-06-14T20:08:51.000Z",
+        "first_commit": "52b72d073582392aa48f61927a36e2e17a458956",
+        "first_commit_time": "2022-06-14T20:08:51.000Z"
       }
     ]
   },
