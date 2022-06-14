@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/56645</dc:identifier>
+    <dc:creator opf:file-as="Apollinaire, Guillaume">Guillaume Apollinaire</dc:creator>
+    <dc:title>Le poète assassiné</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">fr</dc:language>
+    <dc:subject>Short stories, French</dc:subject>
+    <dc:subject>French fiction -- 20th century</dc:subject>
+    <dc:date opf:event="publication">2018-02-26</dc:date>
+    <dc:date opf:event="conversion">2022-04-25T10:42:19.686736+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/56645/56645-h/56645-h.htm</dc:source>
+    <meta name="cover" content="item1"/>
+  </metadata>
+  <manifest>
+    <!--Image: 638 x 896 size=63562 q=70-->
+    <item href="3760735215401652117_cover.jpg" id="item1" media-type="image/jpeg"/>
+    <item href="pgepub.css" id="item2" media-type="text/css"/>
+    <item href="0.css" id="item3" media-type="text/css"/>
+    <item href="1.css" id="item4" media-type="text/css"/>
+    <!--Chunk: size=82008 Split on p-->
+    <item href="3395676422657380031_56645-h-0.htm.html" id="item5" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82549 Split on p-->
+    <item href="3395676422657380031_56645-h-1.htm.html" id="item6" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82214 Split on p-->
+    <item href="3395676422657380031_56645-h-2.htm.html" id="item7" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=75716 Split on div-->
+    <item href="3395676422657380031_56645-h-3.htm.html" id="item8" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=64808-->
+    <item href="3395676422657380031_56645-h-4.htm.html" id="item9" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>

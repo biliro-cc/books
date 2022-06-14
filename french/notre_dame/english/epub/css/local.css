@@ -1,0 +1,70 @@
+@charset "utf-8";
+@namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
+
+.epub-type-z3998-signature{
+	font-variant: small-caps;
+}
+
+.epub-type-preface p.last-child,
+.epub-type-preface p:last-child{
+	font-variant: small-caps;
+	margin-top: 1em;
+}
+
+blockquote.xml-lang{
+	font-style: italic;
+}
+
+.epub-type-bridgehead{
+	display: inline-block;
+	font-style: italic;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
+
+#note h2{
+	margin-bottom: 0;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+.epub-type-z3998-poem p,
+.epub-type-z3998-song p,
+.epub-type-z3998-verse p{
+	text-align: left;
+	text-indent: 0;
+}
+
+.epub-type-z3998-poem p > span,
+.epub-type-z3998-song p > span,
+.epub-type-z3998-verse p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+.epub-type-z3998-poem p > span + br,
+.epub-type-z3998-song p > span + br,
+.epub-type-z3998-verse p > span + br{
+	display: none;
+}
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
+
+#note p.last-child,
+#note p:last-child{
+	margin-top: 1em;
+}

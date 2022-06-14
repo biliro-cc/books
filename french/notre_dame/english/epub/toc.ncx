@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta content="url:https://standardebooks.org/ebooks/victor-hugo/notre-dame-de-paris/isabel-f-hapgood" name="dtb:uid"/>
+	</head>
+	<docTitle>
+		<text>Table of Contents</text>
+	</docTitle>
+	<navMap id="navmap">
+		<navPoint id="navpoint-1" playOrder="1">
+			<navLabel>
+				<text>Titlepage</text>
+			</navLabel>
+			<content src="text/titlepage.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-2" playOrder="2">
+			<navLabel>
+				<text>Imprint</text>
+			</navLabel>
+			<content src="text/imprint.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-3" playOrder="3">
+			<navLabel>
+				<text>Preface</text>
+			</navLabel>
+			<content src="text/preface.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-4" playOrder="4">
+			<navLabel>
+				<text>Notre-Dame de Paris</text>
+			</navLabel>
+			<content src="text/halftitlepage.xhtml"/>
+			<navPoint id="navpoint-5" playOrder="5">
+				<navLabel>
+					<text>Book I</text>
+				</navLabel>
+				<content src="text/book-1.xhtml"/>
+				<navPoint id="navpoint-6" playOrder="6">
+					<navLabel>
+						<text>I: The Grand Hall</text>
+					</navLabel>
+					<content src="text/chapter-1-1.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-7" playOrder="7">
+					<navLabel>
+						<text>II: Pierre Gringoire</text>
+					</navLabel>
+					<content src="text/chapter-1-2.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-8" playOrder="8">
+					<navLabel>
+						<text>III: Monsieur the Cardinal</text>
+					</navLabel>
+					<content src="text/chapter-1-3.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-9" playOrder="9">
+					<navLabel>
+						<text>IV: Master Jacques Coppenole</text>
+					</navLabel>
+					<content src="text/chapter-1-4.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-10" playOrder="10">
+					<navLabel>
+						<text>V: Quasimodo</text>
+					</navLabel>
+					<content src="text/chapter-1-5.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-11" playOrder="11">
+					<navLabel>
+						<text>VI: Esmeralda</text>
+					</navLabel>
+					<content src="text/chapter-1-6.xhtml"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-12" playOrder="12">
+				<navLabel>
+					<text>Book II</text>
+				</navLabel>
+				<content src="text/book-2.xhtml"/>
+				<navPoint id="navpoint-13" playOrder="13">
+					<navLabel>
+						<text>I: From Charybdis to Scylla</text>
+					</navLabel>
+					<content src="text/chapter-2-1.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-14" playOrder="14">
+					<navLabel>
+						<text>II: The Place de Grève</text>
+					</navLabel>
+					<content src="text/chapter-2-2.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-15" playOrder="15">
+					<navLabel>
+						<text>III: Kisses for Blows</text>
+					</navLabel>
+					<content src="text/chapter-2-3.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-16" playOrder="16">
+					<navLabel>
+						<text>IV: The Inconveniences of Following a Pretty Woman Through the Streets in the Evening</text>
+					</navLabel>
+					<content src="text/chapter-2-4.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-17" playOrder="17">
+					<navLabel>
+						<text>V: Result of the Dangers</text>
+					</navLabel>
+					<content src="text/chapter-2-5.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-18" playOrder="18">
+					<navLabel>
+						<text>VI: The Broken Jug</text>
+					</navLabel>
+					<content src="text/chapter-2-6.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-19" playOrder="19">
+					<navLabel>
+						<text>VII: A Bridal Night</text>
+					</navLabel>
+					<content src="text/chapter-2-7.xhtml"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-20" playOrder="20">
+				<navLabel>
+					<text>Book III</text>
+				</navLabel>
+				<content src="text/book-3.xhtml"/>
+				<navPoint id="navpoint-21" playOrder="21">
+					<navLabel>
+						<text>I: Notre-Dame</text>
+					</navLabel>
+					<content src="text/chapter-3-1.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-22" playOrder="22">
+					<navLabel>
+						<text>II: A Bird’s-Eye View of Paris</text>
+					</navLabel>
+					<content src="text/chapter-3-2.xhtml"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-23" playOrder="23">
+				<navLabel>
+					<text>Book IV</text>
+				</navLabel>
+				<content src="text/book-4.xhtml"/>
+				<navPoint id="navpoint-24" playOrder="24">
+					<navLabel>
+						<text>I: Good Souls</text>
+					</navLabel>
+					<content src="text/chapter-4-1.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-25" playOrder="25">
+					<navLabel>
+						<text>II: Claude Frollo</text>
+					</navLabel>
+					<content src="text/chapter-4-2.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-26" playOrder="26">
+					<navLabel>
+						<text>III: Immanis Pecoris Custos, Immanior Ipse</text>
+					</navLabel>
+					<content src="text/chapter-4-3.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-27" playOrder="27">
+					<navLabel>
+						<text>IV: The Dog and His Master</text>
+					</navLabel>
+					<content src="text/chapter-4-4.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-28" playOrder="28">
+					<navLabel>
+						<text>V: More About Claude Frollo</text>
+					</navLabel>
+					<content src="text/chapter-4-5.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-29" playOrder="29">
+					<navLabel>
+						<text>VI: Unpopularity</text>
+					</navLabel>
+					<content src="text/chapter-4-6.xhtml"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-30" playOrder="30">
+				<navLabel>
+					<text>Book V</text>
+				</navLabel>
+				<content src="text/book-5.xhtml"/>
+				<navPoint id="navpoint-31" playOrder="31">
+					<navLabel>
+						<text>I: Abbas Beati Martini</text>
+					</navLabel>
+					<content src="text/chapter-5-1.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-32" playOrder="32">
+					<navLabel>
+						<text>II: This Will Kill That</text>
+					</navLabel>
+					<content src="text/chapter-5-2.xhtml"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-33" playOrder="33">
+				<navLabel>
+					<text>Book VI</text>
+				</navLabel>
+				<content src="text/book-6.xhtml"/>
+				<navPoint id="navpoint-34" playOrder="34">
+					<navLabel>
+						<text>I: An Impartial Glance at the Ancient Magistracy</text>
+					</navLabel>
+					<content src="text/chapter-6-1.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-35" playOrder="35">
+					<navLabel>
+						<text>II: The Rat-Hole</text>
+					</navLabel>
+					<content src="text/chapter-6-2.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-36" playOrder="36">
+					<navLabel>
+						<text>III: History of a Leavened Cake of Maize</text>
+					</navLabel>
+					<content src="text/chapter-6-3.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-37" playOrder="37">
+					<navLabel>
+						<text>IV: A Tear for a Drop of Water</text>
+					</navLabel>
+					<content src="text/chapter-6-4.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-38" playOrder="38">
+					<navLabel>
+						<text>V: End of the Story of the Cake</text>
+					</navLabel>
+					<content src="text/chapter-6-5.xhtml"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-39" playOrder="39">
+				<navLabel>
+					<text>Book VII</text>
+				</navLabel>
+				<content src="text/book-7.xhtml"/>
+				<navPoint id="navpoint-40" playOrder="40">
+					<navLabel>
+						<text>I: The Danger of Confiding One’s Secret to a Goat</text>
+					</navLabel>
+					<content src="text/chapter-7-1.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-41" playOrder="41">
+					<navLabel>
+						<text>II: A Priest and a Philosopher Are Two Different Things</text>
+					</navLabel>
+					<content src="text/chapter-7-2.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-42" playOrder="42">
+					<navLabel>
+						<text>III: The Bells</text>
+					</navLabel>
+					<content src="text/chapter-7-3.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-43" playOrder="43">
+					<navLabel>
+						<text>IV: Ἀνάγκη</text>
+					</navLabel>
+					<content src="text/chapter-7-4.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-44" playOrder="44">
+					<navLabel>
+						<text>V: The Two Men Clothed in Black</text>
+					</navLabel>
+					<content src="text/chapter-7-5.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-45" playOrder="45">
+					<navLabel>
+						<text>VI: The Effect Which Seven Oaths in the Open Air Can Produce</text>
+					</navLabel>
+					<content src="text/chapter-7-6.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-46" playOrder="46">
+					<navLabel>
+						<text>VII: The Mysterious Monk</text>
+					</navLabel>
+					<content src="text/chapter-7-7.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-47" playOrder="47">
+					<navLabel>
+						<text>VIII: The Utility of Windows Which Open on the River</text>
+					</navLabel>
+					<content src="text/chapter-7-8.xhtml"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-48" playOrder="48">
+				<navLabel>
+					<text>Book VIII</text>
+				</navLabel>
+				<content src="text/book-8.xhtml"/>
+				<navPoint id="navpoint-49" playOrder="49">
+					<navLabel>
+						<text>I: The Crown Changed Into a Dry Leaf</text>
+					</navLabel>
+					<content src="text/chapter-8-1.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-50" playOrder="50">
+					<navLabel>
+						<text>II: Continuation of the Crown Which Was Changed Into a Dry Leaf</text>
+					</navLabel>
+					<content src="text/chapter-8-2.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-51" playOrder="51">
+					<navLabel>
+						<text>III: End of the Crown Which Was Turned Into a Dry Leaf</text>
+					</navLabel>
+					<content src="text/chapter-8-3.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-52" playOrder="52">
+					<navLabel>
+						<text>IV: Lasciate Ogni Speranza—Leave All Hope Behind, Ye Who Enter Here</text>
+					</navLabel>
+					<content src="text/chapter-8-4.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-53" playOrder="53">
+					<navLabel>
+						<text>V: The Mother</text>
+					</navLabel>
+					<content src="text/chapter-8-5.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-54" playOrder="54">
+					<navLabel>
+						<text>VI: Three Human Hearts Differently Constructed</text>
+					</navLabel>
+					<content src="text/chapter-8-6.xhtml"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-55" playOrder="55">
+				<navLabel>
+					<text>Book IX</text>
+				</navLabel>
+				<content src="text/book-9.xhtml"/>
+				<navPoint id="navpoint-56" playOrder="56">
+					<navLabel>
+						<text>I: Delirium</text>
+					</navLabel>
+					<content src="text/chapter-9-1.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-57" playOrder="57">
+					<navLabel>
+						<text>II: Hunchbacked, One-Eyed, Lame</text>
+					</navLabel>
+					<content src="text/chapter-9-2.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-58" playOrder="58">
+					<navLabel>
+						<text>III: Deaf</text>
+					</navLabel>
+					<content src="text/chapter-9-3.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-59" playOrder="59">
+					<navLabel>
+						<text>IV: Earthenware and Crystal</text>
+					</navLabel>
+					<content src="text/chapter-9-4.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-60" playOrder="60">
+					<navLabel>
+						<text>V: The Key to the Red Door</text>
+					</navLabel>
+					<content src="text/chapter-9-5.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-61" playOrder="61">
+					<navLabel>
+						<text>VI: Continuation of the Key to the Red Door</text>
+					</navLabel>
+					<content src="text/chapter-9-6.xhtml"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-62" playOrder="62">
+				<navLabel>
+					<text>Book X</text>
+				</navLabel>
+				<content src="text/book-10.xhtml"/>
+				<navPoint id="navpoint-63" playOrder="63">
+					<navLabel>
+						<text>I: Gringoire Has Many Good Ideas in Succession.—Rue des Bernardins</text>
+					</navLabel>
+					<content src="text/chapter-10-1.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-64" playOrder="64">
+					<navLabel>
+						<text>II: Turn Vagabond</text>
+					</navLabel>
+					<content src="text/chapter-10-2.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-65" playOrder="65">
+					<navLabel>
+						<text>III: Long Live Mirth</text>
+					</navLabel>
+					<content src="text/chapter-10-3.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-66" playOrder="66">
+					<navLabel>
+						<text>IV: An Awkward Friend</text>
+					</navLabel>
+					<content src="text/chapter-10-4.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-67" playOrder="67">
+					<navLabel>
+						<text>V: The Retreat in Which Monsieur Louis of France Says His Prayers</text>
+					</navLabel>
+					<content src="text/chapter-10-5.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-68" playOrder="68">
+					<navLabel>
+						<text>VI: Little Sword in Pocket</text>
+					</navLabel>
+					<content src="text/chapter-10-6.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-69" playOrder="69">
+					<navLabel>
+						<text>VII: Châteaupers to the Rescue</text>
+					</navLabel>
+					<content src="text/chapter-10-7.xhtml"/>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-70" playOrder="70">
+				<navLabel>
+					<text>Book XI</text>
+				</navLabel>
+				<content src="text/book-11.xhtml"/>
+				<navPoint id="navpoint-71" playOrder="71">
+					<navLabel>
+						<text>I: The Little Shoe</text>
+					</navLabel>
+					<content src="text/chapter-11-1.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-72" playOrder="72">
+					<navLabel>
+						<text>II: “La Creatura Bella Bianco Vestita”</text>
+					</navLabel>
+					<content src="text/chapter-11-2.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-73" playOrder="73">
+					<navLabel>
+						<text>III: The Marriage of Phoebus</text>
+					</navLabel>
+					<content src="text/chapter-11-3.xhtml"/>
+				</navPoint>
+				<navPoint id="navpoint-74" playOrder="74">
+					<navLabel>
+						<text>IV: The Marriage of Quasimodo</text>
+					</navLabel>
+					<content src="text/chapter-11-4.xhtml"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-75" playOrder="75">
+			<navLabel>
+				<text>Note</text>
+			</navLabel>
+			<content src="text/note.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-76" playOrder="76">
+			<navLabel>
+				<text>Endnotes</text>
+			</navLabel>
+			<content src="text/endnotes.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-77" playOrder="77">
+			<navLabel>
+				<text>Colophon</text>
+			</navLabel>
+			<content src="text/colophon.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-78" playOrder="78">
+			<navLabel>
+				<text>Uncopyright</text>
+			</navLabel>
+			<content src="text/uncopyright.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>
