@@ -1,0 +1,2000 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+   <head>
+      <meta name="dtb:uid" content="epubmerge-uid-1655233300"/>
+      <meta name="dtb:depth" content="3"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>I promessi sposi</text>
+   </docTitle>
+   <navMap>
+      <navPoint id="book000" playOrder="1">
+         <navLabel>
+            <text>I promessi sposi. / Opere di Alessando Manzoni, vol. 1</text>
+         </navLabel>
+         <content src="1/OEBPS/wrap0000.html"/>
+         <navPoint id="a1np-1" playOrder="2">
+            
+      
+            <navLabel>
+               
+        
+               <text>I Promessi Sposi</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-0.htm.html#pgepubid00000"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-2" playOrder="3">
+            
+      
+            <navLabel>
+               
+        
+               <text>I PROMESSI SPOSI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-0.htm.html#pgepubid00001"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-3" playOrder="4">
+            
+      
+            <navLabel>
+               
+        
+               <text>I Promessi Sposi</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-0.htm.html#pgepubid00002"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-4" playOrder="5">
+            
+      
+            <navLabel>
+               
+        
+               <text>I.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-0.htm.html#pgepubid00003"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-5" playOrder="6">
+            
+      
+            <navLabel>
+               
+        
+               <text>II.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-0.htm.html#pgepubid00004"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-6" playOrder="7">
+            
+      
+            <navLabel>
+               
+        
+               <text>III.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-0.htm.html#pgepubid00005"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-7" playOrder="8">
+            
+      
+            <navLabel>
+               
+        
+               <text>IV.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-0.htm.html#pgepubid00006"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-8" playOrder="9">
+            
+      
+            <navLabel>
+               
+        
+               <text>V.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-0.htm.html#pgepubid00007"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-9" playOrder="10">
+            
+      
+            <navLabel>
+               
+        
+               <text>VI.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-1.htm.html#pgepubid00008"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-10" playOrder="11">
+            
+      
+            <navLabel>
+               
+        
+               <text>VII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-1.htm.html#pgepubid00009"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-11" playOrder="12">
+            
+      
+            <navLabel>
+               
+        
+               <text>VIII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-1.htm.html#pgepubid00010"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-12" playOrder="13">
+            
+      
+            <navLabel>
+               
+        
+               <text>IX.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-1.htm.html#pgepubid00011"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-13" playOrder="14">
+            
+      
+            <navLabel>
+               
+        
+               <text>X.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-1.htm.html#pgepubid00012"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-14" playOrder="15">
+            
+      
+            <navLabel>
+               
+        
+               <text>I PROMESSI SPOSI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-2.htm.html#pgepubid00013"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-15" playOrder="16">
+            
+      
+            <navLabel>
+               
+        
+               <text>INDICE DEI CAPITOLI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-2.htm.html#pgepubid00014"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-16" playOrder="17">
+            
+      
+            <navLabel>
+               
+        
+               <text>INTRODUZIONE</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-3.htm.html#pgepubid00015"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-17" playOrder="18">
+            
+      
+            <navLabel>
+               
+        
+               <text>I PROMESSI SPOSI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-3.htm.html#pgepubid00016"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-18" playOrder="19">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO PRIMO.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-3.htm.html#pgepubid00017"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-19" playOrder="20">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO II.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-3.htm.html#pgepubid00018"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-20" playOrder="21">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO III.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-4.htm.html#pgepubid00019"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-21" playOrder="22">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO IV.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-4.htm.html#pgepubid00020"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-22" playOrder="23">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO V.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-5.htm.html#pgepubid00021"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-23" playOrder="24">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO VI.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-5.htm.html#pgepubid00022"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-24" playOrder="25">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO VII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-6.htm.html#pgepubid00023"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-25" playOrder="26">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO VIII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-6.htm.html#pgepubid00024"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-26" playOrder="27">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO IX.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-7.htm.html#pgepubid00025"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-27" playOrder="28">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO X.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-7.htm.html#pgepubid00026"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-28" playOrder="29">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XI.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-8.htm.html#pgepubid00027"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-29" playOrder="30">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-8.htm.html#pgepubid00028"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-30" playOrder="31">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XIII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-9.htm.html#pgepubid00029"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-31" playOrder="32">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XIV.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-9.htm.html#pgepubid00030"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-32" playOrder="33">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XV.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-10.htm.html#pgepubid00031"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-33" playOrder="34">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XVI.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-10.htm.html#pgepubid00032"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-34" playOrder="35">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XVII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-11.htm.html#pgepubid00033"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-35" playOrder="36">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XVIII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-11.htm.html#pgepubid00034"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-36" playOrder="37">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XIX.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-12.htm.html#pgepubid00035"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-37" playOrder="38">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XX.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-12.htm.html#pgepubid00036"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-38" playOrder="39">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXI.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-13.htm.html#pgepubid00037"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-39" playOrder="40">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-13.htm.html#pgepubid00038"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-40" playOrder="41">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXIII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-14.htm.html#pgepubid00039"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-41" playOrder="42">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXIV.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-14.htm.html#pgepubid00040"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-42" playOrder="43">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXV.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-15.htm.html#pgepubid00041"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-43" playOrder="44">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXVI.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-15.htm.html#pgepubid00042"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-44" playOrder="45">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXVII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-16.htm.html#pgepubid00043"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-45" playOrder="46">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXVIII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-16.htm.html#pgepubid00044"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-46" playOrder="47">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXIX.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-17.htm.html#pgepubid00045"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-47" playOrder="48">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXX.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-17.htm.html#pgepubid00046"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-48" playOrder="49">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXXI.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-18.htm.html#pgepubid00047"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-49" playOrder="50">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXXII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-18.htm.html#pgepubid00048"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-50" playOrder="51">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXXIII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-19.htm.html#pgepubid00049"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-51" playOrder="52">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXXIV.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-19.htm.html#pgepubid00050"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-52" playOrder="53">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXXV.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-20.htm.html#pgepubid00051"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-53" playOrder="54">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXXVI.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-20.htm.html#pgepubid00052"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-54" playOrder="55">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXXVII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-21.htm.html#pgepubid00053"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-55" playOrder="56">
+            
+      
+            <navLabel>
+               
+        
+               <text>CAPITOLO XXXVIII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/7296699934164433693_45334-h-21.htm.html#pgepubid00054"/>
+            
+    
+         </navPoint>
+      </navPoint>
+      <navPoint id="book001" playOrder="57">
+         <navLabel>
+            <text>Brani inediti dei Promessi Sposi, vol. 1 / Opere di Alessando Manzoni vol. 2 parte 1</text>
+         </navLabel>
+         <content src="2/OEBPS/wrap0000.html"/>
+         <navPoint id="a2np-1" playOrder="58">
+            
+      
+            <navLabel>
+               
+        
+               <text>BRANI INEDITI DEI Promessi Sposi</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-0.htm.html#pgepubid00000"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-2" playOrder="59">
+            
+      
+            <navLabel>
+               
+        
+               <text>INDICE DELLA PRIMA PARTE</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-0.htm.html#pgepubid00001"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-3" playOrder="60">
+            
+      
+            <navLabel>
+               
+        
+               <text>I PRIMI ROMANZI STORICI IN ITALIA E LE MINUTE AUTOGRAFE DE' «PROMESSI SPOSI»</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-1.htm.html#pgepubid00002"/>
+            
+      
+            <navPoint id="a2np-4" playOrder="61">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>I.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/4941681778044175661_46031-h-1.htm.html#pgepubid00003"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a2np-5" playOrder="62">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>II.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/4941681778044175661_46031-h-1.htm.html#pgepubid00004"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a2np-6" playOrder="63">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>III.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/4941681778044175661_46031-h-1.htm.html#pgepubid00005"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a2np-7" playOrder="64">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>IV.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/4941681778044175661_46031-h-2.htm.html#pgepubid00006"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-8" playOrder="65">
+            
+      
+            <navLabel>
+               
+        
+               <text>I.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-3.htm.html#pgepubid00007"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-9" playOrder="66">
+            
+      
+            <navLabel>
+               
+        
+               <text>II.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-4.htm.html#pgepubid00008"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-10" playOrder="67">
+            
+      
+            <navLabel>
+               
+        
+               <text>III.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-7.htm.html#pgepubid00009"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-11" playOrder="68">
+            
+      
+            <navLabel>
+               
+        
+               <text>IV.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-7.htm.html#pgepubid00010"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-12" playOrder="69">
+            
+      
+            <navLabel>
+               
+        
+               <text>V.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-8.htm.html#pgepubid00011"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-13" playOrder="70">
+            
+      
+            <navLabel>
+               
+        
+               <text>VI.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-8.htm.html#pgepubid00012"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-14" playOrder="71">
+            
+      
+            <navLabel>
+               
+        
+               <text>VII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-9.htm.html#pgepubid00013"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-15" playOrder="72">
+            
+      
+            <navLabel>
+               
+        
+               <text>VIII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-9.htm.html#pgepubid00014"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-16" playOrder="73">
+            
+      
+            <navLabel>
+               
+        
+               <text>IX.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-9.htm.html#pgepubid00015"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-17" playOrder="74">
+            
+      
+            <navLabel>
+               
+        
+               <text>X.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-10.htm.html#pgepubid00016"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-18" playOrder="75">
+            
+      
+            <navLabel>
+               
+        
+               <text>XI.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-10.htm.html#pgepubid00017"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-19" playOrder="76">
+            
+      
+            <navLabel>
+               
+        
+               <text>NOTE:</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/4941681778044175661_46031-h-11.htm.html#pgepubid00018"/>
+            
+    
+         </navPoint>
+      </navPoint>
+      <navPoint id="book002" playOrder="77">
+         <navLabel>
+            <text>Brani inediti dei Promessi Sposi, vol. 2 / Opere di Alessando Manzoni vol. 2 parte 2</text>
+         </navLabel>
+         <content src="3/OEBPS/wrap0000.html"/>
+         <navPoint id="a3np-1" playOrder="78">
+            
+      
+            <navLabel>
+               
+        
+               <text>BRANI INEDITI DEI Promessi Sposi</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-1.htm.html#pgepubid00000"/>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-2" playOrder="79">
+            
+      
+            <navLabel>
+               
+        
+               <text>INDICE DELLA SECONDA PARTE</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-1.htm.html#pgepubid00001"/>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-3" playOrder="80">
+            
+      
+            <navLabel>
+               
+        
+               <text>LE PRIME ACCOGLIENZE</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-2.htm.html#pgepubid00002"/>
+            
+      
+            <navPoint id="a3np-4" playOrder="81">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>I.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-2.htm.html#pgepubid00003"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-5" playOrder="82">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>II.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-2.htm.html#pgepubid00004"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-6" playOrder="83">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>III.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-3.htm.html#pgepubid00005"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-7" playOrder="84">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>IV.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-3.htm.html#pgepubid00006"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-8" playOrder="85">
+            
+      
+            <navLabel>
+               
+        
+               <text>XI.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-4.htm.html#pgepubid00007"/>
+            
+      
+            <navPoint id="a3np-9" playOrder="86">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Fuga di Don Rodrigo.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-4.htm.html#pgepubid00008"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-10" playOrder="87">
+            
+      
+            <navLabel>
+               
+        
+               <text>XII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-4.htm.html#pgepubid00009"/>
+            
+      
+            <navPoint id="a3np-11" playOrder="88">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Ritorno di Lucia al suo paese.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-4.htm.html#pgepubid00010"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-12" playOrder="89">
+            
+      
+            <navLabel>
+               
+        
+               <text>XIII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-4.htm.html#pgepubid00011"/>
+            
+      
+            <navPoint id="a3np-13" playOrder="90">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Visita del Conte del Sagrato a Lucia</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-4.htm.html#pgepubid00012"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-14" playOrder="91">
+            
+      
+            <navLabel>
+               
+        
+               <text>XV.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-4.htm.html#pgepubid00013"/>
+            
+      
+            <navPoint id="a3np-15" playOrder="92">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Cure del Cardinal Federigo per mettere al sicuro Lucia.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-4.htm.html#pgepubid00014"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-16" playOrder="93">
+            
+      
+            <navLabel>
+               
+        
+               <text>XVI.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-4.htm.html#pgepubid00015"/>
+            
+      
+            <navPoint id="a3np-17" playOrder="94">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Il tozzo di pane e il bicchier d'acqua del Cardinal Federigo.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-4.htm.html#pgepubid00016"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-18" playOrder="95">
+            
+      
+            <navLabel>
+               
+        
+               <text>XVII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-5.htm.html#pgepubid00017"/>
+            
+      
+            <navPoint id="a3np-19" playOrder="96">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La carestia del 1628—Ragioni, rimedi e moti dell'opinione pubblica nelle carestie.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-5.htm.html#pgepubid00018"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-20" playOrder="97">
+            
+      
+            <navLabel>
+               
+        
+               <text>XVIII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-5.htm.html#pgepubid00019"/>
+            
+      
+            <navPoint id="a3np-21" playOrder="98">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Don Ferrante e la sua famiglia.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-5.htm.html#pgepubid00020"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-22" playOrder="99">
+            
+      
+            <navLabel>
+               
+        
+               <text>XIX.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-6.htm.html#pgepubid00021"/>
+            
+      
+            <navPoint id="a3np-23" playOrder="100">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Il passaggio de' lanzichenecchi.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-6.htm.html#pgepubid00022"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-24" playOrder="101">
+            
+      
+            <navLabel>
+               
+        
+               <text>XX.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-6.htm.html#pgepubid00023"/>
+            
+      
+            <navPoint id="a3np-25" playOrder="102">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Dialogo sulla peste tra Don Ferrante e il Signor Lucio.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-6.htm.html#pgepubid00024"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-26" playOrder="103">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXI.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-7.htm.html#pgepubid00025"/>
+            
+      
+            <navPoint id="a3np-27" playOrder="104">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La peste a Bergamo—Ritorno di Fermo al paese nativo—Suo incontro con Don Abbondio e con Agnese.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-7.htm.html#pgepubid00026"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-28" playOrder="105">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-7.htm.html#pgepubid00027"/>
+            
+      
+            <navPoint id="a3np-29" playOrder="106">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Fermo trova Lucia nel lazzeretto.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-7.htm.html#pgepubid00028"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-30" playOrder="107">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXIII.</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-7.htm.html#pgepubid00029"/>
+            
+      
+            <navPoint id="a3np-31" playOrder="108">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Scioglimento del voto di Lucia e morte di Don Rodrigo.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-7.htm.html#pgepubid00030"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-32" playOrder="109">
+            
+      
+            <navLabel>
+               
+        
+               <text>APPENDICI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-9.htm.html#pgepubid00031"/>
+            
+      
+            <navPoint id="a3np-33" playOrder="110">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>I.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-9.htm.html#pgepubid00032"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-34" playOrder="111">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>II.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-9.htm.html#pgepubid00033"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-35" playOrder="112">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>III.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-9.htm.html#pgepubid00034"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-36" playOrder="113">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>IV.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-9.htm.html#pgepubid00035"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-37" playOrder="114">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>V.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-9.htm.html#pgepubid00036"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-38" playOrder="115">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>VI.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-9.htm.html#pgepubid00037"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-39" playOrder="116">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>VII.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-9.htm.html#pgepubid00038"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-40" playOrder="117">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>VIII.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-9.htm.html#pgepubid00039"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-41" playOrder="118">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>IX.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-9.htm.html#pgepubid00040"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-42" playOrder="119">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>X.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-10.htm.html#pgepubid00041"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-43" playOrder="120">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>XI.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-10.htm.html#pgepubid00042"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-44" playOrder="121">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>XII.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/4196194295218072103_46463-h-11.htm.html#pgepubid00043"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-45" playOrder="122">
+            
+      
+            <navLabel>
+               
+        
+               <text>NOTE:</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/4196194295218072103_46463-h-12.htm.html#pgepubid00044"/>
+            
+    
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>

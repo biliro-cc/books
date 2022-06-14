@@ -1,0 +1,449 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fr">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/23582"/>
+    <meta name="dtb:depth" content="4"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.11.30 by Project Gutenberg"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>La Mare au Diable</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>NOTICE</text>
+      </navLabel>
+      <content src="8893391014124107030_23582-0-0.txt.html#id00019"/>
+      <navPoint id="np-2" playOrder="2">
+        <navLabel>
+          <text>GEORGE SAND.</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-0.txt.html#id00021"/>
+      </navPoint>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>TABLE NOTICE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-0.txt.html#id00023"/>
+      </navPoint>
+      <navPoint id="np-4" playOrder="4">
+        <navLabel>
+          <text>APPENDICE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-0.txt.html#id00042"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>LA</text>
+      </navLabel>
+      <content src="8893391014124107030_23582-0-0.txt.html#id00047"/>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>L’AUTEUR AU LECTEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-0.txt.html#id00050"/>
+      </navPoint>
+      <navPoint id="np-7" playOrder="7">
+        <navLabel>
+          <text>II LE LABOUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-0.txt.html#id00066"/>
+      </navPoint>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>III LE PERE MAURICE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-0.txt.html#id00086"/>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>IV GERMAIN LE FIN LABOUREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-0.txt.html#id00104"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="8893391014124107030_23582-0-0.txt.html#id00131"/>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>LA GUILLETTE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-0.txt.html#id00132"/>
+      </navPoint>
+      <navPoint id="np-12" playOrder="12">
+        <navLabel>
+          <text>VI PETIT-PIERRE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-0.txt.html#id00155"/>
+      </navPoint>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>VII DANS LA LANDE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-0.txt.html#id00209"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>VIII SOUS LES GRANDS CHENES</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-1.txt.html#id00237"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-15" playOrder="15">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="8893391014124107030_23582-0-1.txt.html#id00304"/>
+      <navPoint id="np-16" playOrder="16">
+        <navLabel>
+          <text>LA PRIERE DU SOIR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-1.txt.html#id00305"/>
+      </navPoint>
+      <navPoint id="np-17" playOrder="17">
+        <navLabel>
+          <text>X MALGRE LE FROID</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-1.txt.html#id00336"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-18" playOrder="18">
+      <navLabel>
+        <text>XI</text>
+      </navLabel>
+      <content src="8893391014124107030_23582-0-1.txt.html#id00393"/>
+      <navPoint id="np-19" playOrder="19">
+        <navLabel>
+          <text>A LA BELLE ETOILE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-1.txt.html#id00394"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-20" playOrder="20">
+      <navLabel>
+        <text>XII</text>
+      </navLabel>
+      <content src="8893391014124107030_23582-0-1.txt.html#id00429"/>
+      <navPoint id="np-21" playOrder="21">
+        <navLabel>
+          <text>LA LIONNE DU VILLAGE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-1.txt.html#id00430"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-22" playOrder="22">
+      <navLabel>
+        <text>XIII</text>
+      </navLabel>
+      <content src="8893391014124107030_23582-0-1.txt.html#id00449"/>
+      <navPoint id="np-23" playOrder="23">
+        <navLabel>
+          <text>LE MAITRE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-1.txt.html#id00450"/>
+      </navPoint>
+      <navPoint id="np-24" playOrder="24">
+        <navLabel>
+          <text>XIV LA VIEILLE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00504"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-25" playOrder="25">
+      <navLabel>
+        <text>XV</text>
+      </navLabel>
+      <content src="8893391014124107030_23582-0-2.txt.html#id00551"/>
+      <navPoint id="np-26" playOrder="26">
+        <navLabel>
+          <text>LE RETOUR À LA FERME</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00552"/>
+      </navPoint>
+      <navPoint id="np-27" playOrder="27">
+        <navLabel>
+          <text>XVI LA MERE MAURICE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00574"/>
+      </navPoint>
+      <navPoint id="np-28" playOrder="28">
+        <navLabel>
+          <text>XVII LA PETITE MARIE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00609"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-29" playOrder="29">
+      <navLabel>
+        <text>APPENDICE</text>
+      </navLabel>
+      <content src="8893391014124107030_23582-0-2.txt.html#id00632"/>
+      <navPoint id="np-30" playOrder="30">
+        <navLabel>
+          <text>I LES NOCES DE CAMPAGNE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00633"/>
+      </navPoint>
+      <navPoint id="np-31" playOrder="31">
+        <navLabel>
+          <text>II LES LIVREES</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00656"/>
+      </navPoint>
+      <navPoint id="np-32" playOrder="32">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00662"/>
+      </navPoint>
+      <navPoint id="np-33" playOrder="33">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00664"/>
+      </navPoint>
+      <navPoint id="np-34" playOrder="34">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00666"/>
+      </navPoint>
+      <navPoint id="np-35" playOrder="35">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00668"/>
+      </navPoint>
+      <navPoint id="np-36" playOrder="36">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00670"/>
+      </navPoint>
+      <navPoint id="np-37" playOrder="37">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00672"/>
+      </navPoint>
+      <navPoint id="np-38" playOrder="38">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00674"/>
+      </navPoint>
+      <navPoint id="np-39" playOrder="39">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00676"/>
+      </navPoint>
+      <navPoint id="np-40" playOrder="40">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00678"/>
+      </navPoint>
+      <navPoint id="np-41" playOrder="41">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00680"/>
+      </navPoint>
+      <navPoint id="np-42" playOrder="42">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00682"/>
+      </navPoint>
+      <navPoint id="np-43" playOrder="43">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00684"/>
+      </navPoint>
+      <navPoint id="np-44" playOrder="44">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00686"/>
+      </navPoint>
+      <navPoint id="np-45" playOrder="45">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00688"/>
+      </navPoint>
+      <navPoint id="np-46" playOrder="46">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00690"/>
+      </navPoint>
+      <navPoint id="np-47" playOrder="47">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00692"/>
+      </navPoint>
+      <navPoint id="np-48" playOrder="48">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00694"/>
+      </navPoint>
+      <navPoint id="np-49" playOrder="49">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00696"/>
+      </navPoint>
+      <navPoint id="np-50" playOrder="50">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00698"/>
+      </navPoint>
+      <navPoint id="np-51" playOrder="51">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00700"/>
+      </navPoint>
+      <navPoint id="np-52" playOrder="52">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00704"/>
+      </navPoint>
+      <navPoint id="np-53" playOrder="53">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00706"/>
+      </navPoint>
+      <navPoint id="np-54" playOrder="54">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00708"/>
+      </navPoint>
+      <navPoint id="np-55" playOrder="55">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00710"/>
+      </navPoint>
+      <navPoint id="np-56" playOrder="56">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00712"/>
+      </navPoint>
+      <navPoint id="np-57" playOrder="57">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00714"/>
+      </navPoint>
+      <navPoint id="np-58" playOrder="58">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00721"/>
+      </navPoint>
+      <navPoint id="np-59" playOrder="59">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00723"/>
+      </navPoint>
+      <navPoint id="np-60" playOrder="60">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00730"/>
+      </navPoint>
+      <navPoint id="np-61" playOrder="61">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00733"/>
+      </navPoint>
+      <navPoint id="np-62" playOrder="62">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00736"/>
+      </navPoint>
+      <navPoint id="np-63" playOrder="63">
+        <navLabel>
+          <text>LE CHANVREUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00738"/>
+      </navPoint>
+      <navPoint id="np-64" playOrder="64">
+        <navLabel>
+          <text>LE FOSSOYEUR</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00740"/>
+      </navPoint>
+      <navPoint id="np-65" playOrder="65">
+        <navLabel>
+          <text>III LE MARIAGE</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-2.txt.html#id00763"/>
+      </navPoint>
+      <navPoint id="np-66" playOrder="66">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="8893391014124107030_23582-0-3.txt.html#id00790"/>
+        <navPoint id="np-67" playOrder="67">
+          <navLabel>
+            <text>LE CHOU</text>
+          </navLabel>
+          <content src="8893391014124107030_23582-0-3.txt.html#id00791"/>
+        </navPoint>
+        <navPoint id="np-68" playOrder="68">
+          <navLabel>
+            <text>*** START: FULL LICENSE ***</text>
+          </navLabel>
+          <content src="8893391014124107030_23582-0-3.txt.html#id00820"/>
+          <navPoint id="np-69" playOrder="69">
+            <navLabel>
+              <text>Section 1. General Terms of Use and Redistributing Project Gutenberg-tm electronic works</text>
+            </navLabel>
+            <content src="8893391014124107030_23582-0-3.txt.html#id00823"/>
+          </navPoint>
+          <navPoint id="np-70" playOrder="70">
+            <navLabel>
+              <text>Section 2. Information about the Mission of Project Gutenberg-tm</text>
+            </navLabel>
+            <content src="8893391014124107030_23582-0-3.txt.html#id00850"/>
+          </navPoint>
+          <navPoint id="np-71" playOrder="71">
+            <navLabel>
+              <text>Section 3. Information about the Project Gutenberg Literary Archive Foundation</text>
+            </navLabel>
+            <content src="8893391014124107030_23582-0-3.txt.html#id00853"/>
+          </navPoint>
+          <navPoint id="np-72" playOrder="72">
+            <navLabel>
+              <text>Section 5. General Information About Project Gutenberg-tm electronic works.</text>
+            </navLabel>
+            <content src="8893391014124107030_23582-0-3.txt.html#id00863"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

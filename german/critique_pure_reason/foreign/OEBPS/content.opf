@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/6343</dc:identifier>
+    <dc:creator opf:file-as="Kant, Immanuel">Immanuel Kant</dc:creator>
+    <dc:title>Kritik der reinen Vernunft / Zweite hin und wieder verbesserte Auflage (1787)</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">de</dc:language>
+    <dc:subject>Knowledge, Theory of</dc:subject>
+    <dc:subject>Causation</dc:subject>
+    <dc:subject>Reason</dc:subject>
+    <dc:subject>Philosophy, German</dc:subject>
+    <dc:date opf:event="publication">2004-08-01</dc:date>
+    <dc:date opf:event="conversion">2022-06-03T13:35:32.995933+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/6343/6343-8.txt</dc:source>
+    <meta name="cover" content="item1"/>
+  </metadata>
+  <manifest>
+    <!--Image: 1200 x 1800 size=56630 -->
+    <item href="7759741815389260088_6343-cover.png" id="item1" media-type="image/png"/>
+    <item href="pgepub.css" id="item2" media-type="text/css"/>
+    <item href="0.css" id="item3" media-type="text/css"/>
+    <!--Chunk: size=82226 Split on p-->
+    <item href="2533416955627504184_6343-8-0.txt.html" id="id00000" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=83446 Split on p-->
+    <item href="2533416955627504184_6343-8-1.txt.html" id="id00060" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82771 Split on p-->
+    <item href="2533416955627504184_6343-8-2.txt.html" id="id00153" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=84347 Split on p-->
+    <item href="2533416955627504184_6343-8-3.txt.html" id="id00244" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82507 Split on p-->
+    <item href="2533416955627504184_6343-8-4.txt.html" id="id00333" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82880 Split on p-->
+    <item href="2533416955627504184_6343-8-5.txt.html" id="id00432" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82218 Split on p-->
+    <item href="2533416955627504184_6343-8-6.txt.html" id="id00513" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82432 Split on p-->
+    <item href="2533416955627504184_6343-8-7.txt.html" id="id00571" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82853 Split on p-->
+    <item href="2533416955627504184_6343-8-8.txt.html" id="id00653" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=83164 Split on p-->
+    <item href="2533416955627504184_6343-8-9.txt.html" id="id00742" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82372 Split on p-->
+    <item href="2533416955627504184_6343-8-10.txt.html" id="id00853" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82280 Split on p-->
+    <item href="2533416955627504184_6343-8-11.txt.html" id="id00934" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82108 Split on p-->
+    <item href="2533416955627504184_6343-8-12.txt.html" id="id01013" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=83658 Split on p-->
+    <item href="2533416955627504184_6343-8-13.txt.html" id="id01094" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82232 Split on p-->
+    <item href="2533416955627504184_6343-8-14.txt.html" id="id01154" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82175 Split on p-->
+    <item href="2533416955627504184_6343-8-15.txt.html" id="id01222" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82240 Split on p-->
+    <item href="2533416955627504184_6343-8-16.txt.html" id="id01286" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=20191-->
+    <item href="2533416955627504184_6343-8-17.txt.html" id="id01372" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="id00000" linear="yes"/>
+    <itemref idref="id00060" linear="yes"/>
+    <itemref idref="id00153" linear="yes"/>
+    <itemref idref="id00244" linear="yes"/>
+    <itemref idref="id00333" linear="yes"/>
+    <itemref idref="id00432" linear="yes"/>
+    <itemref idref="id00513" linear="yes"/>
+    <itemref idref="id00571" linear="yes"/>
+    <itemref idref="id00653" linear="yes"/>
+    <itemref idref="id00742" linear="yes"/>
+    <itemref idref="id00853" linear="yes"/>
+    <itemref idref="id00934" linear="yes"/>
+    <itemref idref="id01013" linear="yes"/>
+    <itemref idref="id01094" linear="yes"/>
+    <itemref idref="id01154" linear="yes"/>
+    <itemref idref="id01222" linear="yes"/>
+    <itemref idref="id01286" linear="yes"/>
+    <itemref idref="id01372" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>

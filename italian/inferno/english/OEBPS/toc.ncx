@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/1995"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.11.30 by Project Gutenberg"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The Divine Comedy, Volume 1, Hell</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>HELL</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-0.txt.html#id00058"/>
+      <navPoint id="np-2" playOrder="2">
+        <navLabel>
+          <text>CAMBRIDGE, MASSACHUSETTS,</text>
+        </navLabel>
+        <content src="7397502361032331232_1995-0.txt.html#id00065"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-0.txt.html#id00068"/>
+      <navPoint id="np-4" playOrder="4">
+        <navLabel>
+          <text>INTRODUCTION.</text>
+        </navLabel>
+        <content src="7397502361032331232_1995-0.txt.html#id00103"/>
+      </navPoint>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>AIDS TO THE STUDY OF THE DIVINE COMEDY.</text>
+        </navLabel>
+        <content src="7397502361032331232_1995-0.txt.html#id00124"/>
+      </navPoint>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>HELL.</text>
+        </navLabel>
+        <content src="7397502361032331232_1995-0.txt.html#id00132"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

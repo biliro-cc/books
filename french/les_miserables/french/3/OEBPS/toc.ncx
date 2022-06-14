@@ -1,0 +1,1001 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fr">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/17494"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.11.30 by Project Gutenberg"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Les misérables Tome III: Marius</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>Les Misérables Victor Hugo</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>Tome III—MARIUS</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00001"/>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>(1862)</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00002"/>
+      </navPoint>
+      <navPoint id="np-4" playOrder="4">
+        <navLabel>
+          <text>TABLE DES MATIÈRES</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00003"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>Livre premier—Paris étudié dans son atome</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00004"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00005"/>
+      <navPoint id="np-7" playOrder="7">
+        <navLabel>
+          <text>Parvulus</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00006"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00007"/>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>Quelques-uns de ses signes particuliers</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00008"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00009"/>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>Il est agréable</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00010"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-12" playOrder="12">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00011"/>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>Il peut être utile</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00012"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-14" playOrder="14">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00013"/>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>Ses frontières</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00014"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-16" playOrder="16">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00015"/>
+      <navPoint id="np-17" playOrder="17">
+        <navLabel>
+          <text>Un peu d'histoire</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00016"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-18" playOrder="18">
+      <navLabel>
+        <text>Chapitre VII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00017"/>
+      <navPoint id="np-19" playOrder="19">
+        <navLabel>
+          <text>Le gamin aurait sa place dans les classifications de l'Inde</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00018"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-20" playOrder="20">
+      <navLabel>
+        <text>Chapitre VIII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00019"/>
+      <navPoint id="np-21" playOrder="21">
+        <navLabel>
+          <text>Où on lira un mot charmant du dernier roi</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00020"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-22" playOrder="22">
+      <navLabel>
+        <text>Chapitre IX</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00021"/>
+      <navPoint id="np-23" playOrder="23">
+        <navLabel>
+          <text>La vieille âme de la Gaule</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00022"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-24" playOrder="24">
+      <navLabel>
+        <text>Chapitre X</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00023"/>
+      <navPoint id="np-25" playOrder="25">
+        <navLabel>
+          <text>Ecce Paris, ecce homo</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00024"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-26" playOrder="26">
+      <navLabel>
+        <text>Chapitre XI</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00025"/>
+      <navPoint id="np-27" playOrder="27">
+        <navLabel>
+          <text>Railler, régner</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00026"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-28" playOrder="28">
+      <navLabel>
+        <text>Chapitre XII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00027"/>
+      <navPoint id="np-29" playOrder="29">
+        <navLabel>
+          <text>L'avenir latent dans le peuple</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00028"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-30" playOrder="30">
+      <navLabel>
+        <text>Chapitre XIII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00029"/>
+      <navPoint id="np-31" playOrder="31">
+        <navLabel>
+          <text>Le petit Gavroche</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00030"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-32" playOrder="32">
+      <navLabel>
+        <text>Livre deuxième—Le grand bourgeois</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00031"/>
+    </navPoint>
+    <navPoint id="np-33" playOrder="33">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00032"/>
+      <navPoint id="np-34" playOrder="34">
+        <navLabel>
+          <text>Quatrevingt-dix ans et trente-deux dents</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-0.htm.html#pgepubid00033"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-35" playOrder="35">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00034"/>
+      <navPoint id="np-36" playOrder="36">
+        <navLabel>
+          <text>Tel maître, tel logis</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00035"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-37" playOrder="37">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00036"/>
+      <navPoint id="np-38" playOrder="38">
+        <navLabel>
+          <text>Luc-Esprit</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00037"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-39" playOrder="39">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00038"/>
+      <navPoint id="np-40" playOrder="40">
+        <navLabel>
+          <text>Aspirant centenaire</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00039"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-41" playOrder="41">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00040"/>
+      <navPoint id="np-42" playOrder="42">
+        <navLabel>
+          <text>Basque et Nicolette</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00041"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-43" playOrder="43">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00042"/>
+      <navPoint id="np-44" playOrder="44">
+        <navLabel>
+          <text>Où l'on entrevoit la Magnon et ses deux petits</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00043"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-45" playOrder="45">
+      <navLabel>
+        <text>Chapitre VII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00044"/>
+      <navPoint id="np-46" playOrder="46">
+        <navLabel>
+          <text>Règle: Ne recevoir personne que le soir</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00045"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-47" playOrder="47">
+      <navLabel>
+        <text>Chapitre VIII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00046"/>
+      <navPoint id="np-48" playOrder="48">
+        <navLabel>
+          <text>Les deux ne font pas la paire</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00047"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-49" playOrder="49">
+      <navLabel>
+        <text>Livre troisième—Le grand-père et le petit-fils</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00048"/>
+    </navPoint>
+    <navPoint id="np-50" playOrder="50">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00049"/>
+      <navPoint id="np-51" playOrder="51">
+        <navLabel>
+          <text>Un ancien salon</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00050"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-52" playOrder="52">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00051"/>
+      <navPoint id="np-53" playOrder="53">
+        <navLabel>
+          <text>Un des spectres rouges de ce temps-là</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00052"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-54" playOrder="54">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00053"/>
+      <navPoint id="np-55" playOrder="55">
+        <navLabel>
+          <text>Requiescant</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00054"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-56" playOrder="56">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00055"/>
+      <navPoint id="np-57" playOrder="57">
+        <navLabel>
+          <text>Fin du brigand</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-1.htm.html#pgepubid00056"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-58" playOrder="58">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-2.htm.html#pgepubid00057"/>
+      <navPoint id="np-59" playOrder="59">
+        <navLabel>
+          <text>Utilité d'aller à la messe pour devenir révolutionnaire</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-2.htm.html#pgepubid00058"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-60" playOrder="60">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-2.htm.html#pgepubid00059"/>
+      <navPoint id="np-61" playOrder="61">
+        <navLabel>
+          <text>Ce que c'est que d'avoir rencontrer un marguillier</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-2.htm.html#pgepubid00060"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-62" playOrder="62">
+      <navLabel>
+        <text>Chapitre VII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-2.htm.html#pgepubid00061"/>
+      <navPoint id="np-63" playOrder="63">
+        <navLabel>
+          <text>Quelque cotillon</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-2.htm.html#pgepubid00062"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-64" playOrder="64">
+      <navLabel>
+        <text>Chapitre VIII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-2.htm.html#pgepubid00063"/>
+      <navPoint id="np-65" playOrder="65">
+        <navLabel>
+          <text>Marbre contre granit</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-2.htm.html#pgepubid00064"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-66" playOrder="66">
+      <navLabel>
+        <text>Livre quatrième—Les amis de l'A B C</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-2.htm.html#pgepubid00065"/>
+    </navPoint>
+    <navPoint id="np-67" playOrder="67">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-2.htm.html#pgepubid00066"/>
+      <navPoint id="np-68" playOrder="68">
+        <navLabel>
+          <text>Un groupe qui a failli devenir historique</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-2.htm.html#pgepubid00067"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-69" playOrder="69">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00068"/>
+      <navPoint id="np-70" playOrder="70">
+        <navLabel>
+          <text>Oraison funèbre de Blondeau, par Bossuet</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00069"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-71" playOrder="71">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00070"/>
+      <navPoint id="np-72" playOrder="72">
+        <navLabel>
+          <text>Les étonnements de Marius</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00071"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-73" playOrder="73">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00072"/>
+      <navPoint id="np-74" playOrder="74">
+        <navLabel>
+          <text>L'arrière-salle du café Musain</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00073"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-75" playOrder="75">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00074"/>
+      <navPoint id="np-76" playOrder="76">
+        <navLabel>
+          <text>Élargissement de l'horizon</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00075"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-77" playOrder="77">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00076"/>
+      <navPoint id="np-78" playOrder="78">
+        <navLabel>
+          <text>Res angusta</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00077"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-79" playOrder="79">
+      <navLabel>
+        <text>Livre cinquième—Excellence du malheur</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00078"/>
+    </navPoint>
+    <navPoint id="np-80" playOrder="80">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00079"/>
+      <navPoint id="np-81" playOrder="81">
+        <navLabel>
+          <text>Marius indigent</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00080"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-82" playOrder="82">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00081"/>
+      <navPoint id="np-83" playOrder="83">
+        <navLabel>
+          <text>Marius pauvre</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00082"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-84" playOrder="84">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00083"/>
+      <navPoint id="np-85" playOrder="85">
+        <navLabel>
+          <text>Marius grandi</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-3.htm.html#pgepubid00084"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-86" playOrder="86">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00085"/>
+      <navPoint id="np-87" playOrder="87">
+        <navLabel>
+          <text>M. Mabeuf</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00086"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-88" playOrder="88">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00087"/>
+      <navPoint id="np-89" playOrder="89">
+        <navLabel>
+          <text>Pauvreté, bonne voisine de misère</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00088"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-90" playOrder="90">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00089"/>
+      <navPoint id="np-91" playOrder="91">
+        <navLabel>
+          <text>Le remplaçant</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00090"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-92" playOrder="92">
+      <navLabel>
+        <text>Livre sixième—La conjonction de deux étoiles</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00091"/>
+    </navPoint>
+    <navPoint id="np-93" playOrder="93">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00092"/>
+      <navPoint id="np-94" playOrder="94">
+        <navLabel>
+          <text>Le sobriquet: mode de formation des noms de familles</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00093"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-95" playOrder="95">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00094"/>
+      <navPoint id="np-96" playOrder="96">
+        <navLabel>
+          <text>Lux facta est</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00095"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-97" playOrder="97">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00096"/>
+      <navPoint id="np-98" playOrder="98">
+        <navLabel>
+          <text>Effet de printemps</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00097"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-99" playOrder="99">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00098"/>
+      <navPoint id="np-100" playOrder="100">
+        <navLabel>
+          <text>Commencement d'une grande maladie</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00099"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-101" playOrder="101">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00100"/>
+      <navPoint id="np-102" playOrder="102">
+        <navLabel>
+          <text>Divers coups de foudre tombent sur mame Bougon</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00101"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-103" playOrder="103">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00102"/>
+      <navPoint id="np-104" playOrder="104">
+        <navLabel>
+          <text>Fait prisonnier</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00103"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-105" playOrder="105">
+      <navLabel>
+        <text>Chapitre VII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00104"/>
+      <navPoint id="np-106" playOrder="106">
+        <navLabel>
+          <text>Aventures de la lettre U livrée aux conjectures</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00105"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-107" playOrder="107">
+      <navLabel>
+        <text>Chapitre VIII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00106"/>
+      <navPoint id="np-108" playOrder="108">
+        <navLabel>
+          <text>Les invalides eux-mêmes peuvent être heureux</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-4.htm.html#pgepubid00107"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-109" playOrder="109">
+      <navLabel>
+        <text>Chapitre IX</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00108"/>
+      <navPoint id="np-110" playOrder="110">
+        <navLabel>
+          <text>Éclipse</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00109"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-111" playOrder="111">
+      <navLabel>
+        <text>Livre septième—Patron-minette</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00110"/>
+    </navPoint>
+    <navPoint id="np-112" playOrder="112">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00111"/>
+      <navPoint id="np-113" playOrder="113">
+        <navLabel>
+          <text>Les mines et les mineurs</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00112"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-114" playOrder="114">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00113"/>
+      <navPoint id="np-115" playOrder="115">
+        <navLabel>
+          <text>Le bas-fond</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00114"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-116" playOrder="116">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00115"/>
+      <navPoint id="np-117" playOrder="117">
+        <navLabel>
+          <text>Babet, Gueulemer, Claquesous et Montparnasse</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00116"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-118" playOrder="118">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00117"/>
+      <navPoint id="np-119" playOrder="119">
+        <navLabel>
+          <text>Composition de la troupe</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00118"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-120" playOrder="120">
+      <navLabel>
+        <text>Livre huitième—Le mauvais pauvre</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00119"/>
+    </navPoint>
+    <navPoint id="np-121" playOrder="121">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00120"/>
+      <navPoint id="np-122" playOrder="122">
+        <navLabel>
+          <text>Marius, cherchant une fille en chapeau, rencontre un homme en casquette</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00121"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-123" playOrder="123">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00122"/>
+      <navPoint id="np-124" playOrder="124">
+        <navLabel>
+          <text>Trouvaille</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00123"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-125" playOrder="125">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00124"/>
+      <navPoint id="np-126" playOrder="126">
+        <navLabel>
+          <text>Quadrifrons</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00125"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-127" playOrder="127">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00126"/>
+      <navPoint id="np-128" playOrder="128">
+        <navLabel>
+          <text>Une rose dans la misère</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00127"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-129" playOrder="129">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00128"/>
+      <navPoint id="np-130" playOrder="130">
+        <navLabel>
+          <text>Le judas de la providence</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-5.htm.html#pgepubid00129"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-131" playOrder="131">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00130"/>
+      <navPoint id="np-132" playOrder="132">
+        <navLabel>
+          <text>L'homme fauve au gîte</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00131"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-133" playOrder="133">
+      <navLabel>
+        <text>Chapitre VII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00132"/>
+      <navPoint id="np-134" playOrder="134">
+        <navLabel>
+          <text>Stratégie et tactique</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00133"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-135" playOrder="135">
+      <navLabel>
+        <text>Chapitre VIII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00134"/>
+      <navPoint id="np-136" playOrder="136">
+        <navLabel>
+          <text>Le rayon dans le bouge</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00135"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-137" playOrder="137">
+      <navLabel>
+        <text>Chapitre IX</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00136"/>
+      <navPoint id="np-138" playOrder="138">
+        <navLabel>
+          <text>Jondrette pleure presque</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00137"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-139" playOrder="139">
+      <navLabel>
+        <text>Chapitre X</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00138"/>
+      <navPoint id="np-140" playOrder="140">
+        <navLabel>
+          <text>Tarif des cabriolets de régie: deux francs l'heure</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00139"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-141" playOrder="141">
+      <navLabel>
+        <text>Chapitre XI</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00140"/>
+      <navPoint id="np-142" playOrder="142">
+        <navLabel>
+          <text>Offres de service de la misère à la douleur</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00141"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-143" playOrder="143">
+      <navLabel>
+        <text>Chapitre XII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00142"/>
+      <navPoint id="np-144" playOrder="144">
+        <navLabel>
+          <text>Emploi de la pièce de cinq francs de M. Leblanc</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00143"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-145" playOrder="145">
+      <navLabel>
+        <text>Chapitre XIII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00144"/>
+      <navPoint id="np-146" playOrder="146">
+        <navLabel>
+          <text>Solus cum solo, in loco remoto, non cogitabuntur orare pater noster</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-6.htm.html#pgepubid00145"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-147" playOrder="147">
+      <navLabel>
+        <text>Chapitre XIV</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00146"/>
+      <navPoint id="np-148" playOrder="148">
+        <navLabel>
+          <text>Où un agent de police donne deux coups de poing à un avocat</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00147"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-149" playOrder="149">
+      <navLabel>
+        <text>Chapitre XV</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00148"/>
+      <navPoint id="np-150" playOrder="150">
+        <navLabel>
+          <text>Jondrette fait son emplette</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00149"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-151" playOrder="151">
+      <navLabel>
+        <text>Chapitre XVI</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00150"/>
+      <navPoint id="np-152" playOrder="152">
+        <navLabel>
+          <text>Où l'on retrouvera la chanson sur un air anglais à la mode en 1832</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00151"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-153" playOrder="153">
+      <navLabel>
+        <text>Chapitre XVII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00152"/>
+      <navPoint id="np-154" playOrder="154">
+        <navLabel>
+          <text>Emploi de la pièce de cinq francs de Marius</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00153"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-155" playOrder="155">
+      <navLabel>
+        <text>Chapitre XVIII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00154"/>
+      <navPoint id="np-156" playOrder="156">
+        <navLabel>
+          <text>Les deux chaises de Marius se font vis-à-vis</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00155"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-157" playOrder="157">
+      <navLabel>
+        <text>Chapitre XIX</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00156"/>
+      <navPoint id="np-158" playOrder="158">
+        <navLabel>
+          <text>Se préoccuper des fonds obscurs</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00157"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-159" playOrder="159">
+      <navLabel>
+        <text>Chapitre XX</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00158"/>
+      <navPoint id="np-160" playOrder="160">
+        <navLabel>
+          <text>Le guet-apens</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-7.htm.html#pgepubid00159"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-161" playOrder="161">
+      <navLabel>
+        <text>Chapitre XXI</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-8.htm.html#pgepubid00160"/>
+      <navPoint id="np-162" playOrder="162">
+        <navLabel>
+          <text>On devrait toujours commencer par arrêter les victimes</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-8.htm.html#pgepubid00161"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-163" playOrder="163">
+      <navLabel>
+        <text>Chapitre XXII</text>
+      </navLabel>
+      <content src="3107960808795549924_17494-h-8.htm.html#pgepubid00162"/>
+      <navPoint id="np-164" playOrder="164">
+        <navLabel>
+          <text>Le petit qui criait au tome deux</text>
+        </navLabel>
+        <content src="3107960808795549924_17494-h-8.htm.html#pgepubid00163"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

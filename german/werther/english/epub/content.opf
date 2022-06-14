@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/j-w-von-goethe/the-sorrows-of-young-werther/r-d-boylan</dc:identifier>
+		<dc:date>2017-07-20T18:58:12Z</dc:date>
+		<meta property="dcterms:modified">2022-04-15T15:52:20Z</meta>
+		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
+		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">readingOrder</meta>
+		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityFeature">unlocked</meta>
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
+		<dc:title id="title">The Sorrows of Young Werther</dc:title>
+		<meta property="file-as" refines="#title">Sorrows of Young Werther, The</meta>
+		<dc:subject id="subject-1">Germany -- Social life and customs -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Unrequited love -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Young men -- Germany -- Fiction</dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008115203</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2010117503</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">Goethe’s first major work, a novel of unrequited love, longing, and deterioration into sorrow.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;The Great Lisbon Earthquake of 1755 leveled the city of Lisbon and surrounding areas, and killed perhaps as many as 100,000 people. It came at a decisive time in the history of western thought: the melding of Faith, Philosophy, and Science into a post-enlightenment rational view of the universe. In some sense mankind had just begun to believe he had the universe figured out when the universe struck back with a tragedy so terrible in scale it could not be fit into any box of understanding. It was not predicted. It could not have been prevented. It was not rational. And it certainly could not have been the will of a benevolent God.&lt;/p&gt;
+			&lt;p&gt;Lisbon was only one moment in a much larger context—industrialization was upending a pre-historic way of life, science was upending nature, and the first great republics in America and France were about to upend previously unchallenged forms of government. It was the awe, inspiration, and uncertainty of all this change that gave rise, ultimately, to Romanticism in art, literature, and music.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-w-von-goethe"&gt;&lt;abbr&gt;J. W.&lt;/abbr&gt; von Goethe&lt;/a&gt; is, by some accounts, the father of the romantic period in literature, or at least the proto-romantic &lt;i lang="de"&gt;Sturm und Drang&lt;/i&gt; (“Storm and Stress”) period. And &lt;i&gt;The Sorrows of Young Werther&lt;/i&gt; was its genesis. It was Goethe’s first major work, an immediate sensation upon publication, and made Goethe a household name.&lt;/p&gt;
+			&lt;p&gt;While &lt;a href="https://standardebooks.org/ebooks/voltaire"&gt;Voltaire&lt;/a&gt; parodied rationalism in &lt;a href="https://standardebooks.org/ebooks/voltaire/candide/the-modern-library"&gt;&lt;i&gt;Candide&lt;/i&gt;&lt;/a&gt;, Goethe transcended it with the semi-autobiographical story of Werther, a young man governed more by his emotions than his reason, whose only employment is his delight in the romantic ideals of the pastoral lives he finds in the rural town of Walheim. There he also finds Charlotte, and in her an idealized but unobtainable old-world domesticity. Werther’s internal dialog about his growing obsession with Charlotte, and his inability to cope rationally with the fact that she is engaged to—and in love with—another man, form the bulk of the book in the form of a series of ever more intense letters to a friend.&lt;/p&gt;
+			&lt;p&gt;Werther’s descent into sorrow has captivated readers for centuries, helped by Goethe’s intensely beautiful prose (translated here by &lt;abbr&gt;R. D.&lt;/abbr&gt; Boylan), enchanting imagery, and obvious reverence for nature and a dying past.&lt;/p&gt;
+		</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/2527</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/007104616</dc:source>
+		<meta property="se:word-count">42647</meta>
+		<meta property="se:reading-ease.flesch">68.91</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sorrows_of_Young_Werther</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-w-von-goethe_the-sorrows-of-young-werther_r-d-boylan</meta>
+		<dc:creator id="author">J. W. von Goethe</dc:creator>
+		<meta property="file-as" refines="#author">Goethe, J. W. von</meta>
+		<meta property="se:name.person.full-name" refines="#author">Johann Wolfgang von Goethe</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n83041529</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="translator">R. D. Boylan</dc:contributor>
+		<meta property="file-as" refines="#translator">Boylan, R. D.</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nr88002626</meta>
+		<meta property="display-seq" refines="#translator">1</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<dc:contributor id="editor">Nathen Haskell Dole</dc:contributor>
+		<meta property="file-as" refines="#editor">Dole, Nathen Haskell</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Nathan_Haskell_Dole</meta>
+		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n50027251</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
+		<dc:contributor id="artist">Orest Adamovich Kiprenskiĭ</dc:contributor>
+		<meta property="alternate-script" refines="#artist">Орест Адамович Кипренский</meta>
+		<meta property="file-as" refines="#artist">Kiprenskiĭ, Orest Adamovich</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Orest_Kiprensky</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82011745</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">Irene Potter</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Potter, Irene</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Michael Potter</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Potter, Michael</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Geoff Coffey</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Coffey, Geoff</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://gwcoffey.com/</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<meta property="se:built-with">2.3.10</meta>
+		<meta content="cover.jpg" name="cover"/>
+		<meta property="se:transform">compatibility</meta>
+	</metadata>
+	<manifest>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="css/se.css" id="se.css" media-type="text/css"/>
+		<item href="images/cover.jpg" id="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+		<item href="images/logo.png" id="logo.png" media-type="image/png"/>
+		<item href="images/titlepage.png" id="titlepage.png" media-type="image/png"/>
+		<item href="text/book-1.xhtml" id="book-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-2.xhtml" id="book-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/epilogue.xhtml" id="epilogue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
+		<itemref idref="book-1.xhtml"/>
+		<itemref idref="book-2.xhtml"/>
+		<itemref idref="epilogue.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="uncopyright.xhtml"/>
+	</spine>
+	<guide>
+		<reference href="text/endnotes.xhtml" title="Endnotes" type="other.endnotes other.footnotes"/>
+	</guide>
+</package>

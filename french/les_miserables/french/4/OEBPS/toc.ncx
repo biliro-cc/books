@@ -1,0 +1,1031 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fr">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/17518"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.11.30 by Project Gutenberg"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Les misérables Tome IV: L'idylle rue Plumet et l'épopée rue Saint-Denis</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>Les Misérables Victor Hugo</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-0.htm.html#pgepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>Tome IV—L'IDYLLE RUE PLUMET ET L'ÉPOPÉE RUE SAINT-DENIS</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-0.htm.html#pgepubid00001"/>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>(1862)</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-0.htm.html#pgepubid00002"/>
+      </navPoint>
+      <navPoint id="np-4" playOrder="4">
+        <navLabel>
+          <text>TABLE DES MATIÈRES</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-0.htm.html#pgepubid00003"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>Livre premier—Quelques pages d'histoire</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-0.htm.html#pgepubid00004"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-0.htm.html#pgepubid00005"/>
+      <navPoint id="np-7" playOrder="7">
+        <navLabel>
+          <text>Bien coupé</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-0.htm.html#pgepubid00006"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-0.htm.html#pgepubid00007"/>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>Mal cousu</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-0.htm.html#pgepubid00008"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-0.htm.html#pgepubid00009"/>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>Louis-Philippe</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-0.htm.html#pgepubid00010"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-12" playOrder="12">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-0.htm.html#pgepubid00011"/>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>Lézardes sous la fondation</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-0.htm.html#pgepubid00012"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-14" playOrder="14">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-1.htm.html#pgepubid00013"/>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>Faits d'où l'histoire sort et que l'histoire ignore</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-1.htm.html#pgepubid00014"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-16" playOrder="16">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-1.htm.html#pgepubid00015"/>
+      <navPoint id="np-17" playOrder="17">
+        <navLabel>
+          <text>Enjolras et ses lieutenants</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-1.htm.html#pgepubid00016"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-18" playOrder="18">
+      <navLabel>
+        <text>Livre deuxième—Éponine</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-1.htm.html#pgepubid00017"/>
+    </navPoint>
+    <navPoint id="np-19" playOrder="19">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-1.htm.html#pgepubid00018"/>
+      <navPoint id="np-20" playOrder="20">
+        <navLabel>
+          <text>Le Champ de l'Alouette</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-1.htm.html#pgepubid00019"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-21" playOrder="21">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-1.htm.html#pgepubid00020"/>
+      <navPoint id="np-22" playOrder="22">
+        <navLabel>
+          <text>Formation embryonnaire des crimes dans l'incubation des prisons</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-1.htm.html#pgepubid00021"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-23" playOrder="23">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-1.htm.html#pgepubid00022"/>
+      <navPoint id="np-24" playOrder="24">
+        <navLabel>
+          <text>Apparition au père Mabeuf</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-1.htm.html#pgepubid00023"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-25" playOrder="25">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00024"/>
+      <navPoint id="np-26" playOrder="26">
+        <navLabel>
+          <text>Apparition à Marius</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00025"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-27" playOrder="27">
+      <navLabel>
+        <text>Livre troisième—La maison de la rue Plumet</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00026"/>
+    </navPoint>
+    <navPoint id="np-28" playOrder="28">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00027"/>
+      <navPoint id="np-29" playOrder="29">
+        <navLabel>
+          <text>La maison à secret</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00028"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-30" playOrder="30">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00029"/>
+      <navPoint id="np-31" playOrder="31">
+        <navLabel>
+          <text>Jean Valjean garde national</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00030"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-32" playOrder="32">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00031"/>
+      <navPoint id="np-33" playOrder="33">
+        <navLabel>
+          <text>Foliis ac frondibus</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00032"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-34" playOrder="34">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00033"/>
+      <navPoint id="np-35" playOrder="35">
+        <navLabel>
+          <text>Changement de grille</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00034"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-36" playOrder="36">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00035"/>
+      <navPoint id="np-37" playOrder="37">
+        <navLabel>
+          <text>La rose s'aperçoit qu'elle est une machine de guerre</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00036"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-38" playOrder="38">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00037"/>
+      <navPoint id="np-39" playOrder="39">
+        <navLabel>
+          <text>La bataille commence</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-2.htm.html#pgepubid00038"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-40" playOrder="40">
+      <navLabel>
+        <text>Chapitre VII</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00039"/>
+      <navPoint id="np-41" playOrder="41">
+        <navLabel>
+          <text>À tristesse, tristesse et demie</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00040"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-42" playOrder="42">
+      <navLabel>
+        <text>Chapitre VIII</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00041"/>
+      <navPoint id="np-43" playOrder="43">
+        <navLabel>
+          <text>La cadène</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00042"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-44" playOrder="44">
+      <navLabel>
+        <text>Livre quatrième—Secours d'en bas peut être secours d'en haut</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00043"/>
+    </navPoint>
+    <navPoint id="np-45" playOrder="45">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00044"/>
+      <navPoint id="np-46" playOrder="46">
+        <navLabel>
+          <text>Blessure au dehors, guérison au dedans</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00045"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-47" playOrder="47">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00046"/>
+      <navPoint id="np-48" playOrder="48">
+        <navLabel>
+          <text>La mère Plutarque n'est pas embarrassée pour expliquer un</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00047"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-49" playOrder="49">
+      <navLabel>
+        <text>Livre cinquième—Dont la fin ne ressemble pas au commencement</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00048"/>
+    </navPoint>
+    <navPoint id="np-50" playOrder="50">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00049"/>
+      <navPoint id="np-51" playOrder="51">
+        <navLabel>
+          <text>La solitude et la caserne combinées</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00050"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-52" playOrder="52">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00051"/>
+      <navPoint id="np-53" playOrder="53">
+        <navLabel>
+          <text>Peurs de Cosette</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-3.htm.html#pgepubid00052"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-54" playOrder="54">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-4.htm.html#pgepubid00053"/>
+      <navPoint id="np-55" playOrder="55">
+        <navLabel>
+          <text>Enrichies des commentaires de Toussaint</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-4.htm.html#pgepubid00054"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-56" playOrder="56">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-4.htm.html#pgepubid00055"/>
+      <navPoint id="np-57" playOrder="57">
+        <navLabel>
+          <text>Un cœur sous une pierre</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-4.htm.html#pgepubid00056"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-58" playOrder="58">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-4.htm.html#pgepubid00057"/>
+      <navPoint id="np-59" playOrder="59">
+        <navLabel>
+          <text>Cosette après la lettre</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-4.htm.html#pgepubid00058"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-60" playOrder="60">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-4.htm.html#pgepubid00059"/>
+      <navPoint id="np-61" playOrder="61">
+        <navLabel>
+          <text>Les vieux sont faits pour sortir à propos</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-4.htm.html#pgepubid00060"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-62" playOrder="62">
+      <navLabel>
+        <text>Livre sixième—Le petit Gavroche</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-4.htm.html#pgepubid00061"/>
+    </navPoint>
+    <navPoint id="np-63" playOrder="63">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-4.htm.html#pgepubid00062"/>
+      <navPoint id="np-64" playOrder="64">
+        <navLabel>
+          <text>Méchante espièglerie du vent</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-4.htm.html#pgepubid00063"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-65" playOrder="65">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-4.htm.html#pgepubid00064"/>
+      <navPoint id="np-66" playOrder="66">
+        <navLabel>
+          <text>Où le petit Gavroche tire parti de Napoléon le Grand</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-4.htm.html#pgepubid00065"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-67" playOrder="67">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-5.htm.html#pgepubid00066"/>
+      <navPoint id="np-68" playOrder="68">
+        <navLabel>
+          <text>Les péripéties de l'évasion</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-5.htm.html#pgepubid00067"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-69" playOrder="69">
+      <navLabel>
+        <text>Livre septième—L'argot</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-5.htm.html#pgepubid00068"/>
+    </navPoint>
+    <navPoint id="np-70" playOrder="70">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-5.htm.html#pgepubid00069"/>
+      <navPoint id="np-71" playOrder="71">
+        <navLabel>
+          <text>Origine</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-5.htm.html#pgepubid00070"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-72" playOrder="72">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00071"/>
+      <navPoint id="np-73" playOrder="73">
+        <navLabel>
+          <text>Racines</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00072"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-74" playOrder="74">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00073"/>
+      <navPoint id="np-75" playOrder="75">
+        <navLabel>
+          <text>Argot qui pleure et argot qui rit</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00074"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-76" playOrder="76">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00075"/>
+      <navPoint id="np-77" playOrder="77">
+        <navLabel>
+          <text>Les deux devoirs: veiller et espérer</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00076"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-78" playOrder="78">
+      <navLabel>
+        <text>Livre huitième—Les enchantements et les désolations</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00077"/>
+    </navPoint>
+    <navPoint id="np-79" playOrder="79">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00078"/>
+      <navPoint id="np-80" playOrder="80">
+        <navLabel>
+          <text>Pleine lumière</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00079"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-81" playOrder="81">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00080"/>
+      <navPoint id="np-82" playOrder="82">
+        <navLabel>
+          <text>L'étourdissement du bonheur complet</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00081"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-83" playOrder="83">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00082"/>
+      <navPoint id="np-84" playOrder="84">
+        <navLabel>
+          <text>Commencement d'ombre</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00083"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-85" playOrder="85">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00084"/>
+      <navPoint id="np-86" playOrder="86">
+        <navLabel>
+          <text>Cab roule en anglais et jappe en argot</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-6.htm.html#pgepubid00085"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-87" playOrder="87">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-7.htm.html#pgepubid00086"/>
+      <navPoint id="np-88" playOrder="88">
+        <navLabel>
+          <text>Choses de la nuit</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-7.htm.html#pgepubid00087"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-89" playOrder="89">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-7.htm.html#pgepubid00088"/>
+      <navPoint id="np-90" playOrder="90">
+        <navLabel>
+          <text>Marius redevient réel au point de donner son adresse à Cosette</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-7.htm.html#pgepubid00089"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-91" playOrder="91">
+      <navLabel>
+        <text>Chapitre VII</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-7.htm.html#pgepubid00090"/>
+      <navPoint id="np-92" playOrder="92">
+        <navLabel>
+          <text>Le vieux cœur et le jeune cœur en présence</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-7.htm.html#pgepubid00091"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-93" playOrder="93">
+      <navLabel>
+        <text>Livre neuvième—Où vont-ils?</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-7.htm.html#pgepubid00092"/>
+    </navPoint>
+    <navPoint id="np-94" playOrder="94">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-7.htm.html#pgepubid00093"/>
+      <navPoint id="np-95" playOrder="95">
+        <navLabel>
+          <text>Jean Valjean</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-7.htm.html#pgepubid00094"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-96" playOrder="96">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-7.htm.html#pgepubid00095"/>
+      <navPoint id="np-97" playOrder="97">
+        <navLabel>
+          <text>Marius</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-7.htm.html#pgepubid00096"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-98" playOrder="98">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-7.htm.html#pgepubid00097"/>
+      <navPoint id="np-99" playOrder="99">
+        <navLabel>
+          <text>M. Mabeuf</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-7.htm.html#pgepubid00098"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-100" playOrder="100">
+      <navLabel>
+        <text>Livre dixième—Le 5 juin 1832</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00099"/>
+    </navPoint>
+    <navPoint id="np-101" playOrder="101">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00100"/>
+      <navPoint id="np-102" playOrder="102">
+        <navLabel>
+          <text>La surface de la question</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00101"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-103" playOrder="103">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00102"/>
+      <navPoint id="np-104" playOrder="104">
+        <navLabel>
+          <text>Le fond de la question</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00103"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-105" playOrder="105">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00104"/>
+      <navPoint id="np-106" playOrder="106">
+        <navLabel>
+          <text>Un enterrement: occasion de renaître</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00105"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-107" playOrder="107">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00106"/>
+      <navPoint id="np-108" playOrder="108">
+        <navLabel>
+          <text>Les bouillonnements d'autrefois</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00107"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-109" playOrder="109">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00108"/>
+      <navPoint id="np-110" playOrder="110">
+        <navLabel>
+          <text>Originalité de Paris</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00109"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-111" playOrder="111">
+      <navLabel>
+        <text>Livre onzième—L'atome fraternise avec l'ouragan</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00110"/>
+    </navPoint>
+    <navPoint id="np-112" playOrder="112">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00111"/>
+    </navPoint>
+    <navPoint id="np-113" playOrder="113">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00112"/>
+      <navPoint id="np-114" playOrder="114">
+        <navLabel>
+          <text>Gavroche en marche</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-8.htm.html#pgepubid00113"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-115" playOrder="115">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00114"/>
+      <navPoint id="np-116" playOrder="116">
+        <navLabel>
+          <text>Juste indignation d'un perruquier</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00115"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-117" playOrder="117">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00116"/>
+      <navPoint id="np-118" playOrder="118">
+        <navLabel>
+          <text>L'enfant s'étonne du vieillard</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00117"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-119" playOrder="119">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00118"/>
+      <navPoint id="np-120" playOrder="120">
+        <navLabel>
+          <text>Le vieillard</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00119"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-121" playOrder="121">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00120"/>
+      <navPoint id="np-122" playOrder="122">
+        <navLabel>
+          <text>Recrues</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00121"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-123" playOrder="123">
+      <navLabel>
+        <text>Livre douzième—Corinthe</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00122"/>
+    </navPoint>
+    <navPoint id="np-124" playOrder="124">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00123"/>
+      <navPoint id="np-125" playOrder="125">
+        <navLabel>
+          <text>Histoire de Corinthe depuis sa fondation</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00124"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-126" playOrder="126">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00125"/>
+      <navPoint id="np-127" playOrder="127">
+        <navLabel>
+          <text>Gaîtés préalables</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00126"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-128" playOrder="128">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00127"/>
+      <navPoint id="np-129" playOrder="129">
+        <navLabel>
+          <text>La nuit commence à se faire sur Grantaire</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00128"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-130" playOrder="130">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00129"/>
+      <navPoint id="np-131" playOrder="131">
+        <navLabel>
+          <text>Essai de consolation sur la veuve Hucheloup</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-9.htm.html#pgepubid00130"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-132" playOrder="132">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00131"/>
+      <navPoint id="np-133" playOrder="133">
+        <navLabel>
+          <text>Les préparatifs</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00132"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-134" playOrder="134">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00133"/>
+      <navPoint id="np-135" playOrder="135">
+        <navLabel>
+          <text>En attendant</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00134"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-136" playOrder="136">
+      <navLabel>
+        <text>Chapitre VII</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00135"/>
+      <navPoint id="np-137" playOrder="137">
+        <navLabel>
+          <text>L'homme recruté rue des Billettes</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00136"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-138" playOrder="138">
+      <navLabel>
+        <text>Chapitre VIII</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00137"/>
+    </navPoint>
+    <navPoint id="np-139" playOrder="139">
+      <navLabel>
+        <text>Livre treizième—Marius entre dans l'ombre</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00138"/>
+    </navPoint>
+    <navPoint id="np-140" playOrder="140">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00139"/>
+      <navPoint id="np-141" playOrder="141">
+        <navLabel>
+          <text>De la rue Plumet au quartier Saint-Denis</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00140"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-142" playOrder="142">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00141"/>
+      <navPoint id="np-143" playOrder="143">
+        <navLabel>
+          <text>Paris à vol de hibou</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00142"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-144" playOrder="144">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00143"/>
+      <navPoint id="np-145" playOrder="145">
+        <navLabel>
+          <text>L'extrême bord</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00144"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-146" playOrder="146">
+      <navLabel>
+        <text>Livre quatorzième—Les grandeurs du désespoir</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00145"/>
+    </navPoint>
+    <navPoint id="np-147" playOrder="147">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00146"/>
+      <navPoint id="np-148" playOrder="148">
+        <navLabel>
+          <text>Le drapeau—Premier acte</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00147"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-149" playOrder="149">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00148"/>
+      <navPoint id="np-150" playOrder="150">
+        <navLabel>
+          <text>Le drapeau—Deuxième acte</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-10.htm.html#pgepubid00149"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-151" playOrder="151">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00150"/>
+      <navPoint id="np-152" playOrder="152">
+        <navLabel>
+          <text>Gavroche aurait mieux fait d'accepter la carabine d'Enjolras</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00151"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-153" playOrder="153">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00152"/>
+      <navPoint id="np-154" playOrder="154">
+        <navLabel>
+          <text>Le baril de poudre</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00153"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-155" playOrder="155">
+      <navLabel>
+        <text>Chapitre V</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00154"/>
+      <navPoint id="np-156" playOrder="156">
+        <navLabel>
+          <text>Fin des vers de Jean Prouvaire</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00155"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-157" playOrder="157">
+      <navLabel>
+        <text>Chapitre VI</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00156"/>
+      <navPoint id="np-158" playOrder="158">
+        <navLabel>
+          <text>L'agonie de la mort après l'agonie de la vie</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00157"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-159" playOrder="159">
+      <navLabel>
+        <text>Chapitre VII</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00158"/>
+      <navPoint id="np-160" playOrder="160">
+        <navLabel>
+          <text>Gavroche profond calculateur des distances</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00159"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-161" playOrder="161">
+      <navLabel>
+        <text>Livre quinzième—La rue de l'Homme-Armé</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00160"/>
+    </navPoint>
+    <navPoint id="np-162" playOrder="162">
+      <navLabel>
+        <text>Chapitre I</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00161"/>
+      <navPoint id="np-163" playOrder="163">
+        <navLabel>
+          <text>Buvard, bavard</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00162"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-164" playOrder="164">
+      <navLabel>
+        <text>Chapitre II</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00163"/>
+      <navPoint id="np-165" playOrder="165">
+        <navLabel>
+          <text>Le gamin ennemi des lumières</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00164"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-166" playOrder="166">
+      <navLabel>
+        <text>Chapitre III</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00165"/>
+      <navPoint id="np-167" playOrder="167">
+        <navLabel>
+          <text>Pendant que Cosette et Toussaint dorment</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-11.htm.html#pgepubid00166"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-168" playOrder="168">
+      <navLabel>
+        <text>Chapitre IV</text>
+      </navLabel>
+      <content src="1533953891595584641_17518-h-12.htm.html#pgepubid00167"/>
+      <navPoint id="np-169" playOrder="169">
+        <navLabel>
+          <text>Les excès de zèle de Gavroche</text>
+        </navLabel>
+        <content src="1533953891595584641_17518-h-12.htm.html#pgepubid00168"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

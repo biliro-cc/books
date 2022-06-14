@@ -1,0 +1,19 @@
+@charset "utf-8";
+@namespace epub "http://www.idpf.org/2007/ops";
+
+/* don't indent blockquote letters in the main chapters (only in the epilogue) */
+section.epub-type-part blockquote.epub-type-z3998-letter{
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 3em;
+}
+
+p.epub-type-se-letter-dateline{
+	font-variant: small-caps;
+	text-align: right;
+}
+
+p.epub-type-se-letter-dateline + p{
+	text-indent: 0;
+}

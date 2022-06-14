@@ -1,0 +1,78 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:title>Les misérables Tome IV: L'idylle rue Plumet et l'épopée rue Saint-Denis</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Hugo, Victor">Victor Hugo</dc:creator>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/17518</dc:identifier>
+    <dc:date>2006-01-15T05:00:00+00:00</dc:date>
+    <dc:date opf:event="conversion">2022-06-08T13:27:19.228345+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/17518/17518-h/17518-h.htm</dc:source>
+    <dc:subject>Historical fiction</dc:subject>
+    <dc:subject>Orphans -- Fiction</dc:subject>
+    <dc:subject>Paris (France) -- Fiction</dc:subject>
+    <dc:subject>Epic literature</dc:subject>
+    <dc:subject>Ex-convicts -- Fiction</dc:subject>
+    <dc:language>fr</dc:language>
+    <dc:identifier opf:scheme="calibre">158431fe-09ad-450e-8cbd-e43393f64a02</dc:identifier>
+    <meta name="cover" content="item1"/>
+    <meta name="calibre:title_sort" content="Les misérables Tome IV: L'idylle rue Plumet et l'épopée rue Saint-Denis"/>
+    <meta name="calibre:author_link_map" content="{&quot;Victor Hugo&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+  </metadata>
+  <manifest>
+    <!--Image: 1200 x 1800 size=56282 -->
+    <item href="4436535692017926154_17518-cover.png" id="item1" media-type="image/png"/>
+    <item href="pgepub.css" id="item2" media-type="text/css"/>
+    <item href="0.css" id="item3" media-type="text/css"/>
+    <item href="1.css" id="item4" media-type="text/css"/>
+    <!--Chunk: size=77008 Split on h2-->
+    <item href="1533953891595584641_17518-h-0.htm.html" id="item5" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=77712 Split on h2-->
+    <item href="1533953891595584641_17518-h-1.htm.html" id="item6" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=72333 Split on h2-->
+    <item href="1533953891595584641_17518-h-2.htm.html" id="item7" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=77949 Split on h2-->
+    <item href="1533953891595584641_17518-h-3.htm.html" id="item8" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82082 Split on p-->
+    <item href="1533953891595584641_17518-h-4.htm.html" id="item9" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=73773 Split on h2-->
+    <item href="1533953891595584641_17518-h-5.htm.html" id="item10" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82034 Split on p-->
+    <item href="1533953891595584641_17518-h-6.htm.html" id="item11" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=80247 Split on h2-->
+    <item href="1533953891595584641_17518-h-7.htm.html" id="item12" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=74156 Split on h2-->
+    <item href="1533953891595584641_17518-h-8.htm.html" id="item13" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=75385 Split on h2-->
+    <item href="1533953891595584641_17518-h-9.htm.html" id="item14" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=78014 Split on h2-->
+    <item href="1533953891595584641_17518-h-10.htm.html" id="item15" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=73902 Split on h2-->
+    <item href="1533953891595584641_17518-h-11.htm.html" id="item16" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=35369-->
+    <item href="1533953891595584641_17518-h-12.htm.html" id="item17" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+    <itemref idref="item16" linear="yes"/>
+    <itemref idref="item17" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="TABLE DES MATIÈRES" href="1533953891595584641_17518-h-0.htm.html#pgepubid00003"/>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>

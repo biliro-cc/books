@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="epubmerge-id">
+   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:identifier id="epubmerge-id">epubmerge-uid-1655233269</dc:identifier>
+      <dc:title>Die Leiden des jungen Werther</dc:title>
+      <dc:creator opf:role="aut">Johann Wolfgang von Goethe</dc:creator>
+      <dc:contributor>epubmerge</dc:contributor>
+      <dc:rights>Copyrights as per source stories</dc:rights>
+      <dc:language>deu</dc:language>
+      <dc:description>&lt;p&gt;Anthology containing:&lt;/p&gt;Die Leiden des jungen Werther — Band 1&lt;br/&gt;Die Leiden des jungen Werther — Band 2</dc:description>
+      <dc:identifier opf:scheme="URL">https://www.gutenberg.org/files/2407/2407-8.txt</dc:identifier>
+      <dc:source>https://www.gutenberg.org/files/2407/2407-8.txt</dc:source>
+      <dc:subject>Germany -- Social life and customs -- Fiction</dc:subject>
+      <dc:subject>Unrequited love -- Fiction</dc:subject>
+      <dc:subject>Young men -- Germany -- Fiction</dc:subject>
+      <meta name="cover" content="coverimageid"/>
+   </metadata>
+   <manifest>
+      <item id="coverimageid" href="cover.jpg" media-type="image/jpeg"/>
+      <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+      <item id="a1rootfile" href="1/OEBPS/content.opf" media-type="origrootfile/xml"/>
+      <item id="a1item1" href="1/OEBPS/7040856813482842923_2407-cover.png" media-type="image/png"/>
+      <item id="a1item2" href="1/OEBPS/pgepub.css" media-type="text/css"/>
+      <item id="a1item3" href="1/OEBPS/0.css" media-type="text/css"/>
+      <item id="a1id00000" href="1/OEBPS/1402605199362223638_2407-8-0.txt.html" media-type="application/xhtml+xml"/>
+      <item id="a1id00147" href="1/OEBPS/1402605199362223638_2407-8-1.txt.html" media-type="application/xhtml+xml"/>
+      <item id="a1ncx" href="1/OEBPS/toc.ncx" media-type="origtocncx/xml"/>
+      <item id="a1coverpage-wrapper" href="1/OEBPS/wrap0000.html" media-type="application/xhtml+xml"/>
+      <item id="a2rootfile" href="2/OEBPS/content.opf" media-type="origrootfile/xml"/>
+      <item id="a2item1" href="2/OEBPS/7655740059876446597_2408-cover.png" media-type="image/png"/>
+      <item id="a2item2" href="2/OEBPS/pgepub.css" media-type="text/css"/>
+      <item id="a2item3" href="2/OEBPS/0.css" media-type="text/css"/>
+      <item id="a2id00000" href="2/OEBPS/8709439250049083440_2408-8-0.txt.html" media-type="application/xhtml+xml"/>
+      <item id="a2id00184" href="2/OEBPS/8709439250049083440_2408-8-1.txt.html" media-type="application/xhtml+xml"/>
+      <item id="a2id00318" href="2/OEBPS/8709439250049083440_2408-8-2.txt.html" media-type="application/xhtml+xml"/>
+      <item id="a2ncx" href="2/OEBPS/toc.ncx" media-type="origtocncx/xml"/>
+      <item id="a2coverpage-wrapper" href="2/OEBPS/wrap0000.html" media-type="application/xhtml+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="cover" linear="yes"/>
+      <itemref idref="a1coverpage-wrapper" linear="yes"/>
+      <itemref idref="a1id00000" linear="yes"/>
+      <itemref idref="a1id00147" linear="yes"/>
+      <itemref idref="a2coverpage-wrapper" linear="yes"/>
+      <itemref idref="a2id00000" linear="yes"/>
+      <itemref idref="a2id00184" linear="yes"/>
+      <itemref idref="a2id00318" linear="yes"/>
+   </spine>
+   <guide>
+      <reference type="cover" title="Cover" href="cover.xhtml"/>
+   </guide>
+</package>

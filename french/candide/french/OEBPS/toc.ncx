@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fr">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/59859"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.11.30 by Project Gutenberg"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Candide, ou, l'optimisme</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>CANDIDE OU L'OPTIMISME</text>
+      </navLabel>
+      <content src="4876889087894342089_59859-h-0.htm.html#pgepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>VOLTAIRE Préface de Francisque Sarcey Illustrations de Adrien Moreau</text>
+      </navLabel>
+      <content src="4876889087894342089_59859-h-0.htm.html#pgepubid00001"/>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>Librairie Artistique—G. Boudet, Éditeur 197, Boulevard Saint-Germain, 197</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-0.htm.html#pgepubid00002"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>1893</text>
+      </navLabel>
+      <content src="4876889087894342089_59859-h-0.htm.html#pgepubid00003"/>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>PRÉFACE</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-0.htm.html#pgepubid00004"/>
+      </navPoint>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>I. COMMENT CANDIDE FUT ÉLEVÉ DANS UN BEAU CHÂTEAU, ET COMMENT IL FUT CHASSÉ D'CELUI.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-0.htm.html#pgepubid00005"/>
+      </navPoint>
+      <navPoint id="np-7" playOrder="7">
+        <navLabel>
+          <text>II. CE QUE DEVINT CANDIDE PARMI LES BULGARES.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-0.htm.html#pgepubid00006"/>
+      </navPoint>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>III. COMMENT CANDIDE SE SAUVA D'ENTRE LES BULGARES, ET CE QU'IL DEVINT.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-0.htm.html#pgepubid00007"/>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>IV. COMMENT CANDIDE RENCONTRA SON ANCIEN MAÎTRE DE PHILOSOPHIE, LE DOCTEUR PANGLOSS, ET CE QUI EN ADVINT.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-1.htm.html#pgepubid00008"/>
+      </navPoint>
+      <navPoint id="np-10" playOrder="10">
+        <navLabel>
+          <text>V. TEMPÊTE, NAUFRAGE, TREMBLEMENT DE TERRE, ET CE QUI ADVINT DU DOCTEUR PANGLOSS, DE CANDIDE ET DE L'ANABAPTISTE JACQUES.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-1.htm.html#pgepubid00009"/>
+      </navPoint>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>VI. COMMENT ON FIT UN BEL AUTO-DA-FÉ POUR EMPÊCHER LES TREMBLEMENTS DE TERRE, ET COMMENT CANDIDE FUT FESSÉ.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-1.htm.html#pgepubid00010"/>
+      </navPoint>
+      <navPoint id="np-12" playOrder="12">
+        <navLabel>
+          <text>VII. COMMENT UNE VIEILLE PRIT SOIN DE CANDIDE, ET COMMENT IL RETROUVA CE QU'IL AIMAIT.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-1.htm.html#pgepubid00011"/>
+      </navPoint>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>VIII. HISTOIRE DE CUNÉGONDE.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-1.htm.html#pgepubid00012"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>IX. CE QUI ADVINT DE CUNÉGONDE, DE CANDIDE, DU GRAND INQUISITEUR ET D’UN JUIF.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-1.htm.html#pgepubid00013"/>
+      </navPoint>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>X. DANS QUELLE DÉTRESSE CANDIDE, CUNÉGONDE ET LA VIEILLE ARRIVENT À CADIX, ET DE LEUR EMBARQUEMENT.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-1.htm.html#pgepubid00014"/>
+      </navPoint>
+      <navPoint id="np-16" playOrder="16">
+        <navLabel>
+          <text>XI. HISTOIRE DE LA VIEILLE.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-1.htm.html#pgepubid00015"/>
+      </navPoint>
+      <navPoint id="np-17" playOrder="17">
+        <navLabel>
+          <text>XII. SUITE DES MALHEURS DE LA VIEILLE.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-1.htm.html#pgepubid00016"/>
+      </navPoint>
+      <navPoint id="np-18" playOrder="18">
+        <navLabel>
+          <text>XIII. COMMENT CANDIDE FUT OBLIGÉ DE SE SÉPARER DE LA BELLE CUNÉGONDE ET DE LA VIEILLE.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-2.htm.html#pgepubid00017"/>
+      </navPoint>
+      <navPoint id="np-19" playOrder="19">
+        <navLabel>
+          <text>XIV. COMMENT CANDIDE ET CACAMBO FURENT REÇUS CHEZ LES JÉSUITES DU PARAGUAY.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-2.htm.html#pgepubid00018"/>
+      </navPoint>
+      <navPoint id="np-20" playOrder="20">
+        <navLabel>
+          <text>XV. COMMENT CANDIDE TUA LE FRÈRE DE SA CHÈRE CUNÉGONDE.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-2.htm.html#pgepubid00019"/>
+      </navPoint>
+      <navPoint id="np-21" playOrder="21">
+        <navLabel>
+          <text>XVI. CE QUI ADVINT AUX DEUX VOYAGEURS AVEC DEUX FILLES, DEUX SINGES, ET LES SAUVAGES NOMMÉS OREILLONS.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-2.htm.html#pgepubid00020"/>
+      </navPoint>
+      <navPoint id="np-22" playOrder="22">
+        <navLabel>
+          <text>XVII. ARRIVÉE DE CANDIDE ET DE SON VALET AU PAYS D’ELDORADO, ET CE QU’ILS Y VIRENT.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-2.htm.html#pgepubid00021"/>
+      </navPoint>
+      <navPoint id="np-23" playOrder="23">
+        <navLabel>
+          <text>XVIII. CE QU’ILS VIRENT DANS LE PAYS D'ELDORADO.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-2.htm.html#pgepubid00022"/>
+      </navPoint>
+      <navPoint id="np-24" playOrder="24">
+        <navLabel>
+          <text>XIX. CE QUI LEUR ARRIVA À SURINAM, ET COMMENT CANDIDE FIT CONNAISSANCE AVEC MARTIN.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-2.htm.html#pgepubid00023"/>
+      </navPoint>
+      <navPoint id="np-25" playOrder="25">
+        <navLabel>
+          <text>XX. CE QUI ARRIVA SUR MER À CANDIDE ET À MARTIN.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-3.htm.html#pgepubid00024"/>
+      </navPoint>
+      <navPoint id="np-26" playOrder="26">
+        <navLabel>
+          <text>XXI. CANDIDE ET MARTIN APPROCHENT DES CÔTES DE FRANCE, ET RAISONNENT.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-3.htm.html#pgepubid00025"/>
+      </navPoint>
+      <navPoint id="np-27" playOrder="27">
+        <navLabel>
+          <text>XXII. CE QUI ARRIVA EN FRANCE À CANDIDE ET À MARTIN.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-3.htm.html#pgepubid00026"/>
+      </navPoint>
+      <navPoint id="np-28" playOrder="28">
+        <navLabel>
+          <text>XXIII. CANDIDE ET MARTIN VONT SUR LES CÔTES D'ANGLETERRE; CE QU’ILS Y VOIENT.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-3.htm.html#pgepubid00027"/>
+      </navPoint>
+      <navPoint id="np-29" playOrder="29">
+        <navLabel>
+          <text>XXIV. DE PAQUETTE ET DE FRÈRE GIROFLÉE.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-3.htm.html#pgepubid00028"/>
+      </navPoint>
+      <navPoint id="np-30" playOrder="30">
+        <navLabel>
+          <text>XXV. VISITE CHEZ LE SEIGNEUR POCOCURANTE, NOBLE VÉNITIEN.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-3.htm.html#pgepubid00029"/>
+      </navPoint>
+      <navPoint id="np-31" playOrder="31">
+        <navLabel>
+          <text>XXVI. D’UN SOUPER QUE CANDIDE ET MARTIN FIRENT AVEC SIX ÉTRANGERS, ET QUI ILS ÉTAIENT.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-4.htm.html#pgepubid00030"/>
+      </navPoint>
+      <navPoint id="np-32" playOrder="32">
+        <navLabel>
+          <text>XXVII. VOYAGE DE CANDIDE À CONSTANTINOPLE.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-4.htm.html#pgepubid00031"/>
+      </navPoint>
+      <navPoint id="np-33" playOrder="33">
+        <navLabel>
+          <text>XXVIII. CE QUI ARRIVA À CANDIDE, À CUNÉGONDE, À PANGLOSS, À MARTIN, ETC.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-4.htm.html#pgepubid00032"/>
+      </navPoint>
+      <navPoint id="np-34" playOrder="34">
+        <navLabel>
+          <text>XXIX. COMMENT CANDIDE RETROUVA CUNÉGONDE ET LA VIEILLE.</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-4.htm.html#pgepubid00033"/>
+      </navPoint>
+      <navPoint id="np-35" playOrder="35">
+        <navLabel>
+          <text>XXX. CONCLUSION</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-4.htm.html#pgepubid00034"/>
+      </navPoint>
+      <navPoint id="np-36" playOrder="36">
+        <navLabel>
+          <text>COLLABORATEURS</text>
+        </navLabel>
+        <content src="4876889087894342089_59859-h-4.htm.html#pgepubid00035"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

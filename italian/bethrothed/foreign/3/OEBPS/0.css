@@ -1,0 +1,316 @@
+/**/
+body {
+    margin-left: 10%;
+    margin-right: 10%
+    }
+div.limit {
+    max-width: 35em
+    }
+div.sum {
+    page-break-before: always;
+    page-break-after: always
+    }
+div.break {
+    page-break-before: always
+    }
+h1, h2, h3 {
+    text-align: center;
+    clear: both
+    }
+p {
+    margin-top: 0.2em;
+    text-align: justify;
+    margin-bottom: 0;
+    text-indent: 1.5em
+    }
+.pc {
+    margin-top: 0.2em;
+    text-align: center;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.pc1 {
+    margin-top: 1em;
+    text-align: center;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.pc2 {
+    margin-top: 2em;
+    text-align: center;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.pc4 {
+    margin-top: 4em;
+    text-align: center;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.pn {
+    margin-top: 0.2em;
+    text-align: justify;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.pad {
+    font-size: 125%;
+    font-weight: bold
+    }
+.pat {
+    text-align: justify;
+    margin-left: 2em;
+    text-indent: -2em
+    }
+.pn1 {
+    margin-top: 1em;
+    text-align: justify;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.pn2 {
+    margin-top: 2em;
+    text-align: justify;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.pni {
+    margin-top: 2em;
+    text-align: justify;
+    padding-left: 1.7em;
+    margin-bottom: 0;
+    text-indent: -1.7em
+    }
+.pn20 {
+    margin-top: 2em;
+    text-align: left;
+    margin-left: 20%;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.pri {
+    margin-top: 0.2em;
+    text-align: right;
+    padding-right: 2em;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.pp10 {
+    margin-top: 0;
+    text-align: left;
+    margin-bottom: 0;
+    text-indent: 1em;
+    font-size: 90%;
+    margin-left: 10%
+    }
+.pp20 {
+    margin-top: 0;
+    text-align: left;
+    margin-bottom: 0;
+    text-indent: 1em;
+    font-size: 90%;
+    margin-left: 20%
+    }
+.ppn20 {
+    margin-top: 0;
+    text-align: left;
+    margin-bottom: 0;
+    text-indent: 0;
+    font-size: 90%;
+    margin-left: 20%
+    }
+.pfn {
+    margin-top: 0.5em;
+    text-align: justify;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 5%;
+    margin-right: 5%
+    }
+.ptn {
+    margin-top: 0.3em;
+    text-align: justify;
+    margin-bottom: 0;
+    text-indent: -1em;
+    margin-left: 2%
+    }
+.p1 {
+    margin-top: 1em
+    }
+.p2 {
+    margin-top: 2em
+    }
+.p4 {
+    margin-top: 4em
+    }
+.b4 {
+    margin-bottom: 4em
+    }
+.small {
+    font-size: 75%
+    }
+.reduct {
+    font-size: 90%
+    }
+.lmid {
+    font-size: 110%
+    }
+.mid {
+    font-size: 125%
+    }
+.large {
+    font-size: 150%
+    }
+.elarge {
+    font-size: 175%
+    }
+.xlarge {
+    font-size: 200%
+    }
+hr {
+    width: 33%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 33.5%;
+    margin-right: 33.5%;
+    clear: both
+    }
+hr.chap {
+    width: 65%;
+    margin-left: 17.5%;
+    margin-right: 17.5%
+    }
+hr.full {
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%
+    }
+hr.dec1 {
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 1em;
+    margin-bottom: 0.8em
+    }
+hr.dec2 {
+    width: 10%;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 0.5em;
+    margin-bottom: 0.3em
+    }
+hr.dec3 {
+    width: 10%;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 4em;
+    margin-bottom: 0.3em
+    }
+hr.dec4 {
+    width: 10%;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 0.5em;
+    margin-bottom: 4em
+    }
+table {
+    margin-left: auto;
+    margin-right: auto
+    }
+.tdc {
+    text-align: center
+    }
+.tdi {
+    text-align: justify;
+    margin-left: 2em;
+    text-indent: -2em;
+    vertical-align: top
+    }
+.tdrl {
+    text-align: right;
+    vertical-align: bottom
+    }
+#toc1 {
+    width: 80%;
+    line-height: 1em;
+    margin-top: 1em
+    }
+#t01 {
+    width: 90%;
+    line-height: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em
+    }
+#t02 {
+    width: 95%;
+    font-size: 150%;
+    line-height: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.3em
+    }
+#t03 {
+    width: 95%;
+    font-size: 150%;
+    line-height: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.3em
+    }
+#t04 {
+    width: 95%;
+    font-size: 150%;
+    line-height: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.3em
+    }
+#t05 {
+    width: 85%;
+    font-size: 150%;
+    line-height: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0
+    }
+.pagenum {
+    /* visibility: hidden; */
+    color: gray;
+    font-size: smaller;
+    text-align: right;
+    text-indent: 0;
+    font-style: normal;
+    font-weight: normal
+    }
+.center {
+    text-align: center
+    }
+.smcap {
+    font-variant: small-caps
+    }
+.u {
+    text-decoration: underline
+    }
+.footnotes {
+    border: dashed 1px
+    }
+.footnote {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 0.9em
+    }
+.footnote .label {
+    text-align: right
+    }
+.fnanchor {
+    vertical-align: super;
+    font-size: 0.7em;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal
+    }
+.transnote {
+    background-color: #E6E6FA;
+    color: black;
+    font-size: smaller;
+    padding: 0.5em;
+    margin-bottom: 5em;
+    font-family: sans-serif, serif
+    }
+/**/

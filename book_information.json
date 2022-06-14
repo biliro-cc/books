@@ -1,5 +1,210 @@
 [
   {
+    "language": "french",
+    "books": [
+      {
+        "filename": "bel_ami",
+        "title": "Bel-Ami",
+        "author": "Guy de Maupassant",
+        "translator": "Bigelow, Smith & Co.",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "candide",
+        "title": "Candide",
+        "author": "Voltaire",
+        "translator": "Boni & Liveright, Inc.",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "count_monte_cristo",
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "translator": "Chapman and Hall",
+        "english_source": "Standard Ebooks",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "devils_pool",
+        "title": "The Devil's Pool",
+        "author": "George Sand",
+        "translator": "George B. Ives",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "fleurs_du_mal",
+        "title": "Les Fleurs du mal",
+        "author": "Charles Baudelaire",
+        "translator": "Cyril Scott",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "les_miserables",
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "translator": "Isabel F. Hapgood",
+        "english_source": "Standard Ebooks",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "madame_bovary",
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "translator": "M. Walter Dunn",
+        "english_source": "Standard Ebooks",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "notre_dame",
+        "title": "The Hunchback of Notre-Dame",
+        "author": "Victor Hugo",
+        "translator": "Isabel F. Hapgood",
+        "english_source": "Standard Ebooks",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "poet_assassinated",
+        "title": "The Poet Assassinated",
+        "author": "Guillaume Apollinaire",
+        "translator": "Matthew Josephson",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "three_musketeers",
+        "title": "The Three Musketeers",
+        "author": "Alexandre Dumas",
+        "translator": "William Robson",
+        "english_source": "Standard Ebooks",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "language": "german",
+    "books": [
+      {
+        "filename": "critique_pure_reason",
+        "title": "Critique of Pure Reason",
+        "author": "Immanuel Kant",
+        "translator": "J. M. D. Meiklejohn",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "ecce_homo",
+        "title": "Ecce Homo",
+        "author": "Friedrich Nietzsche",
+        "translator": "Anthony M. Ludovici",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "faust_1",
+        "title": "Faust, Part One",
+        "author": "Johann Wolfgang von Goethe",
+        "translator": "Bayard Taylor",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "siddhartha",
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "translator": "Gunther Olesch, Anke Dreher, Amy Coulter, Stefan Langer, and Semyon Chaichenets",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "werther",
+        "title": "The Sorrows of Young Werther",
+        "author": "Johann Wolfgang Goethe",
+        "translator": "R. D. Boylan",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "language": "italian",
+    "books": [
+      {
+        "filename": "bethrothed",
+        "title": "The Betrothed",
+        "author": "Alessandro Manzoni",
+        "translator": "The Count O'Mahony",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "inferno",
+        "title": "Inferno",
+        "author": "Dante Alighieri",
+        "translator": "Charles Eliot Norton",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "paradiso",
+        "title": "Paradiso",
+        "author": "Dante Alighieri",
+        "translator": "Charles Eliot Norton",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      },
+      {
+        "filename": "purgatorio",
+        "title": "Purgatorio",
+        "author": "Dante Alighieri",
+        "translator": "Charles Eliot Norton",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
+      }
+    ]
+  },
+  {
     "language": "latin",
     "books": [
       {
@@ -328,6 +533,21 @@
         "last_commit_time": "2022-06-10T00:28:58.000Z",
         "first_commit": "ac30d6a0490ea00e70901ae0b2167778b9da3e8c",
         "first_commit_time": "2022-06-10T00:28:58.000Z"
+      }
+    ]
+  },
+  {
+    "language": "spanish",
+    "books": [
+      {
+        "filename": "don_quixote",
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "translator": "John Ormsby",
+        "english_source": "Gutenberg",
+        "foreign_source": "Gutenberg",
+        "verified": false,
+        "description": ""
       }
     ]
   }

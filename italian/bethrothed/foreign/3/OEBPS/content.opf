@@ -1,0 +1,96 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:title>Brani inediti dei Promessi Sposi, vol. 2 / Opere di Alessando Manzoni vol. 2 parte 2</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Manzoni, Alessandro">Alessandro Manzoni</dc:creator>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/46463</dc:identifier>
+    <dc:contributor opf:role="edt" opf:file-as="Sforza, Giovanni">Giovanni Sforza</dc:contributor>
+    <dc:date>2014-07-31T04:00:00+00:00</dc:date>
+    <dc:date opf:event="conversion">2022-04-21T08:45:57.604039+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/46463/46463-h/46463-h.htm</dc:source>
+    <dc:subject>Manzoni</dc:subject>
+    <dc:subject>Alessandro</dc:subject>
+    <dc:subject>1785-1873</dc:subject>
+    <dc:language>it</dc:language>
+    <dc:identifier opf:scheme="calibre">8c5216e6-580a-4efa-8841-e5b3520f1e88</dc:identifier>
+    <meta name="cover" content="item1"/>
+    <meta name="calibre:title_sort" content="Brani inediti dei Promessi Sposi, vol. 2 / Opere di Alessando Manzoni vol. 2 parte 2"/>
+    <meta name="calibre:author_link_map" content="{&quot;Alessandro Manzoni&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+  </metadata>
+  <manifest>
+    <!--Image: 350 x 470 size=29535 -->
+    <item href="7680074933539732079_cover.jpg" id="item1" media-type="image/jpeg"/>
+    <item href="pgepub.css" id="item2" media-type="text/css"/>
+    <item href="0.css" id="item3" media-type="text/css"/>
+    <!--Chunk: size=1785 Split on div.limit-->
+    <item href="4196194295218072103_46463-h-0.htm.html" id="item4" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=9348 Split on div.break-->
+    <item href="4196194295218072103_46463-h-1.htm.html" id="item5" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=83069 Split on p-->
+    <item href="4196194295218072103_46463-h-2.htm.html" id="item6" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=62299-->
+    <item href="4196194295218072103_46463-h-3.htm.html" id="item7" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=59653 Split on div-->
+    <item href="4196194295218072103_46463-h-4.htm.html" id="item8" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=71333 Split on div.break-->
+    <item href="4196194295218072103_46463-h-5.htm.html" id="item9" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=64675 Split on div-->
+    <item href="4196194295218072103_46463-h-6.htm.html" id="item10" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=84073 Split on p-->
+    <item href="4196194295218072103_46463-h-7.htm.html" id="item11" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=1038 Split on div.break-->
+    <item href="4196194295218072103_46463-h-8.htm.html" id="item12" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=81959 Split on p-->
+    <item href="4196194295218072103_46463-h-9.htm.html" id="item13" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82928 Split on p-->
+    <item href="4196194295218072103_46463-h-10.htm.html" id="item14" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=22274-->
+    <item href="4196194295218072103_46463-h-11.htm.html" id="item15" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=879 Split on div.footnotes-->
+    <item href="4196194295218072103_46463-h-12.htm.html" id="item16" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=52302 Split on div-->
+    <item href="4196194295218072103_46463-h-13.htm.html" id="item17" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=55506 Split on div-->
+    <item href="4196194295218072103_46463-h-14.htm.html" id="item18" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=51555 Split on div-->
+    <item href="4196194295218072103_46463-h-15.htm.html" id="item19" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=54474 Split on div-->
+    <item href="4196194295218072103_46463-h-16.htm.html" id="item20" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=26578-->
+    <item href="4196194295218072103_46463-h-17.htm.html" id="item21" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=1106-->
+    <item href="4196194295218072103_46463-h-18.htm.html" id="item22" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=21747-->
+    <item href="4196194295218072103_46463-h-19.htm.html" id="item23" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+    <itemref idref="item16" linear="yes"/>
+    <itemref idref="item17" linear="yes"/>
+    <itemref idref="item18" linear="yes"/>
+    <itemref idref="item19" linear="yes"/>
+    <itemref idref="item20" linear="yes"/>
+    <itemref idref="item21" linear="yes"/>
+    <itemref idref="item22" linear="yes"/>
+    <itemref idref="item23" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>

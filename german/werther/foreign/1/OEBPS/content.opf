@@ -1,0 +1,41 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:title>Die Leiden des jungen Werther — Band 1</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Goethe, Johann Wolfgang von">Johann Wolfgang von Goethe</dc:creator>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/2407</dc:identifier>
+    <dc:date>2000-11-01T04:00:00+00:00</dc:date>
+    <dc:date opf:event="conversion">2022-06-02T07:53:54.652371+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/2407/2407-8.txt</dc:source>
+    <dc:subject>Germany -- Social life and customs -- Fiction</dc:subject>
+    <dc:subject>Unrequited love -- Fiction</dc:subject>
+    <dc:subject>Young men -- Germany -- Fiction</dc:subject>
+    <dc:language>de</dc:language>
+    <dc:identifier opf:scheme="calibre">b861e562-ac28-4800-87ea-908fda94e9b7</dc:identifier>
+    <meta name="cover" content="item1"/>
+    <meta name="calibre:title_sort" content="Die Leiden des jungen Werther — Band 1"/>
+    <meta name="calibre:author_link_map" content="{&quot;Johann Wolfgang von Goethe&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+  </metadata>
+  <manifest>
+    <!--Image: 1200 x 1800 size=51343 -->
+    <item href="7040856813482842923_2407-cover.png" id="item1" media-type="image/png"/>
+    <item href="pgepub.css" id="item2" media-type="text/css"/>
+    <item href="0.css" id="item3" media-type="text/css"/>
+    <!--Chunk: size=83433 Split on p-->
+    <item href="1402605199362223638_2407-8-0.txt.html" id="id00000" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=55820-->
+    <item href="1402605199362223638_2407-8-1.txt.html" id="id00147" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="id00000" linear="yes"/>
+    <itemref idref="id00147" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>

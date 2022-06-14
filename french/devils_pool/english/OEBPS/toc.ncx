@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/12816"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.11.30 by Project Gutenberg"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The Devil's Pool</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>THE ROMANCISTS</text>
+      </navLabel>
+      <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>THE DEVIL'S POOL</text>
+      </navLabel>
+      <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00001"/>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>BIBLIOTHÈQUE DES CHEFS-D'OEUVRE DU ROMAN CONTEMPORAIN</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00002"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>THE DEVIL'S POOL</text>
+      </navLabel>
+      <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00003"/>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>GEORGE SAND</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00004"/>
+        <navPoint id="np-6" playOrder="6">
+          <navLabel>
+            <text>PRINTED FOR SUBSCRIBERS ONLY BY GEORGE BARRIE &amp; SONS, Philadelphia COPYRIGHT, 1901, BY GEORGE BARRIE &amp; SON</text>
+          </navLabel>
+          <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00005"/>
+        </navPoint>
+        <navPoint id="np-7" playOrder="7">
+          <navLabel>
+            <text>THIS EDITION OF</text>
+          </navLabel>
+          <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00006"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>THE DEVIL'S POOL</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00007"/>
+        <navPoint id="np-9" playOrder="9">
+          <navLabel>
+            <text>HAS BEEN COMPLETELY TRANSLATED BY</text>
+          </navLabel>
+          <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00008"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-10" playOrder="10">
+        <navLabel>
+          <text>GEORGE B. IVES</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00009"/>
+        <navPoint id="np-11" playOrder="11">
+          <navLabel>
+            <text>THE ETCHINGS AND DRAWINGS ARE BY</text>
+          </navLabel>
+          <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00010"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-12" playOrder="12">
+        <navLabel>
+          <text>EDMOND RUDAUX</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00011"/>
+      </navPoint>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>NOTICE</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00012"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>THE DEVIL'S POOL I THE AUTHOR TO THE READER</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00013"/>
+      </navPoint>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>II THE PLOUGHING</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00014"/>
+      </navPoint>
+      <navPoint id="np-16" playOrder="16">
+        <navLabel>
+          <text>III PÈRE MAURICE</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00015"/>
+      </navPoint>
+      <navPoint id="np-17" playOrder="17">
+        <navLabel>
+          <text>IV GERMAIN, THE CUNNING PLOUGHMAN</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00016"/>
+      </navPoint>
+      <navPoint id="np-18" playOrder="18">
+        <navLabel>
+          <text>V LA GUILLETTE</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00017"/>
+      </navPoint>
+      <navPoint id="np-19" playOrder="19">
+        <navLabel>
+          <text>VI PETIT-PIERRE</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-0.htm.html#pgepubid00018"/>
+      </navPoint>
+      <navPoint id="np-20" playOrder="20">
+        <navLabel>
+          <text>VII ON THE MOOR</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-1.htm.html#pgepubid00019"/>
+      </navPoint>
+      <navPoint id="np-21" playOrder="21">
+        <navLabel>
+          <text>VIII UNDER THE GREAT OAKS</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-1.htm.html#pgepubid00020"/>
+      </navPoint>
+      <navPoint id="np-22" playOrder="22">
+        <navLabel>
+          <text>IX THE EVENING PRAYER</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-1.htm.html#pgepubid00021"/>
+      </navPoint>
+      <navPoint id="np-23" playOrder="23">
+        <navLabel>
+          <text>X DESPITE THE COLD</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-1.htm.html#pgepubid00022"/>
+      </navPoint>
+      <navPoint id="np-24" playOrder="24">
+        <navLabel>
+          <text>XI IN THE OPEN AIR</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-1.htm.html#pgepubid00023"/>
+      </navPoint>
+      <navPoint id="np-25" playOrder="25">
+        <navLabel>
+          <text>XII THE VILLAGE LIONESS</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-1.htm.html#pgepubid00024"/>
+      </navPoint>
+      <navPoint id="np-26" playOrder="26">
+        <navLabel>
+          <text>XIII THE MASTER</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-1.htm.html#pgepubid00025"/>
+      </navPoint>
+      <navPoint id="np-27" playOrder="27">
+        <navLabel>
+          <text>XIV THE OLD WOMAN</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-2.htm.html#pgepubid00026"/>
+      </navPoint>
+      <navPoint id="np-28" playOrder="28">
+        <navLabel>
+          <text>XV THE RETURN TO THE FARM</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-2.htm.html#pgepubid00027"/>
+      </navPoint>
+      <navPoint id="np-29" playOrder="29">
+        <navLabel>
+          <text>XVI MÈRE MAURICE</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-2.htm.html#pgepubid00028"/>
+      </navPoint>
+      <navPoint id="np-30" playOrder="30">
+        <navLabel>
+          <text>XVII LITTLE MARIE</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-2.htm.html#pgepubid00029"/>
+      </navPoint>
+      <navPoint id="np-31" playOrder="31">
+        <navLabel>
+          <text>APPENDIX I THE COUNTRY WEDDING</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-2.htm.html#pgepubid00030"/>
+      </navPoint>
+      <navPoint id="np-32" playOrder="32">
+        <navLabel>
+          <text>II THE LIVRÉES</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-2.htm.html#pgepubid00031"/>
+      </navPoint>
+      <navPoint id="np-33" playOrder="33">
+        <navLabel>
+          <text>III THE WEDDING</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-3.htm.html#pgepubid00032"/>
+      </navPoint>
+      <navPoint id="np-34" playOrder="34">
+        <navLabel>
+          <text>IV THE CABBAGE</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-3.htm.html#pgepubid00033"/>
+      </navPoint>
+      <navPoint id="np-35" playOrder="35">
+        <navLabel>
+          <text>NOTES</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-3.htm.html#pgepubid00034"/>
+      </navPoint>
+      <navPoint id="np-36" playOrder="36">
+        <navLabel>
+          <text>List of Illustrations</text>
+        </navLabel>
+        <content src="3626861088260803644_12816-h-3.htm.html#pgepubid00035"/>
+        <navPoint id="np-37" playOrder="37">
+          <navLabel>
+            <text>THE DEVIL'S POOL</text>
+          </navLabel>
+          <content src="3626861088260803644_12816-h-3.htm.html#pgepubid00036"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

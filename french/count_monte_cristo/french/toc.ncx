@@ -1,0 +1,4352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+   <head>
+      <meta name="dtb:uid" content="epubmerge-uid-1655233152"/>
+      <meta name="dtb:depth" content="3"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Le comte de Monte-Cristo</text>
+   </docTitle>
+   <navMap>
+      <navPoint id="book000" playOrder="1">
+         <navLabel>
+            <text>Le comte de Monte-Cristo, Tome I</text>
+         </navLabel>
+         <content src="1/OEBPS/wrap0000.html"/>
+         <navPoint id="a1np-1" playOrder="2">
+            
+      
+            <navLabel>
+               
+        
+               <text>LE COMTE DE MONTE-CRISTO</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-0.htm.html#pgepubid00000"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-2" playOrder="3">
+            
+      
+            <navLabel>
+               
+        
+               <text>Alexandre Dumas</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-0.htm.html#pgepubid00001"/>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-3" playOrder="4">
+            
+      
+            <navLabel>
+               
+        
+               <text>Tome I (1845-1846)</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-0.htm.html#pgepubid00002"/>
+            
+      
+            <navPoint id="a1np-4" playOrder="5">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Table des matières</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-0.htm.html#pgepubid00003"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-5" playOrder="6">
+            
+      
+            <navLabel>
+               
+        
+               <text>I</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-1.htm.html#pgepubid00004"/>
+            
+      
+            <navPoint id="a1np-6" playOrder="7">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Marseille.—L'arrivée.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-1.htm.html#pgepubid00005"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-7" playOrder="8">
+            
+      
+            <navLabel>
+               
+        
+               <text>II</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-2.htm.html#pgepubid00006"/>
+            
+      
+            <navPoint id="a1np-8" playOrder="9">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le père et le fils.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-2.htm.html#pgepubid00007"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-9" playOrder="10">
+            
+      
+            <navLabel>
+               
+        
+               <text>III</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-3.htm.html#pgepubid00008"/>
+            
+      
+            <navPoint id="a1np-10" playOrder="11">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Les Catalans.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-3.htm.html#pgepubid00009"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-11" playOrder="12">
+            
+      
+            <navLabel>
+               
+        
+               <text>IV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-4.htm.html#pgepubid00010"/>
+            
+      
+            <navPoint id="a1np-12" playOrder="13">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Complot.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-4.htm.html#pgepubid00011"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-13" playOrder="14">
+            
+      
+            <navLabel>
+               
+        
+               <text>V</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-5.htm.html#pgepubid00012"/>
+            
+      
+            <navPoint id="a1np-14" playOrder="15">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le repas des fiançailles.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-5.htm.html#pgepubid00013"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-15" playOrder="16">
+            
+      
+            <navLabel>
+               
+        
+               <text>VI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-6.htm.html#pgepubid00014"/>
+            
+      
+            <navPoint id="a1np-16" playOrder="17">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le substitut du procureur du roi.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-6.htm.html#pgepubid00015"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-17" playOrder="18">
+            
+      
+            <navLabel>
+               
+        
+               <text>VII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-7.htm.html#pgepubid00016"/>
+            
+      
+            <navPoint id="a1np-18" playOrder="19">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L'interrogatoire.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-7.htm.html#pgepubid00017"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-19" playOrder="20">
+            
+      
+            <navLabel>
+               
+        
+               <text>VIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-8.htm.html#pgepubid00018"/>
+            
+      
+            <navPoint id="a1np-20" playOrder="21">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le château d'If.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-8.htm.html#pgepubid00019"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-21" playOrder="22">
+            
+      
+            <navLabel>
+               
+        
+               <text>IX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-9.htm.html#pgepubid00020"/>
+            
+      
+            <navPoint id="a1np-22" playOrder="23">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le soir des fiançailles.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-9.htm.html#pgepubid00021"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-23" playOrder="24">
+            
+      
+            <navLabel>
+               
+        
+               <text>X</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-10.htm.html#pgepubid00022"/>
+            
+      
+            <navPoint id="a1np-24" playOrder="25">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le petit cabinet des Tuileries.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-10.htm.html#pgepubid00023"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-25" playOrder="26">
+            
+      
+            <navLabel>
+               
+        
+               <text>XI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-11.htm.html#pgepubid00024"/>
+            
+      
+            <navPoint id="a1np-26" playOrder="27">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L'Ogre de Corse.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-11.htm.html#pgepubid00025"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-27" playOrder="28">
+            
+      
+            <navLabel>
+               
+        
+               <text>XII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-12.htm.html#pgepubid00026"/>
+            
+      
+            <navPoint id="a1np-28" playOrder="29">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le père et le fils.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-12.htm.html#pgepubid00027"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-29" playOrder="30">
+            
+      
+            <navLabel>
+               
+        
+               <text>XIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-13.htm.html#pgepubid00028"/>
+            
+      
+            <navPoint id="a1np-30" playOrder="31">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Les Cent-Jours.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-13.htm.html#pgepubid00029"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-31" playOrder="32">
+            
+      
+            <navLabel>
+               
+        
+               <text>XIV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-14.htm.html#pgepubid00030"/>
+            
+      
+            <navPoint id="a1np-32" playOrder="33">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le prisonnier furieux et le prisonnier fou.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-14.htm.html#pgepubid00031"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-33" playOrder="34">
+            
+      
+            <navLabel>
+               
+        
+               <text>XV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-15.htm.html#pgepubid00032"/>
+            
+      
+            <navPoint id="a1np-34" playOrder="35">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le numéro 34 et le numéro 27.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-15.htm.html#pgepubid00033"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-35" playOrder="36">
+            
+      
+            <navLabel>
+               
+        
+               <text>XVI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-16.htm.html#pgepubid00034"/>
+            
+      
+            <navPoint id="a1np-36" playOrder="37">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Un savant italien.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-16.htm.html#pgepubid00035"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-37" playOrder="38">
+            
+      
+            <navLabel>
+               
+        
+               <text>XVII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-17.htm.html#pgepubid00036"/>
+            
+      
+            <navPoint id="a1np-38" playOrder="39">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La chambre de l'abbé.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-17.htm.html#pgepubid00037"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-39" playOrder="40">
+            
+      
+            <navLabel>
+               
+        
+               <text>XVIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-18.htm.html#pgepubid00038"/>
+            
+      
+            <navPoint id="a1np-40" playOrder="41">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le trésor.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-18.htm.html#pgepubid00039"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-41" playOrder="42">
+            
+      
+            <navLabel>
+               
+        
+               <text>XIX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-19.htm.html#pgepubid00040"/>
+            
+      
+            <navPoint id="a1np-42" playOrder="43">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le troisième accès.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-19.htm.html#pgepubid00041"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-43" playOrder="44">
+            
+      
+            <navLabel>
+               
+        
+               <text>XX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-20.htm.html#pgepubid00042"/>
+            
+      
+            <navPoint id="a1np-44" playOrder="45">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le cimetière du château d'If.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-20.htm.html#pgepubid00043"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-45" playOrder="46">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-21.htm.html#pgepubid00044"/>
+            
+      
+            <navPoint id="a1np-46" playOrder="47">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L'île de Tiboulen.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-21.htm.html#pgepubid00045"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-47" playOrder="48">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-22.htm.html#pgepubid00046"/>
+            
+      
+            <navPoint id="a1np-48" playOrder="49">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Les contrebandiers.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-22.htm.html#pgepubid00047"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-49" playOrder="50">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-23.htm.html#pgepubid00048"/>
+            
+      
+            <navPoint id="a1np-50" playOrder="51">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L'île de Monte-Cristo.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-23.htm.html#pgepubid00049"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-51" playOrder="52">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXIV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-24.htm.html#pgepubid00050"/>
+            
+      
+            <navPoint id="a1np-52" playOrder="53">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Éblouissement.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-24.htm.html#pgepubid00051"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-53" playOrder="54">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-25.htm.html#pgepubid00052"/>
+            
+      
+            <navPoint id="a1np-54" playOrder="55">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L'inconnu.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-25.htm.html#pgepubid00053"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-55" playOrder="56">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXVI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-26.htm.html#pgepubid00054"/>
+            
+      
+            <navPoint id="a1np-56" playOrder="57">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L'auberge du pont du Gard.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-26.htm.html#pgepubid00055"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-57" playOrder="58">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXVII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-27.htm.html#pgepubid00056"/>
+            
+      
+            <navPoint id="a1np-58" playOrder="59">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le récit.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-27.htm.html#pgepubid00057"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-59" playOrder="60">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXVIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-28.htm.html#pgepubid00058"/>
+            
+      
+            <navPoint id="a1np-60" playOrder="61">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Les registres des prisons.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-28.htm.html#pgepubid00059"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-61" playOrder="62">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXIX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-29.htm.html#pgepubid00060"/>
+            
+      
+            <navPoint id="a1np-62" playOrder="63">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La maison Morrel.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-29.htm.html#pgepubid00061"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-63" playOrder="64">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-30.htm.html#pgepubid00062"/>
+            
+      
+            <navPoint id="a1np-64" playOrder="65">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le cinq septembre.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-30.htm.html#pgepubid00063"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a1np-65" playOrder="66">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXXI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="1/OEBPS/2932772457256958577_17989-h-31.htm.html#pgepubid00064"/>
+            
+      
+            <navPoint id="a1np-66" playOrder="67">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Italie.—Simbad le marin.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-31.htm.html#pgepubid00065"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a1np-67" playOrder="68">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>FIN DU TOME PREMIER</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="1/OEBPS/2932772457256958577_17989-h-31.htm.html#pgepubid00066"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+      </navPoint>
+      <navPoint id="book001" playOrder="69">
+         <navLabel>
+            <text>Le comte de Monte-Cristo, Tome II</text>
+         </navLabel>
+         <content src="2/OEBPS/wrap0000.html"/>
+         <navPoint id="a2np-1" playOrder="70">
+            
+      
+            <navLabel>
+               
+        
+               <text>LE COMTE DE MONTE-CRISTO</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-0.htm.html#pgepubid00000"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-2" playOrder="71">
+            
+      
+            <navLabel>
+               
+        
+               <text>Alexandre Dumas</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-0.htm.html#pgepubid00001"/>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-3" playOrder="72">
+            
+      
+            <navLabel>
+               
+        
+               <text>Tome II (1845-1846)</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-0.htm.html#pgepubid00002"/>
+            
+      
+            <navPoint id="a2np-4" playOrder="73">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Table des matières</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-0.htm.html#pgepubid00003"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-5" playOrder="74">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXXII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-1.htm.html#pgepubid00004"/>
+            
+      
+            <navPoint id="a2np-6" playOrder="75">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Réveil.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-1.htm.html#pgepubid00005"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-7" playOrder="76">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXXIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-2.htm.html#pgepubid00006"/>
+            
+      
+            <navPoint id="a2np-8" playOrder="77">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Bandits romains.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-2.htm.html#pgepubid00007"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-9" playOrder="78">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXXIV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-3.htm.html#pgepubid00008"/>
+            
+      
+            <navPoint id="a2np-10" playOrder="79">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Apparition.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-3.htm.html#pgepubid00009"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-11" playOrder="80">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXXV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-4.htm.html#pgepubid00010"/>
+            
+      
+            <navPoint id="a2np-12" playOrder="81">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La mazzolata.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-4.htm.html#pgepubid00011"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-13" playOrder="82">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXXVI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-5.htm.html#pgepubid00012"/>
+            
+      
+            <navPoint id="a2np-14" playOrder="83">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La carnaval de Rome.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-5.htm.html#pgepubid00013"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-15" playOrder="84">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXXVII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-6.htm.html#pgepubid00014"/>
+            
+      
+            <navPoint id="a2np-16" playOrder="85">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Les catacombes de Saint-Sébastien.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-6.htm.html#pgepubid00015"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-17" playOrder="86">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXXVIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-7.htm.html#pgepubid00016"/>
+            
+      
+            <navPoint id="a2np-18" playOrder="87">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le rendez-vous.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-7.htm.html#pgepubid00017"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-19" playOrder="88">
+            
+      
+            <navLabel>
+               
+        
+               <text>XXXIX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-8.htm.html#pgepubid00018"/>
+            
+      
+            <navPoint id="a2np-20" playOrder="89">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Les convives.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-8.htm.html#pgepubid00019"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-21" playOrder="90">
+            
+      
+            <navLabel>
+               
+        
+               <text>XL</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-9.htm.html#pgepubid00020"/>
+            
+      
+            <navPoint id="a2np-22" playOrder="91">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le déjeuner.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-9.htm.html#pgepubid00021"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-23" playOrder="92">
+            
+      
+            <navLabel>
+               
+        
+               <text>XLI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-10.htm.html#pgepubid00022"/>
+            
+      
+            <navPoint id="a2np-24" playOrder="93">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La présentation.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-10.htm.html#pgepubid00023"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-25" playOrder="94">
+            
+      
+            <navLabel>
+               
+        
+               <text>XLII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-11.htm.html#pgepubid00024"/>
+            
+      
+            <navPoint id="a2np-26" playOrder="95">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Monsieur Bertuccio.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-11.htm.html#pgepubid00025"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-27" playOrder="96">
+            
+      
+            <navLabel>
+               
+        
+               <text>XLIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-12.htm.html#pgepubid00026"/>
+            
+      
+            <navPoint id="a2np-28" playOrder="97">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La maison d'Auteuil.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-12.htm.html#pgepubid00027"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-29" playOrder="98">
+            
+      
+            <navLabel>
+               
+        
+               <text>XLIV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-13.htm.html#pgepubid00028"/>
+            
+      
+            <navPoint id="a2np-30" playOrder="99">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La vendetta.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-13.htm.html#pgepubid00029"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-31" playOrder="100">
+            
+      
+            <navLabel>
+               
+        
+               <text>XLV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-14.htm.html#pgepubid00030"/>
+            
+      
+            <navPoint id="a2np-32" playOrder="101">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La pluie de sang.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-14.htm.html#pgepubid00031"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-33" playOrder="102">
+            
+      
+            <navLabel>
+               
+        
+               <text>XLVI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-15.htm.html#pgepubid00032"/>
+            
+      
+            <navPoint id="a2np-34" playOrder="103">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le crédit illimité.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-15.htm.html#pgepubid00033"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-35" playOrder="104">
+            
+      
+            <navLabel>
+               
+        
+               <text>XLVII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-16.htm.html#pgepubid00034"/>
+            
+      
+            <navPoint id="a2np-36" playOrder="105">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L'attelage gris pommelé.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-16.htm.html#pgepubid00035"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-37" playOrder="106">
+            
+      
+            <navLabel>
+               
+        
+               <text>XLVIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-17.htm.html#pgepubid00036"/>
+            
+      
+            <navPoint id="a2np-38" playOrder="107">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Idéologie.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-17.htm.html#pgepubid00037"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-39" playOrder="108">
+            
+      
+            <navLabel>
+               
+        
+               <text>XLIX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-18.htm.html#pgepubid00038"/>
+            
+      
+            <navPoint id="a2np-40" playOrder="109">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Haydée.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-18.htm.html#pgepubid00039"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-41" playOrder="110">
+            
+      
+            <navLabel>
+               
+        
+               <text>L</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-19.htm.html#pgepubid00040"/>
+            
+      
+            <navPoint id="a2np-42" playOrder="111">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La famille Morrel.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-19.htm.html#pgepubid00041"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-43" playOrder="112">
+            
+      
+            <navLabel>
+               
+        
+               <text>LI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-20.htm.html#pgepubid00042"/>
+            
+      
+            <navPoint id="a2np-44" playOrder="113">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Pyrame et Thisbé.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-20.htm.html#pgepubid00043"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-45" playOrder="114">
+            
+      
+            <navLabel>
+               
+        
+               <text>LII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-21.htm.html#pgepubid00044"/>
+            
+      
+            <navPoint id="a2np-46" playOrder="115">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Toxicologie.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-21.htm.html#pgepubid00045"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-47" playOrder="116">
+            
+      
+            <navLabel>
+               
+        
+               <text>LIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-22.htm.html#pgepubid00046"/>
+            
+      
+            <navPoint id="a2np-48" playOrder="117">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Robert le diable.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-22.htm.html#pgepubid00047"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-49" playOrder="118">
+            
+      
+            <navLabel>
+               
+        
+               <text>LIV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-23.htm.html#pgepubid00048"/>
+            
+      
+            <navPoint id="a2np-50" playOrder="119">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La hausse et la baisse.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-23.htm.html#pgepubid00049"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a2np-51" playOrder="120">
+            
+      
+            <navLabel>
+               
+        
+               <text>LV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="2/OEBPS/2127190280393558742_17990-h-24.htm.html#pgepubid00050"/>
+            
+      
+            <navPoint id="a2np-52" playOrder="121">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le major Cavalcanti.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-24.htm.html#pgepubid00051"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a2np-53" playOrder="122">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>FIN DU TOME DEUXIÈME.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="2/OEBPS/2127190280393558742_17990-h-24.htm.html#pgepubid00052"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+      </navPoint>
+      <navPoint id="book002" playOrder="123">
+         <navLabel>
+            <text>Le comte de Monte-Cristo, Tome III</text>
+         </navLabel>
+         <content src="3/OEBPS/wrap0000.html"/>
+         <navPoint id="a3np-1" playOrder="124">
+            
+      
+            <navLabel>
+               
+        
+               <text>LE COMTE DE MONTE-CRISTO</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-0.htm.html#pgepubid00000"/>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-2" playOrder="125">
+            
+      
+            <navLabel>
+               
+        
+               <text>Alexandre Dumas</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-0.htm.html#pgepubid00001"/>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-3" playOrder="126">
+            
+      
+            <navLabel>
+               
+        
+               <text>Tome III (1845-1846)</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-0.htm.html#pgepubid00002"/>
+            
+      
+            <navPoint id="a3np-4" playOrder="127">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Table des matières</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-0.htm.html#pgepubid00003"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-5" playOrder="128">
+            
+      
+            <navLabel>
+               
+        
+               <text>LVI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-1.htm.html#pgepubid00004"/>
+            
+      
+            <navPoint id="a3np-6" playOrder="129">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Andrea Cavalcanti.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-1.htm.html#pgepubid00005"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-7" playOrder="130">
+            
+      
+            <navLabel>
+               
+        
+               <text>LVII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-2.htm.html#pgepubid00006"/>
+            
+      
+            <navPoint id="a3np-8" playOrder="131">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L’enclos à la luzerne.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-2.htm.html#pgepubid00007"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-9" playOrder="132">
+            
+      
+            <navLabel>
+               
+        
+               <text>LVIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-3.htm.html#pgepubid00008"/>
+            
+      
+            <navPoint id="a3np-10" playOrder="133">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>M. Noirtier de Villefort.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-3.htm.html#pgepubid00009"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-11" playOrder="134">
+            
+      
+            <navLabel>
+               
+        
+               <text>LIX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-4.htm.html#pgepubid00010"/>
+            
+      
+            <navPoint id="a3np-12" playOrder="135">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le testament.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-4.htm.html#pgepubid00011"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-13" playOrder="136">
+            
+      
+            <navLabel>
+               
+        
+               <text>LX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-5.htm.html#pgepubid00012"/>
+            
+      
+            <navPoint id="a3np-14" playOrder="137">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le télégraphe.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-5.htm.html#pgepubid00013"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-15" playOrder="138">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-6.htm.html#pgepubid00014"/>
+            
+      
+            <navPoint id="a3np-16" playOrder="139">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le moyen de délivrer un jardinier des loirs qui mangent ses pêches.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-6.htm.html#pgepubid00015"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-17" playOrder="140">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-7.htm.html#pgepubid00016"/>
+            
+      
+            <navPoint id="a3np-18" playOrder="141">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Les fantômes.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-7.htm.html#pgepubid00017"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-19" playOrder="142">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-8.htm.html#pgepubid00018"/>
+            
+      
+            <navPoint id="a3np-20" playOrder="143">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le dîner.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-8.htm.html#pgepubid00019"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-21" playOrder="144">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXIV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-9.htm.html#pgepubid00020"/>
+            
+      
+            <navPoint id="a3np-22" playOrder="145">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le mendiant.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-9.htm.html#pgepubid00021"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-23" playOrder="146">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-10.htm.html#pgepubid00022"/>
+            
+      
+            <navPoint id="a3np-24" playOrder="147">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Scène conjugale.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-10.htm.html#pgepubid00023"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-25" playOrder="148">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXVI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-11.htm.html#pgepubid00024"/>
+            
+      
+            <navPoint id="a3np-26" playOrder="149">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Projets de mariage.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-11.htm.html#pgepubid00025"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-27" playOrder="150">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXVII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-12.htm.html#pgepubid00026"/>
+            
+      
+            <navPoint id="a3np-28" playOrder="151">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le cabinet du procureur du roi.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-12.htm.html#pgepubid00027"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-29" playOrder="152">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXVIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-13.htm.html#pgepubid00028"/>
+            
+      
+            <navPoint id="a3np-30" playOrder="153">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Un bal d’été.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-13.htm.html#pgepubid00029"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-31" playOrder="154">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXIX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-14.htm.html#pgepubid00030"/>
+            
+      
+            <navPoint id="a3np-32" playOrder="155">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Les informations.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-14.htm.html#pgepubid00031"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-33" playOrder="156">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-15.htm.html#pgepubid00032"/>
+            
+      
+            <navPoint id="a3np-34" playOrder="157">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le bal.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-15.htm.html#pgepubid00033"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-35" playOrder="158">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-16.htm.html#pgepubid00034"/>
+            
+      
+            <navPoint id="a3np-36" playOrder="159">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le pain et le sel.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-16.htm.html#pgepubid00035"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-37" playOrder="160">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-17.htm.html#pgepubid00036"/>
+            
+      
+            <navPoint id="a3np-38" playOrder="161">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Madame de Saint-Méran.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-17.htm.html#pgepubid00037"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-39" playOrder="162">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-18.htm.html#pgepubid00038"/>
+            
+      
+            <navPoint id="a3np-40" playOrder="163">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La promesse.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-18.htm.html#pgepubid00039"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-41" playOrder="164">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXIV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-19.htm.html#pgepubid00040"/>
+            
+      
+            <navPoint id="a3np-42" playOrder="165">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le caveau de la famille Villefort.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-19.htm.html#pgepubid00041"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-43" playOrder="166">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-20.htm.html#pgepubid00042"/>
+            
+      
+            <navPoint id="a3np-44" playOrder="167">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le procès-verbal.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-20.htm.html#pgepubid00043"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-45" playOrder="168">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXVI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-21.htm.html#pgepubid00044"/>
+            
+      
+            <navPoint id="a3np-46" playOrder="169">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le progrès de Cavalcanti fils.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-21.htm.html#pgepubid00045"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-47" playOrder="170">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXVII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-22.htm.html#pgepubid00046"/>
+            
+      
+            <navPoint id="a3np-48" playOrder="171">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Haydée.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-22.htm.html#pgepubid00047"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-49" playOrder="172">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXVIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-23.htm.html#pgepubid00048"/>
+            
+      
+            <navPoint id="a3np-50" playOrder="173">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>On nous écrit de Janina.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-23.htm.html#pgepubid00049"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-51" playOrder="174">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXIX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-24.htm.html#pgepubid00050"/>
+            
+      
+            <navPoint id="a3np-52" playOrder="175">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La limonade.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-24.htm.html#pgepubid00051"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-53" playOrder="176">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-25.htm.html#pgepubid00052"/>
+            
+      
+            <navPoint id="a3np-54" playOrder="177">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L’accusation.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-25.htm.html#pgepubid00053"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-55" playOrder="178">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXXI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-26.htm.html#pgepubid00054"/>
+            
+      
+            <navPoint id="a3np-56" playOrder="179">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La chambre du boulanger retiré.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-26.htm.html#pgepubid00055"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-57" playOrder="180">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXXII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-27.htm.html#pgepubid00056"/>
+            
+      
+            <navPoint id="a3np-58" playOrder="181">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L’effraction.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-27.htm.html#pgepubid00057"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-59" playOrder="182">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXXIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-28.htm.html#pgepubid00058"/>
+            
+      
+            <navPoint id="a3np-60" playOrder="183">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La main de Dieu.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-28.htm.html#pgepubid00059"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a3np-61" playOrder="184">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXXIV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="3/OEBPS/8702532056285283421_17991-h-29.htm.html#pgepubid00060"/>
+            
+      
+            <navPoint id="a3np-62" playOrder="185">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Beauchamp.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-29.htm.html#pgepubid00061"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a3np-63" playOrder="186">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>FIN DU TOME TROISIÈME.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="3/OEBPS/8702532056285283421_17991-h-29.htm.html#pgepubid00062"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+      </navPoint>
+      <navPoint id="book003" playOrder="187">
+         <navLabel>
+            <text>Le comte de Monte-Cristo, Tome IV</text>
+         </navLabel>
+         <content src="4/OEBPS/wrap0000.html"/>
+         <navPoint id="a4np-1" playOrder="188">
+            
+      
+            <navLabel>
+               
+        
+               <text>LE COMTE DE MONTE-CRISTO</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-0.htm.html#pgepubid00000"/>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-2" playOrder="189">
+            
+      
+            <navLabel>
+               
+        
+               <text>Alexandre Dumas</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-0.htm.html#pgepubid00001"/>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-3" playOrder="190">
+            
+      
+            <navLabel>
+               
+        
+               <text>Tome IV (1845-1846)</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-0.htm.html#pgepubid00002"/>
+            
+      
+            <navPoint id="a4np-4" playOrder="191">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Table des matières</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-0.htm.html#pgepubid00003"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-5" playOrder="192">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXXV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-1.htm.html#pgepubid00004"/>
+            
+      
+            <navPoint id="a4np-6" playOrder="193">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le voyage.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-1.htm.html#pgepubid00005"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-7" playOrder="194">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXXVI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-2.htm.html#pgepubid00006"/>
+            
+      
+            <navPoint id="a4np-8" playOrder="195">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le jugement.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-2.htm.html#pgepubid00007"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-9" playOrder="196">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXXVII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-3.htm.html#pgepubid00008"/>
+            
+      
+            <navPoint id="a4np-10" playOrder="197">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La provocation.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-3.htm.html#pgepubid00009"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-11" playOrder="198">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXXVIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-4.htm.html#pgepubid00010"/>
+            
+      
+            <navPoint id="a4np-12" playOrder="199">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L'insulte.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-4.htm.html#pgepubid00011"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-13" playOrder="200">
+            
+      
+            <navLabel>
+               
+        
+               <text>LXXXIX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-5.htm.html#pgepubid00012"/>
+            
+      
+            <navPoint id="a4np-14" playOrder="201">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La nuit.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-5.htm.html#pgepubid00013"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-15" playOrder="202">
+            
+      
+            <navLabel>
+               
+        
+               <text>XC</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-6.htm.html#pgepubid00014"/>
+            
+      
+            <navPoint id="a4np-16" playOrder="203">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La rencontre.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-6.htm.html#pgepubid00015"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-17" playOrder="204">
+            
+      
+            <navLabel>
+               
+        
+               <text>XCI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-7.htm.html#pgepubid00016"/>
+            
+      
+            <navPoint id="a4np-18" playOrder="205">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La mère et le fils.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-7.htm.html#pgepubid00017"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-19" playOrder="206">
+            
+      
+            <navLabel>
+               
+        
+               <text>XCII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-8.htm.html#pgepubid00018"/>
+            
+      
+            <navPoint id="a4np-20" playOrder="207">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le suicide.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-8.htm.html#pgepubid00019"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-21" playOrder="208">
+            
+      
+            <navLabel>
+               
+        
+               <text>XCIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-9.htm.html#pgepubid00020"/>
+            
+      
+            <navPoint id="a4np-22" playOrder="209">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Valentine.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-9.htm.html#pgepubid00021"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-23" playOrder="210">
+            
+      
+            <navLabel>
+               
+        
+               <text>XCIV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-10.htm.html#pgepubid00022"/>
+            
+      
+            <navPoint id="a4np-24" playOrder="211">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L'aveu.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-10.htm.html#pgepubid00023"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-25" playOrder="212">
+            
+      
+            <navLabel>
+               
+        
+               <text>XCV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-11.htm.html#pgepubid00024"/>
+            
+      
+            <navPoint id="a4np-26" playOrder="213">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le père et la fille.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-11.htm.html#pgepubid00025"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-27" playOrder="214">
+            
+      
+            <navLabel>
+               
+        
+               <text>XCVI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-12.htm.html#pgepubid00026"/>
+            
+      
+            <navPoint id="a4np-28" playOrder="215">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le contrat.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-12.htm.html#pgepubid00027"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-29" playOrder="216">
+            
+      
+            <navLabel>
+               
+        
+               <text>XCVII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-13.htm.html#pgepubid00028"/>
+            
+      
+            <navPoint id="a4np-30" playOrder="217">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La route de Belgique.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-13.htm.html#pgepubid00029"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-31" playOrder="218">
+            
+      
+            <navLabel>
+               
+        
+               <text>XCVIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-14.htm.html#pgepubid00030"/>
+            
+      
+            <navPoint id="a4np-32" playOrder="219">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L'auberge de la Cloche et de la Bouteille.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-14.htm.html#pgepubid00031"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-33" playOrder="220">
+            
+      
+            <navLabel>
+               
+        
+               <text>XCIX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-15.htm.html#pgepubid00032"/>
+            
+      
+            <navPoint id="a4np-34" playOrder="221">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La loi.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-15.htm.html#pgepubid00033"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-35" playOrder="222">
+            
+      
+            <navLabel>
+               
+        
+               <text>C</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-16.htm.html#pgepubid00034"/>
+            
+      
+            <navPoint id="a4np-36" playOrder="223">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L'apparition.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-16.htm.html#pgepubid00035"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-37" playOrder="224">
+            
+      
+            <navLabel>
+               
+        
+               <text>CI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-17.htm.html#pgepubid00036"/>
+            
+      
+            <navPoint id="a4np-38" playOrder="225">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Locuste.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-17.htm.html#pgepubid00037"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-39" playOrder="226">
+            
+      
+            <navLabel>
+               
+        
+               <text>CII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-18.htm.html#pgepubid00038"/>
+            
+      
+            <navPoint id="a4np-40" playOrder="227">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Valentine.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-18.htm.html#pgepubid00039"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-41" playOrder="228">
+            
+      
+            <navLabel>
+               
+        
+               <text>CIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-19.htm.html#pgepubid00040"/>
+            
+      
+            <navPoint id="a4np-42" playOrder="229">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Maximilien.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-19.htm.html#pgepubid00041"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-43" playOrder="230">
+            
+      
+            <navLabel>
+               
+        
+               <text>CIV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-20.htm.html#pgepubid00042"/>
+            
+      
+            <navPoint id="a4np-44" playOrder="231">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La signature Danglars.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-20.htm.html#pgepubid00043"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-45" playOrder="232">
+            
+      
+            <navLabel>
+               
+        
+               <text>CV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-21.htm.html#pgepubid00044"/>
+            
+      
+            <navPoint id="a4np-46" playOrder="233">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le cimetière du Père-Lachaise.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-21.htm.html#pgepubid00045"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-47" playOrder="234">
+            
+      
+            <navLabel>
+               
+        
+               <text>CVI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-22.htm.html#pgepubid00046"/>
+            
+      
+            <navPoint id="a4np-48" playOrder="235">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le partage.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-22.htm.html#pgepubid00047"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-49" playOrder="236">
+            
+      
+            <navLabel>
+               
+        
+               <text>CVII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-23.htm.html#pgepubid00048"/>
+            
+      
+            <navPoint id="a4np-50" playOrder="237">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La Fosse-aux-Lions.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-23.htm.html#pgepubid00049"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-51" playOrder="238">
+            
+      
+            <navLabel>
+               
+        
+               <text>CVIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-24.htm.html#pgepubid00050"/>
+            
+      
+            <navPoint id="a4np-52" playOrder="239">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le juge.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-24.htm.html#pgepubid00051"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-53" playOrder="240">
+            
+      
+            <navLabel>
+               
+        
+               <text>CIX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-25.htm.html#pgepubid00052"/>
+            
+      
+            <navPoint id="a4np-54" playOrder="241">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Les assises.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-25.htm.html#pgepubid00053"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-55" playOrder="242">
+            
+      
+            <navLabel>
+               
+        
+               <text>CX</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-26.htm.html#pgepubid00054"/>
+            
+      
+            <navPoint id="a4np-56" playOrder="243">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>L'acte d'accusation.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-26.htm.html#pgepubid00055"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-57" playOrder="244">
+            
+      
+            <navLabel>
+               
+        
+               <text>CXI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-27.htm.html#pgepubid00056"/>
+            
+      
+            <navPoint id="a4np-58" playOrder="245">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Expiation.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-27.htm.html#pgepubid00057"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-59" playOrder="246">
+            
+      
+            <navLabel>
+               
+        
+               <text>CXII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-28.htm.html#pgepubid00058"/>
+            
+      
+            <navPoint id="a4np-60" playOrder="247">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le départ.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-28.htm.html#pgepubid00059"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-61" playOrder="248">
+            
+      
+            <navLabel>
+               
+        
+               <text>CXIII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-29.htm.html#pgepubid00060"/>
+            
+      
+            <navPoint id="a4np-62" playOrder="249">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le passé.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-29.htm.html#pgepubid00061"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-63" playOrder="250">
+            
+      
+            <navLabel>
+               
+        
+               <text>CXIV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-30.htm.html#pgepubid00062"/>
+            
+      
+            <navPoint id="a4np-64" playOrder="251">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Peppino.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-30.htm.html#pgepubid00063"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-65" playOrder="252">
+            
+      
+            <navLabel>
+               
+        
+               <text>CXV</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-31.htm.html#pgepubid00064"/>
+            
+      
+            <navPoint id="a4np-66" playOrder="253">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>La carte de Luigi Vampa.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-31.htm.html#pgepubid00065"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-67" playOrder="254">
+            
+      
+            <navLabel>
+               
+        
+               <text>CXVI</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-32.htm.html#pgepubid00066"/>
+            
+      
+            <navPoint id="a4np-68" playOrder="255">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le pardon.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-32.htm.html#pgepubid00067"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+         <navPoint id="a4np-69" playOrder="256">
+            
+      
+            <navLabel>
+               
+        
+               <text>CXVII</text>
+               
+      
+            </navLabel>
+            
+      
+            <content src="4/OEBPS/7168100895317268910_17992-h-33.htm.html#pgepubid00068"/>
+            
+      
+            <navPoint id="a4np-70" playOrder="257">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>Le 5 octobre.</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-33.htm.html#pgepubid00069"/>
+               
+      
+            </navPoint>
+            
+      
+            <navPoint id="a4np-71" playOrder="258">
+               
+        
+               <navLabel>
+                  
+          
+                  <text>FIN</text>
+                  
+        
+               </navLabel>
+               
+        
+               <content src="4/OEBPS/7168100895317268910_17992-h-33.htm.html#pgepubid00070"/>
+               
+      
+            </navPoint>
+            
+    
+         </navPoint>
+      </navPoint>
+   </navMap>
+</ncx>

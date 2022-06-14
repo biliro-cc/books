@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/2499</dc:identifier>
+    <dc:creator opf:file-as="Hesse, Hermann">Hermann Hesse</dc:creator>
+    <dc:title>Siddhartha: eine indische Dichtung</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">de</dc:language>
+    <dc:subject>Gautama Buddha -- Fiction</dc:subject>
+    <dc:subject>India -- Social life and customs -- Fiction</dc:subject>
+    <dc:subject>Spiritual life -- Fiction</dc:subject>
+    <dc:subject>Self-realization -- Fiction</dc:subject>
+    <dc:subject>Buddhism -- Fiction</dc:subject>
+    <dc:subject>Buddhist philosophy -- Fiction</dc:subject>
+    <dc:subject>Brahmans -- Fiction</dc:subject>
+    <dc:subject>India -- Religion -- Fiction</dc:subject>
+    <dc:date opf:event="publication">2001-02-01</dc:date>
+    <dc:date opf:event="conversion">2022-06-02T08:14:18.354148+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/2499/2499-8.txt</dc:source>
+    <meta name="cover" content="item1"/>
+  </metadata>
+  <manifest>
+    <!--Image: 1200 x 1800 size=43397 -->
+    <item href="5230923900243287493_2499-cover.png" id="item1" media-type="image/png"/>
+    <item href="pgepub.css" id="item2" media-type="text/css"/>
+    <item href="0.css" id="item3" media-type="text/css"/>
+    <!--Chunk: size=82346 Split on p-->
+    <item href="5890507718312829439_2499-8-0.txt.html" id="id00000" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82032 Split on h2-->
+    <item href="5890507718312829439_2499-8-1.txt.html" id="id00191" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82113 Split on p-->
+    <item href="5890507718312829439_2499-8-2.txt.html" id="id00371" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=27857-->
+    <item href="5890507718312829439_2499-8-3.txt.html" id="id00545" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="id00000" linear="yes"/>
+    <itemref idref="id00191" linear="yes"/>
+    <itemref idref="id00371" linear="yes"/>
+    <itemref idref="id00545" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>

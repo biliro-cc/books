@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="epubmerge-id">
+   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:identifier id="epubmerge-id">epubmerge-uid-1655233300</dc:identifier>
+      <dc:title>I promessi sposi</dc:title>
+      <dc:creator opf:role="aut">Alessandro Manzoni</dc:creator>
+      <dc:contributor>epubmerge</dc:contributor>
+      <dc:rights>Copyrights as per source stories</dc:rights>
+      <dc:language>ita</dc:language>
+      <dc:description>&lt;p&gt;Anthology containing:&lt;/p&gt;I promessi sposi. / Opere di Alessando Manzoni, vol. 1&lt;br/&gt;Brani inediti dei Promessi Sposi, vol. 1 / Opere di Alessando Manzoni vol. 2 parte 1&lt;br/&gt;Brani inediti dei Promessi Sposi, vol. 2 / Opere di Alessando Manzoni vol. 2 parte 2</dc:description>
+      <dc:identifier opf:scheme="URL">https://www.gutenberg.org/files/45334/45334-h/45334-h.htm</dc:identifier>
+      <dc:source>https://www.gutenberg.org/files/45334/45334-h/45334-h.htm</dc:source>
+      <dc:subject>Historical fiction</dc:subject>
+      <dc:subject>Plague -- Fiction</dc:subject>
+      <dc:subject>Milan (Italy) -- Fiction</dc:subject>
+      <dc:subject>Italy -- History -- 1559-1789 -- Fiction</dc:subject>
+      <dc:subject>Manzoni</dc:subject>
+      <dc:subject>Alessandro</dc:subject>
+      <dc:subject>1785-1873</dc:subject>
+      <meta name="cover" content="coverimageid"/>
+   </metadata>
+   <manifest>
+      <item id="coverimageid" href="cover.jpg" media-type="image/jpeg"/>
+      <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+      <item id="a1rootfile" href="1/OEBPS/content.opf" media-type="origrootfile/xml"/>
+      <item id="a1item1" href="1/OEBPS/3039306093227526026_cover.jpg" media-type="image/jpeg"/>
+      <item id="a1item2" href="1/OEBPS/pgepub.css" media-type="text/css"/>
+      <item id="a1item3" href="1/OEBPS/0.css" media-type="text/css"/>
+      <item id="a1item4" href="1/OEBPS/1.css" media-type="text/css"/>
+      <item id="a1item5" href="1/OEBPS/7296699934164433693_45334-h-0.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item6" href="1/OEBPS/7296699934164433693_45334-h-1.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item7" href="1/OEBPS/7296699934164433693_45334-h-2.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item8" href="1/OEBPS/7296699934164433693_45334-h-3.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item9" href="1/OEBPS/7296699934164433693_45334-h-4.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item10" href="1/OEBPS/7296699934164433693_45334-h-5.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item11" href="1/OEBPS/7296699934164433693_45334-h-6.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item12" href="1/OEBPS/7296699934164433693_45334-h-7.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item13" href="1/OEBPS/7296699934164433693_45334-h-8.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item14" href="1/OEBPS/7296699934164433693_45334-h-9.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item15" href="1/OEBPS/7296699934164433693_45334-h-10.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item16" href="1/OEBPS/7296699934164433693_45334-h-11.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item17" href="1/OEBPS/7296699934164433693_45334-h-12.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item18" href="1/OEBPS/7296699934164433693_45334-h-13.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item19" href="1/OEBPS/7296699934164433693_45334-h-14.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item20" href="1/OEBPS/7296699934164433693_45334-h-15.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item21" href="1/OEBPS/7296699934164433693_45334-h-16.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item22" href="1/OEBPS/7296699934164433693_45334-h-17.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item23" href="1/OEBPS/7296699934164433693_45334-h-18.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item24" href="1/OEBPS/7296699934164433693_45334-h-19.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item25" href="1/OEBPS/7296699934164433693_45334-h-20.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item26" href="1/OEBPS/7296699934164433693_45334-h-21.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item27" href="1/OEBPS/7296699934164433693_45334-h-22.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1item28" href="1/OEBPS/7296699934164433693_45334-h-23.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a1ncx" href="1/OEBPS/toc.ncx" media-type="origtocncx/xml"/>
+      <item id="a1coverpage-wrapper" href="1/OEBPS/wrap0000.html" media-type="application/xhtml+xml"/>
+      <item id="a2rootfile" href="2/OEBPS/content.opf" media-type="origrootfile/xml"/>
+      <item id="a2item1" href="2/OEBPS/6283626618139990770_cover.jpg" media-type="image/jpeg"/>
+      <item id="a2item2" href="2/OEBPS/pgepub.css" media-type="text/css"/>
+      <item id="a2item3" href="2/OEBPS/0.css" media-type="text/css"/>
+      <item id="a2item4" href="2/OEBPS/4941681778044175661_46031-h-0.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item5" href="2/OEBPS/4941681778044175661_46031-h-1.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item6" href="2/OEBPS/4941681778044175661_46031-h-2.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item7" href="2/OEBPS/4941681778044175661_46031-h-3.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item8" href="2/OEBPS/4941681778044175661_46031-h-4.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item9" href="2/OEBPS/4941681778044175661_46031-h-5.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item10" href="2/OEBPS/4941681778044175661_46031-h-6.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item11" href="2/OEBPS/4941681778044175661_46031-h-7.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item12" href="2/OEBPS/4941681778044175661_46031-h-8.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item13" href="2/OEBPS/4941681778044175661_46031-h-9.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item14" href="2/OEBPS/4941681778044175661_46031-h-10.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item15" href="2/OEBPS/4941681778044175661_46031-h-11.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item16" href="2/OEBPS/4941681778044175661_46031-h-12.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item17" href="2/OEBPS/4941681778044175661_46031-h-13.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item18" href="2/OEBPS/4941681778044175661_46031-h-14.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item19" href="2/OEBPS/4941681778044175661_46031-h-15.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item20" href="2/OEBPS/4941681778044175661_46031-h-16.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2item21" href="2/OEBPS/4941681778044175661_46031-h-17.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a2ncx" href="2/OEBPS/toc.ncx" media-type="origtocncx/xml"/>
+      <item id="a2coverpage-wrapper" href="2/OEBPS/wrap0000.html" media-type="application/xhtml+xml"/>
+      <item id="a3rootfile" href="3/OEBPS/content.opf" media-type="origrootfile/xml"/>
+      <item id="a3item1" href="3/OEBPS/7680074933539732079_cover.jpg" media-type="image/jpeg"/>
+      <item id="a3item2" href="3/OEBPS/pgepub.css" media-type="text/css"/>
+      <item id="a3item3" href="3/OEBPS/0.css" media-type="text/css"/>
+      <item id="a3item4" href="3/OEBPS/4196194295218072103_46463-h-0.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item5" href="3/OEBPS/4196194295218072103_46463-h-1.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item6" href="3/OEBPS/4196194295218072103_46463-h-2.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item7" href="3/OEBPS/4196194295218072103_46463-h-3.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item8" href="3/OEBPS/4196194295218072103_46463-h-4.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item9" href="3/OEBPS/4196194295218072103_46463-h-5.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item10" href="3/OEBPS/4196194295218072103_46463-h-6.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item11" href="3/OEBPS/4196194295218072103_46463-h-7.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item12" href="3/OEBPS/4196194295218072103_46463-h-8.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item13" href="3/OEBPS/4196194295218072103_46463-h-9.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item14" href="3/OEBPS/4196194295218072103_46463-h-10.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item15" href="3/OEBPS/4196194295218072103_46463-h-11.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item16" href="3/OEBPS/4196194295218072103_46463-h-12.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item17" href="3/OEBPS/4196194295218072103_46463-h-13.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item18" href="3/OEBPS/4196194295218072103_46463-h-14.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item19" href="3/OEBPS/4196194295218072103_46463-h-15.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item20" href="3/OEBPS/4196194295218072103_46463-h-16.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item21" href="3/OEBPS/4196194295218072103_46463-h-17.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item22" href="3/OEBPS/4196194295218072103_46463-h-18.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3item23" href="3/OEBPS/4196194295218072103_46463-h-19.htm.html" media-type="application/xhtml+xml"/>
+      <item id="a3ncx" href="3/OEBPS/toc.ncx" media-type="origtocncx/xml"/>
+      <item id="a3coverpage-wrapper" href="3/OEBPS/wrap0000.html" media-type="application/xhtml+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="cover" linear="yes"/>
+      <itemref idref="a1coverpage-wrapper" linear="yes"/>
+      <itemref idref="a1item5" linear="yes"/>
+      <itemref idref="a1item6" linear="yes"/>
+      <itemref idref="a1item7" linear="yes"/>
+      <itemref idref="a1item8" linear="yes"/>
+      <itemref idref="a1item9" linear="yes"/>
+      <itemref idref="a1item10" linear="yes"/>
+      <itemref idref="a1item11" linear="yes"/>
+      <itemref idref="a1item12" linear="yes"/>
+      <itemref idref="a1item13" linear="yes"/>
+      <itemref idref="a1item14" linear="yes"/>
+      <itemref idref="a1item15" linear="yes"/>
+      <itemref idref="a1item16" linear="yes"/>
+      <itemref idref="a1item17" linear="yes"/>
+      <itemref idref="a1item18" linear="yes"/>
+      <itemref idref="a1item19" linear="yes"/>
+      <itemref idref="a1item20" linear="yes"/>
+      <itemref idref="a1item21" linear="yes"/>
+      <itemref idref="a1item22" linear="yes"/>
+      <itemref idref="a1item23" linear="yes"/>
+      <itemref idref="a1item24" linear="yes"/>
+      <itemref idref="a1item25" linear="yes"/>
+      <itemref idref="a1item26" linear="yes"/>
+      <itemref idref="a1item27" linear="yes"/>
+      <itemref idref="a1item28" linear="yes"/>
+      <itemref idref="a2coverpage-wrapper" linear="yes"/>
+      <itemref idref="a2item4" linear="yes"/>
+      <itemref idref="a2item5" linear="yes"/>
+      <itemref idref="a2item6" linear="yes"/>
+      <itemref idref="a2item7" linear="yes"/>
+      <itemref idref="a2item8" linear="yes"/>
+      <itemref idref="a2item9" linear="yes"/>
+      <itemref idref="a2item10" linear="yes"/>
+      <itemref idref="a2item11" linear="yes"/>
+      <itemref idref="a2item12" linear="yes"/>
+      <itemref idref="a2item13" linear="yes"/>
+      <itemref idref="a2item14" linear="yes"/>
+      <itemref idref="a2item15" linear="yes"/>
+      <itemref idref="a2item16" linear="yes"/>
+      <itemref idref="a2item17" linear="yes"/>
+      <itemref idref="a2item18" linear="yes"/>
+      <itemref idref="a2item19" linear="yes"/>
+      <itemref idref="a2item20" linear="yes"/>
+      <itemref idref="a2item21" linear="yes"/>
+      <itemref idref="a3coverpage-wrapper" linear="yes"/>
+      <itemref idref="a3item4" linear="yes"/>
+      <itemref idref="a3item5" linear="yes"/>
+      <itemref idref="a3item6" linear="yes"/>
+      <itemref idref="a3item7" linear="yes"/>
+      <itemref idref="a3item8" linear="yes"/>
+      <itemref idref="a3item9" linear="yes"/>
+      <itemref idref="a3item10" linear="yes"/>
+      <itemref idref="a3item11" linear="yes"/>
+      <itemref idref="a3item12" linear="yes"/>
+      <itemref idref="a3item13" linear="yes"/>
+      <itemref idref="a3item14" linear="yes"/>
+      <itemref idref="a3item15" linear="yes"/>
+      <itemref idref="a3item16" linear="yes"/>
+      <itemref idref="a3item17" linear="yes"/>
+      <itemref idref="a3item18" linear="yes"/>
+      <itemref idref="a3item19" linear="yes"/>
+      <itemref idref="a3item20" linear="yes"/>
+      <itemref idref="a3item21" linear="yes"/>
+      <itemref idref="a3item22" linear="yes"/>
+      <itemref idref="a3item23" linear="yes"/>
+   </spine>
+   <guide>
+      <reference type="cover" title="Cover" href="cover.xhtml"/>
+   </guide>
+</package>

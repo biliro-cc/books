@@ -1,0 +1,108 @@
+/**/
+body {
+    margin-left: 10%;
+    margin-right: 10%
+    }
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    /* all headings centered */
+    clear: both
+    }
+p {
+    margin-top: 0.51em;
+    text-align: justify;
+    margin-bottom: 0.49em
+    }
+hr {
+    width: 33%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both
+    }
+hr.tb {
+    width: 45%
+    }
+hr.chap {
+    width: 65%
+    }
+hr.full {
+    width: 95%
+    }
+hr.r5 {
+    width: 5%;
+    margin-top: 1em;
+    margin-bottom: 1em
+    }
+hr.r65 {
+    width: 65%;
+    margin-top: 3em;
+    margin-bottom: 3em
+    }
+table {
+    margin-left: auto;
+    margin-right: auto
+    }
+.tdl {
+    text-align: left
+    }
+.tdr {
+    text-align: right
+    }
+.tdc {
+    text-align: center
+    }
+a:link {
+    color: #009;
+    text-decoration: none
+    }
+v:link {
+    color: #009;
+    text-decoration: none
+    }
+.center {
+    text-align: center
+    }
+.right {
+    text-align: right
+    }
+.font0 {
+    font-size: 0.8em
+    }
+.actor {
+    font-size: 0.8em;
+    text-align: center
+    }
+.caption {
+    font-weight: bold
+    }
+.top {
+    margin-top: 2em
+    }
+.bot {
+    margin-bottom: 2em
+    }
+/* Footnotes */
+.footnotes {
+    border: dashed 1px
+    }
+.footnote {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 0.9em
+    }
+.footnote .label {
+    text-align: right
+    }
+.fnanchor {
+    vertical-align: super;
+    font-size: 0.8em;
+    text-decoration: none
+    }
+/* Images */
+.figcenter {
+    margin: auto;
+    text-align: center
+    }
+/**/

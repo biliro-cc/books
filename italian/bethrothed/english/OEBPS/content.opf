@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/35155</dc:identifier>
+    <dc:creator opf:file-as="Manzoni, Alessandro">Alessandro Manzoni</dc:creator>
+    <dc:title>The Betrothed / From the Italian of Alessandro Manzoni</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Historical fiction</dc:subject>
+    <dc:subject>Plague -- Fiction</dc:subject>
+    <dc:subject>Italian fiction -- Translations into English</dc:subject>
+    <dc:subject>Milan (Italy) -- Fiction</dc:subject>
+    <dc:subject>Italy -- History -- 1559-1789 -- Fiction</dc:subject>
+    <dc:date opf:event="publication">2011-02-03</dc:date>
+    <dc:date opf:event="conversion">2022-05-16T10:21:05.192475+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/35155/35155-h/35155-h.htm</dc:source>
+    <meta name="cover" content="item1"/>
+  </metadata>
+  <manifest>
+    <!--Image: 342 x 650 size=35194 -->
+    <item href="1371966347373843013_cover.jpg" id="item1" media-type="image/jpeg"/>
+    <item href="pgepub.css" id="item2" media-type="text/css"/>
+    <item href="0.css" id="item3" media-type="text/css"/>
+    <item href="1.css" id="item4" media-type="text/css"/>
+    <!--Chunk: size=82282 Split on p-->
+    <item href="4977508234093178068_35155-h-0.htm.html" id="item5" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82662 Split on p-->
+    <item href="4977508234093178068_35155-h-1.htm.html" id="item6" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=58893 Split on div-->
+    <item href="4977508234093178068_35155-h-2.htm.html" id="item7" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82034 Split on p-->
+    <item href="4977508234093178068_35155-h-3.htm.html" id="item8" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82371 Split on p-->
+    <item href="4977508234093178068_35155-h-4.htm.html" id="item9" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82319 Split on p-->
+    <item href="4977508234093178068_35155-h-5.htm.html" id="item10" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82005 Split on p-->
+    <item href="4977508234093178068_35155-h-6.htm.html" id="item11" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=79073 Split on h2-->
+    <item href="4977508234093178068_35155-h-7.htm.html" id="item12" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82456 Split on p-->
+    <item href="4977508234093178068_35155-h-8.htm.html" id="item13" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82378 Split on p-->
+    <item href="4977508234093178068_35155-h-9.htm.html" id="item14" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=78219 Split on h2-->
+    <item href="4977508234093178068_35155-h-10.htm.html" id="item15" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82006 Split on p-->
+    <item href="4977508234093178068_35155-h-11.htm.html" id="item16" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82063 Split on p-->
+    <item href="4977508234093178068_35155-h-12.htm.html" id="item17" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=62175 Split on div-->
+    <item href="4977508234093178068_35155-h-13.htm.html" id="item18" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=25906-->
+    <item href="4977508234093178068_35155-h-14.htm.html" id="item19" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+    <itemref idref="item16" linear="yes"/>
+    <itemref idref="item17" linear="yes"/>
+    <itemref idref="item18" linear="yes"/>
+    <itemref idref="item19" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>

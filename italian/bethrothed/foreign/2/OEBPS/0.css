@@ -1,0 +1,247 @@
+/**/
+body {
+    margin-left: 10%;
+    margin-right: 10%
+    }
+h1, h2, h3 {
+    text-align: center;
+    clear: both
+    }
+div.sum {
+    page-break-before: always;
+    page-break-after: always
+    }
+div.break {
+    page-break-before: always
+    }
+.bord {
+    border: solid 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 1em;
+    margin-bottom: 2em
+    }
+p {
+    margin-top: 0.2em;
+    text-align: justify;
+    margin-bottom: 0;
+    text-indent: 1.5em
+    }
+.pn {
+    margin-top: 0.2em;
+    text-align: justify;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.pn05 {
+    margin-top: 0.2em;
+    text-align: justify;
+    margin-left: 5%;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.pn20 {
+    margin-top: 0.2em;
+    text-align: justify;
+    margin-left: 20%;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.pn60 {
+    margin-top: 0.2em;
+    text-align: justify;
+    margin-left: 60%;
+    margin-bottom: 0;
+    text-indent: 0
+    }
+.ppr20 {
+    margin-top: 0;
+    text-align: left;
+    margin-bottom: 0;
+    margin-left: 20%;
+    font-size: 90%;
+    text-indent: 0
+    }
+.ppn20 {
+    margin-top: 0.2em;
+    text-align: left;
+    margin-bottom: 0;
+    margin-left: 20%;
+    font-size: 90%;
+    text-indent: 0
+    }
+.ppn25 {
+    margin-top: 0.2em;
+    text-align: left;
+    margin-bottom: 0;
+    margin-left: 25%;
+    font-size: 90%;
+    text-indent: 0
+    }
+.ppn40 {
+    margin-top: 0.2em;
+    text-align: left;
+    margin-bottom: 0;
+    margin-left: 40%;
+    font-size: 90%;
+    text-indent: 0
+    }
+.pfn {
+    margin-top: 0.5em;
+    text-align: justify;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 5%;
+    margin-right: 5%
+    }
+.ptn {
+    margin-top: 0.3em;
+    text-align: justify;
+    margin-bottom: 0;
+    text-indent: -1em;
+    margin-left: 2%
+    }
+.p1 {
+    margin-top: 1em
+    }
+.p2 {
+    margin-top: 2em
+    }
+.p4 {
+    margin-top: 4em
+    }
+.b1 {
+    margin-bottom: 1em
+    }
+.b4 {
+    margin-bottom: 4em
+    }
+.small {
+    font-size: 75%
+    }
+.reduct {
+    font-size: 90%
+    }
+.lmid {
+    font-size: 110%
+    }
+.mid {
+    font-size: 125%
+    }
+.large {
+    font-size: 150%
+    }
+.elarge {
+    font-size: 175%
+    }
+.xlarge {
+    font-size: 200%
+    }
+hr {
+    width: 33%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 33.5%;
+    margin-right: 33.5%;
+    clear: both
+    }
+hr.chap {
+    width: 65%;
+    margin-left: 17.5%;
+    margin-right: 17.5%
+    }
+hr.dec1 {
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 1em;
+    margin-bottom: 0.8em
+    }
+hr.dec2 {
+    width: 10%;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 0.5em;
+    margin-bottom: 0.3em
+    }
+hr.dec3 {
+    width: 10%;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 4em;
+    margin-bottom: 0.3em
+    }
+hr.dec4 {
+    width: 10%;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 0.5em;
+    margin-bottom: 4em
+    }
+table {
+    margin-left: auto;
+    margin-right: auto
+    }
+.tdi {
+    text-align: justify;
+    margin-left: 2em;
+    text-indent: -2em;
+    vertical-align: top
+    }
+.tdrl {
+    text-align: right;
+    vertical-align: bottom
+    }
+#toc1 {
+    width: 80%;
+    line-height: 1em;
+    margin-top: 1em
+    }
+.pagenum {
+    /* visibility: hidden; */
+    font-size: smaller;
+    text-align: right;
+    text-indent: 0;
+    font-style: normal;
+    font-weight: normal
+    }
+.center {
+    text-align: center
+    }
+.smcap {
+    font-variant: small-caps
+    }
+.figcenter {
+    margin: auto;
+    text-align: center
+    }
+.footnotes {
+    border: dashed 1px
+    }
+.footnote {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 0.9em
+    }
+.footnote .label {
+    text-align: right
+    }
+.fnanchor {
+    vertical-align: super;
+    font-size: 0.8em;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal
+    }
+/* Transcriber's notes */
+.transnote {
+    background-color: #E6E6FA;
+    color: black;
+    font-size: smaller;
+    padding: 0.5em;
+    margin-bottom: 5em;
+    font-family: sans-serif, serif
+    }
+/**/

@@ -1,0 +1,298 @@
+/**/
+body {
+    margin-left: 15%;
+    margin-right: 15%
+    }
+p {
+    text-align: justify;
+    text-indent: 1.5em;
+    margin-top: 0.75em;
+    margin-bottom: 0.75em
+    }
+/* headings centered */
+h1, h2 {
+    text-align: center
+    }
+h1 {
+    font-size: 2.5em;
+    margin-top: 1.5em;
+    margin-bottom: 2em
+    }
+.small50 {
+    text-align: center;
+    text-indent: 0;
+    font-size: 50%
+    }
+.small70 {
+    text-align: center;
+    text-indent: 0;
+    font-size: 70%
+    }
+h2 {
+    font-size: 2.4em;
+    font-weight: lighter;
+    letter-spacing: 0.1em;
+    word-spacing: 0.4em;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em
+    }
+.h2line2 {
+    font-size: 0.5em;
+    font-weight: lighter;
+    letter-spacing: 0.06em;
+    word-spacing: 0.2em
+    }
+.h2line3 {
+    font-size: 0.4em;
+    font-weight: lighter;
+    letter-spacing: 0.06em
+    }
+/* lines */
+hr.full {
+    width: 100%;
+    margin: 5em auto 5em auto;
+    height: 0.25em;
+    border-width: 0.25em 0 0 0;
+    border-style: solid;
+    border-color: #000;
+    clear: both
+    }
+hr.small {
+    margin: 4em 35% 4em 35%;
+    border-color: #A9A9A9;
+    border-style: solid;
+    clear: both
+    }
+hr.small2 {
+    margin: 2em 45% 2em 45%;
+    border-color: #000;
+    border-style: solid;
+    clear: both
+    }
+hr.small3 {
+    margin: -2em 45% 2em 45%;
+    border-color: #000;
+    border-style: solid;
+    clear: both
+    }
+hr.small5 {
+    margin: 1em 46% 2em 46%;
+    border-color: #000;
+    border-style: solid;
+    clear: both
+    }
+hr.small6 {
+    margin: 1em 48% 2em 48%;
+    border-color: #000;
+    border-style: solid;
+    clear: both
+    }
+/* titre*/
+.titlepage {
+    text-align: center;
+    page-break-before: always;
+    page-break-after: always
+    }
+.title1 {
+    font-size: 0.8em;
+    text-align: center;
+    text-indent: 0
+    }
+.title2 {
+    font-size: 1.3em;
+    text-align: center;
+    text-indent: 0;
+    letter-spacing: 0.12em;
+    word-spacing: 0.3em
+    }
+.title3 {
+    font-size: 3em;
+    text-align: center;
+    text-indent: 0;
+    letter-spacing: 0.12em;
+    word-spacing: 0.2em;
+    margin-top: 0.6em;
+    margin-bottom: 0.75em
+    }
+.title4 {
+    font-size: 1.3em;
+    text-align: center;
+    text-indent: 0;
+    font-weight: bold
+    }
+.title5 {
+    font-size: 1.1em;
+    text-align: center;
+    text-indent: 0;
+    letter-spacing: 0.1em
+    }
+.title6 {
+    font-size: 0.95em;
+    text-align: center;
+    text-indent: 0
+    }
+.tirage {
+    font-size: 1.1em;
+    text-align: center;
+    text-indent: 0;
+    margin-top: 0.75em;
+    margin-bottom: 0.75em
+    }
+/* chapitres  et sous-chapitres */
+.chapter, .section {
+    page-break-before: always
+    }
+.souschapitre1 {
+    font-size: 1.6em;
+    text-align: center;
+    text-indent: 0;
+    letter-spacing: 0.05em;
+    word-spacing: 0.2em;
+    margin-top: 2em;
+    margin-bottom: 2em
+    }
+.souschapitre2 {
+    font-size: 1.4em;
+    text-align: center;
+    text-indent: 0;
+    margin-top: 2em;
+    margin-bottom: 2em
+    }
+/* codes de base */
+.smcap {
+    font-variant: small-caps;
+    font-size: 85%
+    }
+sup {
+    font-size: 80%;
+    vertical-align: 30%
+    }
+.big120 {
+    font-size: 120%
+    }
+.small70 {
+    font-size: 50%
+    }
+.small90 {
+    font-size: 90%
+    }
+.center {
+    text-align: center;
+    text-indent: 0
+    }
+.left {
+    text-align: left
+    }
+.br {
+    margin-top: 1.5em
+    }
+.noindent {
+    text-indent: 0
+    }
+.marginleft2 {
+    text-align: left;
+    margin-left: 2em
+    }
+.marginleft4 {
+    text-align: left;
+    margin-left: 4em
+    }
+.margintop1 {
+    margin-top: 1em
+    }
+.marginright4 {
+    text-align: right;
+    margin-right: 4em
+    }
+.dottedline {
+    border-top: thin dotted black
+    }
+.quote {
+    margin: 1em 5%
+    }
+/* Plain dropcaps */
+.dropcap {
+    padding-right: 0.1em;
+    font-size: 350%;
+    line-height: 83%
+    }
+/* letters */
+.rdate {
+    text-align: right;
+    font-size: 0.9em;
+    margin-top: 1.5em;
+    margin-right: 2em
+    }
+.ldestinataire {
+    text-align: left;
+    margin-left: 2em
+    }
+.rsignature {
+    text-align: right;
+    margin-right: 2em
+    }
+/* poems */
+.cpoesie {
+    text-align: center
+    }
+.poem {
+    text-align: left;
+    display: inline-block;
+    margin-left: 10%;
+    margin-right: 10%
+    }
+/* images */
+img {
+    margin-left: auto;
+    margin-right: auto
+    }
+.figcenter2 {
+    text-align: center;
+    margin: 2em auto 2em auto
+    }
+/* page numbers */
+.pagenum {
+    font-size: 90%;
+    font-weight: normal;
+    font-style: normal;
+    text-align: right;
+    color: #C0C0C0;
+    background-color: inherit
+    }
+a {
+    color: #879bbb;
+    text-decoration: none
+    }
+.link {
+    font-size: 1em
+    }
+/* note au lecteur */
+.fontnote, .fontnote2 {
+    font-family: sans-serif;
+    margin-left: 10%;
+    margin-right: 10%
+    }
+/* correction popup */
+ins.correction {
+    text-decoration: none;
+    border-bottom: thin dotted silver
+    }
+/* e-readers */
+@media all {
+    body {
+        width: 90%
+        }
+    .titlepage {
+        page-break-before: always;
+        page-break-after: always;
+        border: thin solid;
+        border-color: #000
+        }
+    .dropcap {
+        float: left
+        }
+    .fontnote2 {
+        display: none
+        }
+    }
+/**/
