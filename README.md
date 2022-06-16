@@ -47,10 +47,8 @@ For descriptions we recommend using https://onlinestringtools.com/escape-string 
 
 In order for a book to be marked as "verified" in the metadata file, it must meet the following criteria:
 
-1. Clicking through the book using the shared left/right buttons must always land you on the same page in both books. This means that if you press the right arrow on your keyboard three times and hit chapter 1 in the English version, you should hit chapter 1 in the foreign version as well.
-2. The table of contents must be very close to identical; any structure or indents in one should be replicated in the other.
-3. Any extra fluff should be removed. Corresponding pages should be close to identical on both sides in terms of content.
-4. There should be no font-family, font-size, or line-height CSS tags applied to the main body text: it should appear as Times New Roman.
-5. All verified books should have Langduet title pages; premade ones for various sources can be found at the [verified-titlepages](https://github.com/langduet/verified-titlepages) repo. Each of these is just a simple .xhtml file with no dependencies; you can just paste it into an existing titlepage to replace it and then edit the title and author text.
-
-Additionally, if you modify an Epub, make sure to add `Langduet, ` to the `[english/foreign]_source` metadata entry.
+1. Clicking through the book using the shared left/right buttons must always land you on the same page in both books. This means that if you press the right arrow on your keyboard three times and hit chapter 1 in the English version, you should hit chapter 1 in the foreign version as well. [Calibre's](https://calibre-ebook.com/) built in ebook editor is great for accomplishing this. There's a "split page" button at the bottom of the preview pane, and dropping an `.html` or `.xhtml` file on top of another one in the file browser merges them.
+3. The table of contents must be very close to identical; any structure or indents in one should be replicated in the other.
+4. Any extra fluff should be removed. Corresponding pages should be close to identical on both sides in terms of content.
+5. There should be no font-family, font-size, or line-height CSS tags applied to the main body text: it should appear as Times New Roman.
+6. All verified books should have Langduet title pages; premade ones for various sources can be found at the [verified-titlepages](https://github.com/langduet/verified-titlepages) repo. Each of these is just a simple .xhtml file with no dependencies; you can just paste it into an existing titlepage to replace it and then edit the title and author text.
