@@ -13,13 +13,9 @@ body {
  * set the indention, spacing, and leading for body paragraphs.
  * ********************************************************************** */
 p {
-    /* all paragraphs unless overridden */
-    margin-top: 1em;
     /* inter-paragraph space */
     margin-bottom: 0;
     /* use only top-margin for spacing */
-    line-height: 1.4em;
-    /* interline spacing ("leading") */
     }
 body > p {
     /* paras at <body> level - not in <div> or <table>  */
@@ -54,14 +50,19 @@ h2 {
 /* ************************************************************************
  * Head 3 is for main-topic heads.
  * ********************************************************************** */
-h3 {
-    /* text-align:center;  left-aligned by default. */
-    margin-top: 2em;
-    /* extra space above but not below */
+
+h1, h2, h3, h4, h5 {
+    text-align: center;
+    font-style: normal;
     font-weight: normal;
-    /* override default of bold */
-    clear: both;
-    /* don't let sidebars overlap */
+    line-height: 1.5;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em
+    }
+h3 {
+    font-size: 130%;
+    margin-top: 1em;
+    margin-bottom: 2em;
     }
 /* ************************************************************************
  * Styling the default HR and some special-purpose ones.
@@ -89,3 +90,8 @@ img {
     /* a thin black line border.. */
     /* ..spaced a bit out from the graphic */
     }
+    
+.footnote {
+  font-style: italic;
+  color: darkgray;
+}

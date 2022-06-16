@@ -1,11 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
-
-<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
   <head>
     <meta name="dtb:uid" content="http://www.gutenberg.org/1995"/>
     <meta name="dtb:depth" content="2"/>
-    <meta name="dtb:generator" content="Ebookmaker 0.11.30 by Project Gutenberg"/>
+    <meta name="dtb:generator" content="calibre (5.35.0)"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
@@ -13,41 +11,221 @@
     <text>The Divine Comedy, Volume 1, Hell</text>
   </docTitle>
   <navMap>
-    <navPoint id="np-1" playOrder="1">
+    <navPoint id="num_1" playOrder="1">
       <navLabel>
-        <text>HELL</text>
+        <text>Titlepage</text>
       </navLabel>
-      <content src="7397502361032331232_1995-0.txt.html#id00058"/>
-      <navPoint id="np-2" playOrder="2">
-        <navLabel>
-          <text>CAMBRIDGE, MASSACHUSETTS,</text>
-        </navLabel>
-        <content src="7397502361032331232_1995-0.txt.html#id00065"/>
-      </navPoint>
+      <content src="7397502361032331232_1995-0.txt_split1.html"/>
     </navPoint>
-    <navPoint id="np-3" playOrder="3">
+    <navPoint id="num_2" playOrder="2">
       <navLabel>
-        <text>CONTENTS</text>
+        <text>Canto I</text>
       </navLabel>
-      <content src="7397502361032331232_1995-0.txt.html#id00068"/>
-      <navPoint id="np-4" playOrder="4">
-        <navLabel>
-          <text>INTRODUCTION.</text>
-        </navLabel>
-        <content src="7397502361032331232_1995-0.txt.html#id00103"/>
-      </navPoint>
-      <navPoint id="np-5" playOrder="5">
-        <navLabel>
-          <text>AIDS TO THE STUDY OF THE DIVINE COMEDY.</text>
-        </navLabel>
-        <content src="7397502361032331232_1995-0.txt.html#id00124"/>
-      </navPoint>
-      <navPoint id="np-6" playOrder="6">
-        <navLabel>
-          <text>HELL.</text>
-        </navLabel>
-        <content src="7397502361032331232_1995-0.txt.html#id00132"/>
-      </navPoint>
+      <content src="7397502361032331232_1995-0.txt_split2.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Canto II</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-0.txt_split3.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Canto III</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-0.txt_split4.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Canto IV</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-0.txt_split5.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Canto V</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-0.txt_split6.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Canto VI</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-1.txt_split1.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Canto VII</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-1.txt_split2.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>Canto VIII</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-1.txt_split3.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Canto IX</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-1.txt_split4.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>Canto X</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-1.txt_split5.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>Canto XI</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-1.txt_split6.html"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>Canto XII</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-1.txt_split7.html"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>Canto XIII</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-1.txt_split8.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>Canto XIV</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-1.txt_split9.html"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>Canto XV</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-1.txt_split10.html"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>Canto XVI</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-1.txt_split11.html"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>Canto XVII</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-2.txt_split1.html"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>Canto XVIII</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-2.txt_split2.html"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>Canto XIX</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-2.txt_split3.html"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>Canto XX</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-2.txt_split4.html"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>Canto XXI</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-2.txt_split5.html"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>Canto XXII</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-2.txt_split6.html"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>Canto XXIII</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-2.txt_split7.html"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>Canto XXIV</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-2.txt_split8.html"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>Canto XXV</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-2.txt_split9.html"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>Canto XXVI</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-2.txt_split10.html"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>Canto XXVII</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-3.txt_split1.html"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>Canto XXVIII</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-3.txt_split2.html"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>Canto XXIX</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-3.txt_split3.html"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>Canto XXX</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-3.txt_split4.html"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>Canto XXXI</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-3.txt_split5.html"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>Canto XXXII</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-3.txt_split6.html"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>Canto XXXIII</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-3.txt_split7.html"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>Canto XXXIV</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-3.txt_split8.html"/>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36">
+      <navLabel>
+        <text>License</text>
+      </navLabel>
+      <content src="7397502361032331232_1995-0.txt.html"/>
     </navPoint>
   </navMap>
 </ncx>

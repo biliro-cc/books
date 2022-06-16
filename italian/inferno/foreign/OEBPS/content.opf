@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-
+<?xml version='1.0' encoding='utf-8'?>
 <package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
   <metadata>
     <dc:rights>Public domain in the USA.</dc:rights>
@@ -24,7 +23,6 @@
     <!--Chunk: size=7236 Split on div.chapter-->
     <item href="3217701335087784739_997-h-0.htm.html" id="item5" media-type="application/xhtml+xml"/>
     <!--Chunk: size=795 Split on div.chapter-->
-    <item href="3217701335087784739_997-h-1.htm.html" id="item6" media-type="application/xhtml+xml"/>
     <!--Chunk: size=6823 Split on div.chapter-->
     <item href="3217701335087784739_997-h-2.htm.html" id="item7" media-type="application/xhtml+xml"/>
     <!--Chunk: size=7122 Split on div.chapter-->
@@ -95,11 +93,11 @@
     <item href="3217701335087784739_997-h-35.htm.html" id="item40" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
     <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+    <item id="id1" href="3217701335087784739_997-h-35.htm_split1.html" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="coverpage-wrapper" linear="yes"/>
     <itemref idref="item5" linear="yes"/>
-    <itemref idref="item6" linear="yes"/>
     <itemref idref="item7" linear="yes"/>
     <itemref idref="item8" linear="yes"/>
     <itemref idref="item9" linear="yes"/>
@@ -134,6 +132,7 @@
     <itemref idref="item38" linear="yes"/>
     <itemref idref="item39" linear="yes"/>
     <itemref idref="item40" linear="yes"/>
+    <itemref idref="id1"/>
   </spine>
   <guide>
     <reference type="toc" title="Contents" href="3217701335087784739_997-h-0.htm.html#pgepubid00003"/>

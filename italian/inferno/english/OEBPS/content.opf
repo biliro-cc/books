@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-
+<?xml version='1.0' encoding='utf-8'?>
 <package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
   <metadata>
     <dc:rights>Public domain in the USA.</dc:rights>
@@ -24,23 +23,87 @@
     <!--Chunk: size=82375 Split on p-->
     <item href="7397502361032331232_1995-0.txt.html" id="id00000" media-type="application/xhtml+xml"/>
     <!--Chunk: size=82039 Split on p-->
-    <item href="7397502361032331232_1995-1.txt.html" id="id00195" media-type="application/xhtml+xml"/>
     <!--Chunk: size=82267 Split on p-->
-    <item href="7397502361032331232_1995-2.txt.html" id="id00395" media-type="application/xhtml+xml"/>
     <!--Chunk: size=79582-->
-    <item href="7397502361032331232_1995-3.txt.html" id="id00583" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
     <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+    <item id="id1" href="7397502361032331232_1995-0.txt_split1.html" media-type="application/xhtml+xml"/>
+    <item id="id2" href="7397502361032331232_1995-0.txt_split2.html" media-type="application/xhtml+xml"/>
+    <item id="id3" href="7397502361032331232_1995-0.txt_split3.html" media-type="application/xhtml+xml"/>
+    <item id="id4" href="7397502361032331232_1995-0.txt_split4.html" media-type="application/xhtml+xml"/>
+    <item id="id5" href="7397502361032331232_1995-0.txt_split5.html" media-type="application/xhtml+xml"/>
+    <item id="id6" href="7397502361032331232_1995-0.txt_split6.html" media-type="application/xhtml+xml"/>
+    <item id="id7" href="7397502361032331232_1995-1.txt_split1.html" media-type="application/xhtml+xml"/>
+    <item id="id8" href="7397502361032331232_1995-1.txt_split2.html" media-type="application/xhtml+xml"/>
+    <item id="id9" href="7397502361032331232_1995-1.txt_split3.html" media-type="application/xhtml+xml"/>
+    <item id="id10" href="7397502361032331232_1995-1.txt_split4.html" media-type="application/xhtml+xml"/>
+    <item id="id11" href="7397502361032331232_1995-1.txt_split5.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="7397502361032331232_1995-1.txt_split6.html" media-type="application/xhtml+xml"/>
+    <item id="id13" href="7397502361032331232_1995-1.txt_split7.html" media-type="application/xhtml+xml"/>
+    <item id="id14" href="7397502361032331232_1995-1.txt_split8.html" media-type="application/xhtml+xml"/>
+    <item id="id15" href="7397502361032331232_1995-1.txt_split9.html" media-type="application/xhtml+xml"/>
+    <item id="id16" href="7397502361032331232_1995-1.txt_split10.html" media-type="application/xhtml+xml"/>
+    <item id="id17" href="7397502361032331232_1995-1.txt_split11.html" media-type="application/xhtml+xml"/>
+    <item id="id18" href="7397502361032331232_1995-2.txt_split1.html" media-type="application/xhtml+xml"/>
+    <item id="id19" href="7397502361032331232_1995-2.txt_split2.html" media-type="application/xhtml+xml"/>
+    <item id="id20" href="7397502361032331232_1995-2.txt_split3.html" media-type="application/xhtml+xml"/>
+    <item id="id21" href="7397502361032331232_1995-2.txt_split4.html" media-type="application/xhtml+xml"/>
+    <item id="id22" href="7397502361032331232_1995-2.txt_split5.html" media-type="application/xhtml+xml"/>
+    <item id="id23" href="7397502361032331232_1995-2.txt_split6.html" media-type="application/xhtml+xml"/>
+    <item id="id24" href="7397502361032331232_1995-2.txt_split7.html" media-type="application/xhtml+xml"/>
+    <item id="id25" href="7397502361032331232_1995-2.txt_split8.html" media-type="application/xhtml+xml"/>
+    <item id="id26" href="7397502361032331232_1995-2.txt_split9.html" media-type="application/xhtml+xml"/>
+    <item id="id27" href="7397502361032331232_1995-2.txt_split10.html" media-type="application/xhtml+xml"/>
+    <item id="id28" href="7397502361032331232_1995-3.txt_split1.html" media-type="application/xhtml+xml"/>
+    <item id="id29" href="7397502361032331232_1995-3.txt_split2.html" media-type="application/xhtml+xml"/>
+    <item id="id30" href="7397502361032331232_1995-3.txt_split3.html" media-type="application/xhtml+xml"/>
+    <item id="id31" href="7397502361032331232_1995-3.txt_split4.html" media-type="application/xhtml+xml"/>
+    <item id="id32" href="7397502361032331232_1995-3.txt_split5.html" media-type="application/xhtml+xml"/>
+    <item id="id33" href="7397502361032331232_1995-3.txt_split6.html" media-type="application/xhtml+xml"/>
+    <item id="id34" href="7397502361032331232_1995-3.txt_split7.html" media-type="application/xhtml+xml"/>
+    <item id="id35" href="7397502361032331232_1995-3.txt_split8.html" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
-    <itemref idref="coverpage-wrapper" linear="yes"/>
-    <itemref idref="id00000" linear="yes"/>
-    <itemref idref="id00195" linear="yes"/>
-    <itemref idref="id00395" linear="yes"/>
-    <itemref idref="id00583" linear="yes"/>
+    <itemref idref="coverpage-wrapper"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id00000"/>
   </spine>
   <guide>
-    <reference type="toc" title="CONTENTS" href="7397502361032331232_1995-0.txt.html#id00068"/>
+    <reference type="toc" title="CONTENTS" href="7397502361032331232_1995-0.txt_split1.html#id00068"/>
     <reference type="cover" title="Cover" href="wrap0000.html"/>
   </guide>
 </package>
