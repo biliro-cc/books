@@ -7,11 +7,30 @@ body, body.tei.tei-text {
     border: 0;
     padding: 0
     }
-div, p, pre, h1, h2, h3, h4, h5, h6 {
-    margin-left: 0;
-    margin-right: 0;
-    display: block
-    }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hgroup{
+	break-after: avoid;	
+	page-break-after: avoid;
+	break-inside: avoid;	
+	page-break-inside: avoid;
+	font-variant: small-caps;
+	hyphens: none;
+	adobe-text-layout: optimizeSpeed; /* For Nook */
+	adobe-hyphenate: none;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-epub-hyphens: none;
+	margin-top: 3em;
+	margin-right: 0;
+	margin-bottom: 3em;
+	margin-left: 0;
+	text-align: center;
+}
 div.pgebub-root-div {
     margin: 0
     }
@@ -29,3 +48,12 @@ div.figcenter span.caption {
 a.pgkilled {
     text-decoration: none
     }
+    
+.dedication {
+    margin-top: 25%;
+    margin-right: auto;
+    margin-bottom: 25%;
+    margin-left: auto;
+    text-align: center;
+    text-indent: 0;
+}

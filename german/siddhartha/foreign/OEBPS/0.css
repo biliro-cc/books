@@ -18,8 +18,6 @@ p {
     /* inter-paragraph space */
     margin-bottom: 0;
     /* use only top-margin for spacing */
-    line-height: 1.4em;
-    /* interline spacing ("leading") */
     }
 body > p {
     /* paras at <body> level - not in <div> or <table>  */
@@ -58,7 +56,6 @@ h3 {
     /* text-align:center;  left-aligned by default. */
     margin-top: 2em;
     /* extra space above but not below */
-    font-weight: normal;
     /* override default of bold */
     clear: both;
     /* don't let sidebars overlap */
