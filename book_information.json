@@ -9,7 +9,7 @@
         "translator": "Bigelow, Smith & Co.",
         "english_source": "Gutenberg",
         "foreign_source": "Gutenberg",
-        "verified": false,
+        "verified": true,
         "description": "",
         "last_commit": "52b72d073582392aa48f61927a36e2e17a458956",
         "last_commit_time": "2022-06-14T20:08:51.000Z",

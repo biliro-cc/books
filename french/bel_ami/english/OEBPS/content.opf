@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-
+<?xml version='1.0' encoding='utf-8'?>
 <package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
   <metadata>
     <dc:rights>Public domain in the USA.</dc:rights>
@@ -47,18 +46,38 @@
     <item href="259452526510958791_33928-h-9.htm.html" id="item14" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
     <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+    <item id="id1" href="259452526510958791_33928-h-0.htm_split1.html" media-type="application/xhtml+xml"/>
+    <item id="id2" href="259452526510958791_33928-h-0.htm_split2.html" media-type="application/xhtml+xml"/>
+    <item id="id3" href="259452526510958791_33928-h-0.htm_split3.html" media-type="application/xhtml+xml"/>
+    <item id="id4" href="259452526510958791_33928-h-1.htm_split1.html" media-type="application/xhtml+xml"/>
+    <item id="id5" href="259452526510958791_33928-h-4.htm_split1.html" media-type="application/xhtml+xml"/>
+    <item id="id6" href="259452526510958791_33928-h-5.htm_split1.html" media-type="application/xhtml+xml"/>
+    <item id="id7" href="259452526510958791_33928-h-6.htm_split1.html" media-type="application/xhtml+xml"/>
+    <item id="id8" href="259452526510958791_33928-h-7.htm_split1.html" media-type="application/xhtml+xml"/>
+    <item id="id9" href="259452526510958791_33928-h-7.htm_split2.html" media-type="application/xhtml+xml"/>
+    <item id="id10" href="259452526510958791_33928-h-8.htm_split1.html" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="coverpage-wrapper" linear="yes"/>
     <itemref idref="item5" linear="yes"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
     <itemref idref="item6" linear="yes"/>
+    <itemref idref="id4"/>
     <itemref idref="item7" linear="yes"/>
     <itemref idref="item8" linear="yes"/>
     <itemref idref="item9" linear="yes"/>
+    <itemref idref="id5"/>
     <itemref idref="item10" linear="yes"/>
+    <itemref idref="id6"/>
     <itemref idref="item11" linear="yes"/>
+    <itemref idref="id7"/>
     <itemref idref="item12" linear="yes"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
     <itemref idref="item13" linear="yes"/>
+    <itemref idref="id10"/>
     <itemref idref="item14" linear="yes"/>
   </spine>
   <guide>
